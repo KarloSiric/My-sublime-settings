@@ -1,0 +1,32 @@
+{
+        "build_systems": [
+        {
+            "name": "Debug Build Program1",
+            "cmd": [
+                "clang",
+                "-Wall",
+                "-pedantic",
+                "-g",
+                "-std=c17",
+                "-o",
+                "./C_Euler_Project/Program1",
+                "./C_Euler_Project/Program1.c"
+            ],
+            "working_dir": "${folder}",
+        },
+        {
+            "name": "Debug Build Program2",
+            "cmd": [
+                "clang",
+                "-Wall",
+                "-pedantic",
+                "-g",
+                "-std=c17",
+                "-o",
+                "./C_Euler_Project/Program2",
+                "./C_Euler_Project/Program2.c"
+            ],
+            "working_dir": "${folder}",
+        },
+    ],
+}

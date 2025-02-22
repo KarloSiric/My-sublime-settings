@@ -1,0 +1,38 @@
+{
+  // "target": "terminus_exec",
+  // "cancel": "terminus_cancel_build",
+  // "auto_close": false,
+  // "focus": true,
+  // "timeit": true,
+  "target": "terminus_open",
+  "shell_cmd": "sleep 20 && ls",
+  "title": "Terminus Build Results",
+  "auto_close": false,
+  "timeit": true,
+  "post_window_hooks": [ ["carry_file_to_pane", {"direction": "right"}] ],
+  "shell_cmd": "clang -std=c18 -Wall -Wno-newline-eof -Wno-comment -pedantic -g -o \"${file_path}/${file_base_name}\" \"${file}\" && \"${file_path}/${file_base_name}\"",
+     "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+     "working_dir": "${file_path}",
+     "selector": "source.c",
+     "variants":
+     [
+      
+       {
+         "name": "Run",
+        "shell_cmd": "clang -std=c18 -Wall -Wno-newline-eof -Wno-comment -pedantic -g -o \"${file_path}/${file_base_name}\" \"${file}\" && \"${file_path}/${file_base_name}\""
+       }
+     ]
+    }
+  /*   
+    {
+    "target": "terminus_open",
+
+    "shell_cmd": "sleep 20 && ls",
+
+    "title": "Terminus Build Results",
+    "auto_close": false,
+    "timeit": true,
+
+    "post_window_hooks": [ ["carry_file_to_pane", {"direction": "left"}] ],
+}
+*/

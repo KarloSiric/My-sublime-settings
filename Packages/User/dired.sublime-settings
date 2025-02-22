@@ -1,0 +1,136 @@
+{
+  // Core navigation settings
+  "dired_show_parent": true,
+  "dired_header": true,
+  "dired_show_full_path": true,
+  "dired_width": 0.22,
+  "dired_smart_jump": true,
+
+  "vcs_color_blind": false,
+  
+  // File visibility settings
+  "dired_show_hidden_files": true,
+  "dired_hidden_files_patterns": [
+    ".*",
+    "__pycache__",
+    "*.pyc",
+    "node_modules",
+    ".git",
+    ".DS_Store",
+    ".cache"
+    ],
+  
+  // View behavior
+  "dired_reuse_view": true,
+  "dired_open_on_jump": "left",
+  "dired_autorefresh": true,
+  
+  // Git integration
+  "git_path": "git",
+  
+  // Visual settings
+  "line_numbers": false,
+  "word_wrap": false,
+  "spell_check": false,
+  "highlight_line": true,
+  "margin": 10,
+  "tab_size": 2,
+  "line_padding_top": 3,
+  "line_padding_bottom": 3,
+  
+  // Caret and selection settings
+  "caret_style": "solid",
+  "caret_extra_width": 7,
+  "caret_extra_top": 0,
+  "caret_extra_bottom": 0,
+  "highlight_modified_tabs": true,
+  "wide_caret": false,
+  
+  // Font settings
+  "font_size": 13,
+  // "font_face": "LiterationMono Nerd Font",
+  "font_face": "Hack Nerd Font",
+  "font_options": ["gray_antialias", "subpixel_antialias", "no_round",],
+  // "font_options": ["gray_antialias"],
+  "translate_tabs_to_spaces": true,
+  "rules": [
+        {
+            "class": "sidebar_tree",
+            "row_padding": [8, 3],
+            "indent": 12,
+            "indent_offset": 0,
+            "indent_top_level": false,
+            "dark_content": true,
+        },
+        {
+            "class": "icon_file_type",
+            "layer0.opacity": 0.6,
+            "content_margin": [8, 8],
+        },
+        {
+            "class": "icon_folder",
+            "layer0.tint": "#6082B6",
+            "layer0.opacity": 1.0,
+            "content_margin": [8, 8],
+        },
+        {
+            "class": "icon_folder_loading",
+            "layer0.tint": "#FFC300",
+            "layer0.opacity": 1.0,
+        },
+        {
+            "class": "icon_folder_open",
+            "layer0.tint": "#28A745",
+            "layer0.opacity": 1.0,
+        },
+        {
+            "class": "dired_label",
+            "parents": [{"class": "tree_row", "attributes": ["hover"],}],
+            "color": "#6082B6",
+        }
+    ],
+  
+  // Editor appearance
+  "fade_fold_buttons": false,
+  "bold_folder_labels": true,
+  "highlight_gutter": true,
+  "rulers": [80, 100],
+  "indent_guide_options": ["draw_normal", "draw_active"],
+  
+  // Performance settings
+  "scroll_past_end": false,
+  "draw_indent_guides": true,
+  "fold_buttons": true,
+  "drag_text": true,
+  
+  // Safety settings
+  "dired_confirm_send2trash": true,
+  
+  // Additional visual enhancements
+  "show_encoding": true,
+  "show_line_endings": true,
+  "trim_trailing_white_space_on_save": true,
+  "ensure_newline_at_eof_on_save": true,
+
+  "show_file_icons": true,
+  "show_folder_icons": true,
+
+  // "syntax_file": "Packages/User/dired.sublime-syntax",
+  // "color_scheme": "Packages/User/FileBrowser-OneDark.sublime-color-scheme",
+
+    
+    // "color_scheme": "Packages/User/FileBrowser-OneDark.tmTheme",
+
+
+    
+    "spacing": 1,
+    "grouping": true,
+    "group_folders_first": true,
+    "show_hidden_files": false,
+    "dired_to_copy":
+    [
+    ],
+    "dired_to_move":
+    [
+    ],
+}

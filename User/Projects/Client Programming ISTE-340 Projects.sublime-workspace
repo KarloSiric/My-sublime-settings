@@ -1,0 +1,1595 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"handle",
+				"handleInputChange"
+			],
+			[
+				"pro",
+				"Programming"
+			],
+			[
+				"Vinyl",
+				"VinylView"
+			],
+			[
+				"ANimal",
+				"AnimalModel"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"flex",
+				"flexbox"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"order",
+				"order_background4.jpg"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"2",
+				"order_image2.jpg"
+			],
+			[
+				"ar",
+				"armstrong_image.webp"
+			],
+			[
+				"violet",
+				"mediumvioletred"
+			],
+			[
+				"vioelt",
+				"blueviolet"
+			],
+			[
+				"blue",
+				"royalblue"
+			],
+			[
+				"pink",
+				"lightpink"
+			],
+			[
+				"ind",
+				"indigo"
+			],
+			[
+				"cahr",
+				"chartreuse"
+			],
+			[
+				"darkg",
+				"darkgray"
+			],
+			[
+				"grey",
+				"slategrey"
+			],
+			[
+				"image",
+				"image4.jpg"
+			],
+			[
+				"im",
+				"image2.jpg"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"5",
+				"h5"
+			],
+			[
+				"s",
+				"sy\tsynchronized"
+			],
+			[
+				"array",
+				"array2"
+			],
+			[
+				"grade",
+				"grades2"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"ran",
+				"randomValue"
+			],
+			[
+				"rand",
+				"randomIntegers"
+			],
+			[
+				"random",
+				"randomIntegers"
+			],
+			[
+				"clock_get",
+				"clock_gettime"
+			],
+			[
+				"time",
+				"time_t"
+			],
+			[
+				"srad",
+				"srand"
+			],
+			[
+				"inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"char",
+				"char"
+			],
+			[
+				"pr",
+				"problem"
+			],
+			[
+				"int",
+				"int16_t"
+			],
+			[
+				"sq",
+				"squareRoot"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"sc",
+				"SCNd64"
+			],
+			[
+				"tota",
+				"total_numbers"
+			],
+			[
+				"total",
+				"total_numbers"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"scanf",
+				"scanf"
+			],
+			[
+				"pritf",
+				"printf\tprintf …"
+			],
+			[
+				"stdlib",
+				"stdlib.h>"
+			],
+			[
+				"stdio",
+				"stdio.h>"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"sum",
+				"sumValue"
+			],
+			[
+				"count",
+				"countLen"
+			],
+			[
+				"string",
+				"string2"
+			],
+			[
+				"math",
+				"math.h"
+			],
+			[
+				"stdbool",
+				"stdbool.h>"
+			],
+			[
+				"input",
+				"inputString"
+			],
+			[
+				"stringOf",
+				"stringOfChar"
+			],
+			[
+				"error",
+				"error_backref"
+			],
+			[
+				"wind",
+				"windows.h>"
+			],
+			[
+				"windows",
+				"windows.h>"
+			],
+			[
+				"windo",
+				"windows.h>"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"d",
+				"d\", &a);"
+			],
+			[
+				"printf",
+				"printf"
+			],
+			[
+				"get",
+				"getA()"
+			],
+			[
+				"Sys",
+				"System.out.println"
+			],
+			[
+				"Main",
+				"Main"
+			],
+			[
+				"scan",
+				"scanNumber()"
+			],
+			[
+				"std",
+				"stdarg"
+			],
+			[
+				"sca",
+				"scanf(\"%d"
+			],
+			[
+				"m",
+				"myDouble"
+			],
+			[
+				"h",
+				"stringlist.h>"
+			],
+			[
+				"float",
+				"float name"
+			],
+			[
+				"name",
+				"name: %"
+			],
+			[
+				"Enter",
+				"Enter name:"
+			],
+			[
+				"ch",
+				"char"
+			],
+			[
+				"inclu",
+				"include <string.h>"
+			],
+			[
+				"ever",
+				"everyone!\\n\");"
+			],
+			[
+				"st",
+				"stpcpy"
+			],
+			[
+				"stdl",
+				"stdlib.h>"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"Hello",
+				"Hello, world!\");"
+			],
+			[
+				"writ",
+				"write"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"function",
+				"Function"
+			],
+			[
+				"console",
+				"crossOriginIsolated"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ech",
+				"PCNTL_ECHILD"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"log",
+				"timeLog"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"back",
+				"backdrop-filter"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"t",
+				"test123.js"
+			],
+			[
+				"color",
+				"color-scheme"
+			],
+			[
+				"innerHTML",
+				"innerHTML = \"Hello World"
+			],
+			[
+				"valid",
+				"valid email address or"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"Hi",
+				"highlight_string"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"p",
+				"plum"
+			],
+			[
+				"pur",
+				"paleturquoise"
+			],
+			[
+				"VIO",
+				"blueviolet"
+			],
+			[
+				"r",
+				"royalblue"
+			],
+			[
+				"bo",
+				"::before"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"Sca",
+				"Scanner;"
+			],
+			[
+				"out",
+				"out.println(\""
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Mydo",
+				"Mydouble: %f\\n\", my"
+			],
+			[
+				"snake",
+				"snakeCount"
+			],
+			[
+				"test",
+				"test for"
+			],
+			[
+				"fucker",
+				"fuckers\\"
+			],
+			[
+				"retur",
+				"return_temporary_buffer"
+			],
+			[
+				"stdi",
+				"stdint.h"
+			],
+			[
+				"f",
+				"fcntl.h>"
+			],
+			[
+				"include",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"chat c",
+				"Copilot: Chat"
+			],
+			[
+				"custom",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"settings",
+				"Preferences: FileBrowser Settings"
+			],
+			[
+				"color",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"filrbw",
+				"Preferences: FileBrowser Settings"
+			],
+			[
+				"filebrowser",
+				"Preferences: FileBrowser Settings"
+			],
+			[
+				"filebr",
+				"Preferences: FileBrowser Settings"
+			],
+			[
+				"start",
+				"Live Server Plus: Start"
+			],
+			[
+				"settings file",
+				"Preferences: FileBrowser Settings"
+			],
+			[
+				"left",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"lef",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"git s",
+				"git: status"
+			],
+			[
+				"prefe",
+				"Preferences: Key Bindings"
+			],
+			[
+				"keybidn",
+				"Preferences: Key Bindings"
+			],
+			[
+				"right",
+				"Browse Mode: Right Sidebar"
+			],
+			[
+				"stop",
+				"Live Server Plus: Stop"
+			],
+			[
+				"filebrow",
+				"Preferences: FileBrowser Settings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"filehea",
+				"FileHeader: Add Header"
+			],
+			[
+				"git pull",
+				"git: pull"
+			],
+			[
+				"lives",
+				"Live Server Plus: Start"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"live ",
+				"Live Server: Start"
+			],
+			[
+				"live ser",
+				"Live Server Plus: Start"
+			],
+			[
+				"live sere",
+				"Live Server Plus: Stop"
+			],
+			[
+				"live servre",
+				"Live Server Plus: Start"
+			],
+			[
+				"liveserver settings",
+				"Preferences: Live Server Settings"
+			],
+			[
+				"liveser",
+				"Preferences: Live Server Settings"
+			],
+			[
+				"live",
+				"Live Server: Start"
+			],
+			[
+				"new proj",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"edit pr",
+				"Project: Edit Project"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"file",
+				"FileHeader: Add Header"
+			],
+			[
+				"file head",
+				"FileHeader: Add Header"
+			],
+			[
+				"file heade",
+				"FileHeader: Add Header"
+			],
+			[
+				"git ",
+				"git: status"
+			],
+			[
+				"customize",
+				"UI: Customize Theme"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disable language",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"select color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"new project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"maven ",
+				"Maven: Kill running process"
+			],
+			[
+				"project open",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"insall",
+				"Debugger: Install Adapters"
+			],
+			[
+				"lsp true",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"star",
+				"Live Server: Start"
+			],
+			[
+				"file header",
+				"FileHeader: Add Header"
+			],
+			[
+				"htmk",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"distraci",
+				"View: Toggle Distraction Free"
+			],
+			[
+				"distracti",
+				"View: Toggle Distraction Free"
+			],
+			[
+				"prettier",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"doxy keybinds",
+				"Preferences: DoxyDoxygen Key Bindings"
+			],
+			[
+				"doxy keybind",
+				"Preferences: DoxyDoxygen Key Bindings"
+			],
+			[
+				"start ",
+				"Live Server: Start"
+			],
+			[
+				"show line",
+				"GitGutter: Show Line Annotation"
+			],
+			[
+				"gitsavv",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"gitgutt",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"cust",
+				"UI: Customize Theme"
+			],
+			[
+				"gitgutter se",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"git setting",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"savvy",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"git sa",
+				"GitSavvy: disable logging"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"doc",
+				"DoxyDoxygen: Build Documentation"
+			],
+			[
+				"emmet",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"live s",
+				"Live Server: Start"
+			],
+			[
+				"enable ",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"add pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"view ",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"javatar se",
+				"Javatar: Browse Commands..."
+			],
+			[
+				"j",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar",
+				"Javatar: Builds..."
+			],
+			[
+				"lsp ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"javatar ",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar new",
+				"Javatar: Create new..."
+			],
+			[
+				"javata",
+				"Javatar: Create new..."
+			],
+			[
+				"pieces",
+				"Pieces: About"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"new folder",
+				"File: New Folder"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"new fol",
+				"File: New Folder"
+			],
+			[
+				"java project",
+				"Project: Save As"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"open new ",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"new f",
+				"File: New Folder"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"wakati",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"sync settings",
+				"Sync Settings: Edit User Settings"
+			],
+			[
+				"run sync se",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"syntax C",
+				"Set Syntax: C"
+			],
+			[
+				"syntax jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"set syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"font ",
+				"Set Syntax: Font"
+			],
+			[
+				"git status",
+				"Set Syntax: Gruntfile JS"
+			],
+			[
+				"statusbar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"disa",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"copilot sett",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"clangd",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lsp trou",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"LSP",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"clang lsp",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"lsp clang",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"debugger set",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"setting ",
+				"Preferences: LSP Settings"
+			],
+			[
+				"clang format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"Theme",
+				"UI: Select Theme"
+			],
+			[
+				"FORMAT",
+				"Clang Format: Set Path"
+			],
+			[
+				"mode",
+				"Snippet: modeline"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"clear",
+				"Debugger: Clear Breakpoints"
+			],
+			[
+				"debugger stop",
+				"Debugger: Stop"
+			],
+			[
+				"debugg",
+				"Debugger: Open"
+			],
+			[
+				"debugger",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"print",
+				"PrintDebugger: Print Debug"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+			"clear",
+			"copilot",
+			"build",
+			"make",
+			"running",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/Controller",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/Model",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/View",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/styles"
+	],
+	"file_history":
+	[
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/common.py",
+		"/Users/karlosiric/Desktop/Screenshots/Screenshot 2024-11-25 at 12.08.36.png",
+		"/Users/karlosiric/Desktop/Screenshots/Screenshot 2024-11-26 at 14.05.17.png",
+		"/Users/karlosiric/Desktop/Screenshots/Screenshot 2024-11-25 at 11.54.41.png",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/index.html",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/images/aretha_image.jpg",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/App.js",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/script.js",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/FileBrowser.sublime-color-scheme",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/dired_file_operations.py",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/show.py",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/dired.py",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/dired.sublime-syntax",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/file_browser_icons.py",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/data/selectData.js",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/checkout.html",
+		"/Users/karlosiric/.cursor/extensions/anysphere.pyright-1.1.327-universal/package.json",
+		"/Users/karlosiric/.cursor/extensions/anysphere.pyright-1.1.327-universal/README.md",
+		"/Users/karlosiric/.config/github-copilot/hosts.json",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/dired.sublime-syntax",
+		"/Users/karlosiric/.config/htop/htoprc",
+		"/Users/karlosiric/.config/kitty/kitty.conf",
+		"/Users/karlosiric/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0/README.md",
+		"/Users/karlosiric/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0/themes/OneDark.json",
+		"/Users/karlosiric/.aider/caches/model_prices_and_context_window.json",
+		"/Users/karlosiric/.aider/caches/versioncheck",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/Model/VinylModel.js",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/Model/CheckoutModel.js",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Clang Format/clang_format.sublime-settings",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/messages/0.2.5.txt",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/assets/2253230706d2e706e67.png",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/0_dired_fs_observer.py",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/dired_sidebar 2.py",
+		"/Users/karlosiric/.config/kitty/kali-linux.conf",
+		"/Users/karlosiric/Documents/Books/Addison.Wesley.The.Mythical.Man-Month.Essays.on.Software.Engineering.20th.Anniversary.Edition.pdf",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/images/blackstar_limited1.webp",
+		"/Users/karlosiric/Desktop/Coding, programming advice tips/Screenshot 2024-10-26 at 11.17.59.png",
+		"/Users/karlosiric/Desktop/Coding, programming advice tips/Screenshot 2024-10-26 at 11.18.21.png",
+		"/Users/karlosiric/Desktop/Coding, programming advice tips/Screenshot 2024-10-26 at 11.18.38.png",
+		"/Users/karlosiric/Desktop/Coding, programming advice tips/Screenshot 2024-10-26 at 11.18.11.png",
+		"/Users/karlosiric/Desktop/FileBrowser/dependencies.json",
+		"/Users/karlosiric/Desktop/FileBrowser/0_dired_fs_observer.py",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/.DS_Store",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/styles/styleTest.css",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/styles/style.css",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/styles/checkoutStyle.css",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/Controller/CheckoutController.js",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/View/CheckoutView.js",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK.zip",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/dired-sidebar.py",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/Controller/VinylController.js",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/common.py.txt",
+		"/Users/karlosiric/Desktop/FileBrowser/dired.py",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/FileBrowser/dired.txt",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/file_browser_icons.py",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/dired_sidebar_backup.py",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/js/View/VinylView.js",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340 Projects/SiricK/checkoutindex.html",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/Client Programming ISTE-340 Projects.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/data/selectData.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/js/Model/VinylModel.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/js/View/VinylView.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/js/Controller/VinylController.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/classic-undefined-limited.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/classic-undefined-standard.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/modern-undefined-standard.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/modern-undefined-limited.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/undefined-jazz-standard.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/undefined-rock-limited.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/undefined-jazz-limited.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/undefined-rock-standard.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/undefined-rock-undefined.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/undefined-jazz-undefined.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/undefined-undefined-standard.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/images/undefined-undefined-limited.jpg",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/js/App.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340 Projects/SiricK/styles/styleTest.css",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/app.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalView.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalController.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalModel.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/SiricK/styles/style.css",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/SiricK/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalModel",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalController",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClassAssignments/index.html",
+		"/Users/karlosiric/Downloads/W02C1-Demo-MVC-Starter.zip",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/styles/style.css",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/styles/styleTest.css",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/Documentation/DocumentHTML.md",
+		"/Users/karlosiric/.zshrc",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/.gitkeep",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124/20012025/src/test123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124/20012025/makefile",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/test123.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaProjectBuild.sublime-build",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/test1234/java.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Javatar.sublime-settings",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Javatar/Javatar.sublime-settings",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/testing123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Testing123.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaCompiler.sublime-build",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/makefile",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject/MyJavaProject.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject/testing.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/University_Year_Two_2nd_Semester.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/Tutoring1.java",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_ExtremeC/Macro2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/LogFile.log",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/CharArrays2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_ExtremeC/Macro.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Advice_for_Programming_Worth_Reading.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/maketest.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/arrays.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/CharArrays.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/DocumentationForC.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/switch.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/randomNumbersTest.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/README.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/d.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/maketest.txt"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 424.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"󰬷",
+			"󰉋",
+			"󰝰",
+			"󰘦",
+			"󰏝",
+			"󰏞",
+			"󰏜",
+			"color",
+			"change",
+			"type",
+			"Checkout",
+			"prepare",
+			"directory",
+			"format",
+			"opacit",
+			"footer",
+			"query",
+			"AnimalView",
+			"AnimalModel",
+			"webp",
+			"order-button",
+			"css",
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 160.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 270.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 270.0
+	},
+	"output.Debugger Terminal":
+	{
+		"height": 258.0
+	},
+	"output.Debugger Terminal(1)":
+	{
+		"height": 258.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Pieces Auth":
+	{
+		"height": 0.0
+	},
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 102.0
+	},
+	"output.diagnostics":
+	{
+		"height": 207.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Client Programming ISTE-340 Projects.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"SiricK/index.html"
+			],
+			[
+				"model",
+				"SiricK/js/Model/CheckoutModel.js"
+			],
+			[
+				"inde",
+				"SiricK/index.html"
+			],
+			[
+				"check",
+				"SiricK/checkout.html"
+			],
+			[
+				"css",
+				"SiricK/styles/styleTest.css"
+			],
+			[
+				"view",
+				"SiricK/js/View/CheckoutView.js"
+			],
+			[
+				"control",
+				"SiricK/js/Controller/VinylController.js"
+			],
+			[
+				"conr",
+				"SiricK/js/Controller/VinylController.js"
+			],
+			[
+				"style",
+				"SiricK/styles/styleTest.css"
+			],
+			[
+				"chec",
+				"SiricK/checkout.html"
+			],
+			[
+				"checkout",
+				"SiricK/checkout.html"
+			],
+			[
+				"html",
+				"SiricK/index.html"
+			],
+			[
+				"app",
+				"SiricK/js/App.js"
+			],
+			[
+				"checko",
+				"SiricK/checkout.html"
+			],
+			[
+				"con",
+				"SiricK/js/Controller/VinylController.js"
+			],
+			[
+				"contro",
+				"SiricK/js/Controller/VinylController.js"
+			],
+			[
+				"vinyl contr",
+				"SiricK/js/Controller/VinylController.js"
+			],
+			[
+				"vinyl",
+				"SiricK/js/View/VinylView.js"
+			],
+			[
+				"data",
+				"SiricK/data/selectData.js"
+			],
+			[
+				"contr",
+				"SiricK/js/Controller/VinylController.js"
+			],
+			[
+				"Model",
+				"SiricK/js/Model/VinylModel.js"
+			],
+			[
+				"ind",
+				"SiricK/index.html"
+			],
+			[
+				"controller",
+				"SiricK/js/Controller/VinylController.js"
+			],
+			[
+				"DATA",
+				"SiricK/data/selectData.js"
+			],
+			[
+				"CON",
+				"SiricK/js/Controller/VinylController.js"
+			],
+			[
+				"MODEL",
+				"SiricK/js/Model/VinylModel.js"
+			],
+			[
+				"mode",
+				"SiricK/js/Model/VinylModel.js"
+			],
+			[
+				"AP",
+				"SiricK/js/App.js"
+			],
+			[
+				"CONTR",
+				"SiricK/js/Controller/VinylController.js"
+			],
+			[
+				"VIE",
+				"SiricK/js/View/VinylView.js"
+			],
+			[
+				"mmodel",
+				"SiricK/js/Model/VinylModel.js"
+			],
+			[
+				"in",
+				"SiricK/index.html"
+			],
+			[
+				"cont",
+				"SiricK/js/Controller/VinylController.js"
+			],
+			[
+				"moe",
+				"SiricK/js/VinylModel.js"
+			],
+			[
+				"vi",
+				"SiricK/js/VinylView.js"
+			],
+			[
+				"",
+				"C_ExtremeC/Macro2.c"
+			],
+			[
+				"ad",
+				"Advice_for_Programming_Worth_Reading.txt"
+			],
+			[
+				"C_port",
+				"C_Portfolio/TutorialLoops.c"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"mai",
+				".cpl_files/Main.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 98.0,
+		"last_filter": "main",
+		"selected_items":
+		[
+			[
+				"main",
+				"main"
+			],
+			[
+				"EOF",
+				"EOF"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"copilot.conversation.code_block_index":
+		{
+		},
+		"copilot.conversation.conversation_entries":
+		[
+		],
+		"copilot.conversation.conversation_id": "",
+		"copilot.conversation.follow_up": "",
+		"copilot.conversation.is_visible": false,
+		"copilot.conversation.is_waiting_conversation": false,
+		"copilot.conversation.last_active_view_id": 187,
+		"copilot.conversation.original_layout": null,
+		"copilot.conversation.reference_block_state":
+		{
+		},
+		"copilot.conversation.suggested_title": "",
+		"copilot.conversation.view_group_id": 1,
+		"copilot.conversation.view_id": 190,
+		"copilot.copilotignore.patterns":
+		{
+		},
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

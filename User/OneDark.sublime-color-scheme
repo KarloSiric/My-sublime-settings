@@ -1,0 +1,14 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+    "variables":
+    {
+    },
+    "globals":
+    {
+        "caret": "rgba(82, 139, 255, 0.5)",  // Adjust transparency
+    },
+    "rules":
+    [
+        
+    ]
+}

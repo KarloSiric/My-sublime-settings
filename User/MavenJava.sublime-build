@@ -1,0 +1,10 @@
+{
+    "shell_cmd": "mvn clean package && java -cp target/*.jar com.karlosiric.App",
+    "working_dir": "$project_path",
+    "variants": [
+        {
+            "name": "Test",
+            "shell_cmd": "mvn test"
+        }
+    ]
+}

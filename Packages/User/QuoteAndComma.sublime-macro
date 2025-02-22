@@ -1,0 +1,7 @@
+[
+    { "command": "select_all", },
+    { "command": "split_selection_into_lines" },
+    { "command": "insert_snippet", "args": { "contents": "\"${0:$SELECTION}\"" }, },
+    { "command": "move_to", "args": { "to": "eol", "extend": false }, },
+    { "command": "insert", "args": { "characters": ","}, }
+]

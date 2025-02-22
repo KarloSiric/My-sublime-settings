@@ -1,0 +1,1521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"sy\tsynchronized"
+			],
+			[
+				"array",
+				"array2"
+			],
+			[
+				"grade",
+				"grades2"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"ar",
+				"arrayOfRandoms"
+			],
+			[
+				"ran",
+				"randomValue"
+			],
+			[
+				"rand",
+				"randomIntegers"
+			],
+			[
+				"random",
+				"randomIntegers"
+			],
+			[
+				"clock_get",
+				"clock_gettime"
+			],
+			[
+				"time",
+				"time_t"
+			],
+			[
+				"srad",
+				"srand"
+			],
+			[
+				"inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"char",
+				"char"
+			],
+			[
+				"pr",
+				"problem"
+			],
+			[
+				"int",
+				"int16_t"
+			],
+			[
+				"sq",
+				"squareRoot"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"sc",
+				"SCNd64"
+			],
+			[
+				"tota",
+				"total_numbers"
+			],
+			[
+				"total",
+				"total_numbers"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"scanf",
+				"scanf"
+			],
+			[
+				"pritf",
+				"printf\tprintf …"
+			],
+			[
+				"stdlib",
+				"stdlib.h>"
+			],
+			[
+				"stdio",
+				"stdio.h>"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"sum",
+				"sumValue"
+			],
+			[
+				"count",
+				"countLen"
+			],
+			[
+				"string",
+				"string2"
+			],
+			[
+				"math",
+				"math.h"
+			],
+			[
+				"stdbool",
+				"stdbool.h>"
+			],
+			[
+				"input",
+				"inputString"
+			],
+			[
+				"stringOf",
+				"stringOfChar"
+			],
+			[
+				"error",
+				"error_backref"
+			],
+			[
+				"wind",
+				"windows.h>"
+			],
+			[
+				"windows",
+				"windows.h>"
+			],
+			[
+				"windo",
+				"windows.h>"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"d",
+				"d\", &a);"
+			],
+			[
+				"printf",
+				"printf"
+			],
+			[
+				"get",
+				"getA()"
+			],
+			[
+				"Sys",
+				"System.out.println"
+			],
+			[
+				"Main",
+				"Main"
+			],
+			[
+				"scan",
+				"scanNumber()"
+			],
+			[
+				"std",
+				"stdarg"
+			],
+			[
+				"sca",
+				"scanf(\"%d"
+			],
+			[
+				"m",
+				"myDouble"
+			],
+			[
+				"h",
+				"stringlist.h>"
+			],
+			[
+				"float",
+				"float name"
+			],
+			[
+				"name",
+				"name: %"
+			],
+			[
+				"Enter",
+				"Enter name:"
+			],
+			[
+				"ch",
+				"char"
+			],
+			[
+				"inclu",
+				"include <string.h>"
+			],
+			[
+				"ever",
+				"everyone!\\n\");"
+			],
+			[
+				"st",
+				"stpcpy"
+			],
+			[
+				"stdl",
+				"stdlib.h>"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"Hello",
+				"Hello, world!\");"
+			],
+			[
+				"writ",
+				"write"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"function",
+				"Function"
+			],
+			[
+				"console",
+				"crossOriginIsolated"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ech",
+				"PCNTL_ECHILD"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"log",
+				"timeLog"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"back",
+				"backdrop-filter"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"t",
+				"test123.js"
+			],
+			[
+				"color",
+				"color-scheme"
+			],
+			[
+				"innerHTML",
+				"innerHTML = \"Hello World"
+			],
+			[
+				"valid",
+				"valid email address or"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"Hi",
+				"highlight_string"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"p",
+				"plum"
+			],
+			[
+				"pur",
+				"paleturquoise"
+			],
+			[
+				"VIO",
+				"blueviolet"
+			],
+			[
+				"r",
+				"royalblue"
+			],
+			[
+				"bo",
+				"::before"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"Sca",
+				"Scanner;"
+			],
+			[
+				"out",
+				"out.println(\""
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Mydo",
+				"Mydouble: %f\\n\", my"
+			],
+			[
+				"snake",
+				"snakeCount"
+			],
+			[
+				"test",
+				"test for"
+			],
+			[
+				"fucker",
+				"fuckers\\"
+			],
+			[
+				"retur",
+				"return_temporary_buffer"
+			],
+			[
+				"stdi",
+				"stdint.h"
+			],
+			[
+				"f",
+				"fcntl.h>"
+			],
+			[
+				"include",
+				"include"
+			],
+			[
+				"complex",
+				"complex.h>"
+			],
+			[
+				"main",
+				"main()"
+			],
+			[
+				"n",
+				"n\\"
+			],
+			[
+				"arr",
+				"array[i]"
+			],
+			[
+				"program",
+				"program\\n\");"
+			],
+			[
+				"MA",
+				"MAXFLOAT"
+			],
+			[
+				"te",
+				"temp"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"le",
+				"length2"
+			],
+			[
+				"new",
+				"newArray2"
+			],
+			[
+				"fin",
+				"find_max"
+			],
+			[
+				"sie",
+				"sizeof"
+			],
+			[
+				"sizeof",
+				"__SIZEOF_DOUBLE__"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"sd",
+				"stdlib.h"
+			],
+			[
+				"lengthA",
+				"lengthArr2"
+			],
+			[
+				"a",
+				"myArray"
+			],
+			[
+				"res",
+				"resultC"
+			],
+			[
+				"body",
+				"body"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/JavaCompiler.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C!7 DebuggerSystem.sublime-build",
+					""
+				],
+				[
+					"Packages/User/javaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaCompiler.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/SQLCMD.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					"Run in Terminal"
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					"Test in Terminal"
+				]
+			],
+			[
+				"Packages/User/JavaCompiler.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C!7 DebuggerSystem.sublime-build",
+					""
+				],
+				[
+					"Packages/User/javaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaCompiler.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SQLCMD.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					"Run in Terminal"
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					"Test in Terminal"
+				]
+			],
+			[
+				"Packages/User/JavaCompiler.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rename proj",
+				"Project Manager: Rename Project"
+			],
+			[
+				"edit projec",
+				"Project: Edit Project"
+			],
+			[
+				"git s",
+				"git: status"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"view ",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"javatar se",
+				"Javatar: Browse Commands..."
+			],
+			[
+				"j",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar",
+				"Javatar: Builds..."
+			],
+			[
+				"lsp ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"javatar ",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar new",
+				"Javatar: Create new..."
+			],
+			[
+				"javata",
+				"Javatar: Create new..."
+			],
+			[
+				"pieces",
+				"Pieces: About"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"new folder",
+				"File: New Folder"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"new fol",
+				"File: New Folder"
+			],
+			[
+				"java project",
+				"Project: Save As"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"new proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"open new ",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"new f",
+				"File: New Folder"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"wakati",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"sync settings",
+				"Sync Settings: Edit User Settings"
+			],
+			[
+				"run sync se",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"syntax C",
+				"Set Syntax: C"
+			],
+			[
+				"syntax jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"set syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"font ",
+				"Set Syntax: Font"
+			],
+			[
+				"git status",
+				"Set Syntax: Gruntfile JS"
+			],
+			[
+				"statusbar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"disa",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"copilot sett",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"custom",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"clangd",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lsp trou",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"LSP",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"clang lsp",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"lsp clang",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"debugger set",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"setting ",
+				"Preferences: LSP Settings"
+			],
+			[
+				"clang format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"Theme",
+				"UI: Select Theme"
+			],
+			[
+				"FORMAT",
+				"Clang Format: Set Path"
+			],
+			[
+				"mode",
+				"Snippet: modeline"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"clear",
+				"Debugger: Clear Breakpoints"
+			],
+			[
+				"debugger stop",
+				"Debugger: Stop"
+			],
+			[
+				"debugg",
+				"Debugger: Open"
+			],
+			[
+				"debugger",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"print",
+				"PrintDebugger: Print Debug"
+			],
+			[
+				"toggle",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"debu",
+				"Debugger: Add or Select Configuration"
+			],
+			[
+				"break",
+				"Debugger: Browse Package storage"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"view term",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"projec",
+				"Project Manager: Add New Project"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"clan",
+				"Clang Format: Format Selection"
+			],
+			[
+				"claf",
+				"Clang Format: Format Selection"
+			],
+			[
+				"terminus se",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"vie",
+				"View Package File"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"viewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resouse",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"colorscheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"lsp se",
+				"Preferences: LSP Settings"
+			],
+			[
+				"colorsche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"file rename",
+				"File: Rename"
+			],
+			[
+				"terminus sett",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"pieces re",
+				"Pieces: Reload Plugin"
+			],
+			[
+				"login",
+				"Pieces: Login"
+			],
+			[
+				"pie",
+				"Pieces: Ask About The Current Project"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"terminnus vi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"copilot",
+				"Copilot: Help"
+			],
+			[
+				"chat",
+				"Copilot: Check Status"
+			],
+			[
+				"keybinds",
+				"Preferences: LSP Key Bindings"
+			],
+			[
+				"ch",
+				"Copilot: Chat"
+			],
+			[
+				"folder",
+				"File: New Folder"
+			],
+			[
+				"open file",
+				"GitHub: Open File"
+			],
+			[
+				"colorsc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"debuger",
+				"Debugger: Run Task"
+			],
+			[
+				"wakatimer",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"form",
+				"Clang Format: Format Selection"
+			],
+			[
+				"debug",
+				"Debugger: Open"
+			],
+			[
+				"edit",
+				"Project Manager: Edit Project"
+			],
+			[
+				"remove pr",
+				"Project Manager: Remove Project"
+			],
+			[
+				"de",
+				"Debugger: Add or Select Configuration"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"add proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"new project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ui theme",
+				"UI: Select Theme"
+			],
+			[
+				"color s",
+				"UI: Select Color Scheme"
+			],
+			[
+				"COLOR",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package view",
+				"View Package File"
+			],
+			[
+				"project mana",
+				"Project Manager: Rename Project"
+			],
+			[
+				"proje",
+				"Project Manager: Edit Project"
+			],
+			[
+				"project manager",
+				"Project Manager: Add New Project"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"icon",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"icons",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"gitgutter",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"gitsa",
+				"GitGutter: Show Line Annotation"
+			],
+			[
+				"github",
+				"Github: Plugin Settings"
+			],
+			[
+				"git sett",
+				"Github: Plugin Settings"
+			],
+			[
+				"gitgu",
+				"GitGutter: Show Line Annotation"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+			"clear",
+			"copilot",
+			"build",
+			"make",
+			"running",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/karlosiric/Desktop/University",
+		"/Users/karlosiric/Desktop/University/Software Design and Principles ISTE-383",
+		"/Users/karlosiric/Desktop/University/Software Design and Principles ISTE-383/Assignment_InClass",
+		"/Users/karlosiric/Desktop/University/Software Design and Principles ISTE-383/Assignment_InClass/Activity1",
+		"/Users/karlosiric/Desktop/University/Software Design and Principles ISTE-383/Assignment_InClass/w03c1-uml"
+	],
+	"file_history":
+	[
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/University_Year_Two_2nd_Semester.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/SiricK/index.html",
+		"/Users/karlosiric/.zshrc",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/testing.sql",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/.gitkeep",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124/20012025/src/test123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124/20012025/makefile",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/test123.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaProjectBuild.sublime-build",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/test1234/java.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Javatar.sublime-settings",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Javatar/Javatar.sublime-settings",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/testing123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Testing123.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaCompiler.sublime-build",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/makefile",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject/MyJavaProject.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject/testing.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/Tutoring1.java",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_ExtremeC/Macro2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/LogFile.log",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/CharArrays2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_ExtremeC/Macro.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Advice_for_Programming_Worth_Reading.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/maketest.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/arrays.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/CharArrays.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/DocumentationForC.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/switch.c",
+		"/Users/karlosiric/.config/kitty/kitty.conf",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/randomNumbersTest.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/README.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/d.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/maketest.txt",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/supress_save_message.py",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_printf.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/TutorialLoops.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Makefile",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/C_Sublime_Portfolio.sublime-project",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdlib.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/stdlib.h",
+		"/Users/karlosiric/Downloads/MadeofCode.tmTheme",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/math.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Clang.sublime-build",
+		"/Users/karlosiric/.config/alacritty/alacritty.toml.1736176553835.bak",
+		"/Users/karlosiric/.zshenv",
+		"/Users/karlosiric/.config/alacritty/alacritty.toml",
+		"/Users/karlosiric/.zshrc.backup",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Dr.Chuck/FahrFor.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_printf.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Dr.Chuck/1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/.gitignore",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial13ForLoop.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial12DoWhileLoop.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial11WhileLoopsMore.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial8.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Dr.Chuck_C/FahrFor.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial9WhileLoops.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial10MoreWhile.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Debugger/Debugger.sublime-project",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/beej1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/PalindromeString.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/ArraySum.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/ArrayAverage.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/C17.sublime-build",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Python Terminus.sublime-build",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/C++.sublime-package",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdio.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/Honors_Tester_Program.sublime-project",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdio.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/Readme.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/PalindromeString.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/string.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/ArraySum.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/Day01.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/funny_printf.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/test.json",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/Occurrence.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdlib.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/scanf.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/scanf.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/C_Intro3.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/Occurrence",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/.cpl_files/Main.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/.cpl_files/test.py",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/C++/C Single File.sublime-build",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/types.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/1_Default.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/maxArray.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/printf.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/string.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/ISTE240_WEB_Theory/Theory_MyWritings.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/exercise1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Examples_Practice/practice1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Web_dev_practice/index.html",
+		"/Users/karlosiric/Documents/SublimeText Programming/Web_dev_practice/style.css",
+		"/Users/karlosiric/Documents/SublimeText Programming/Web_dev_practice/javas.js",
+		"/Users/karlosiric/Documents/SublimeText Programming/Web_dev_practice/test.php",
+		"/Users/karlosiric/Documents/SublimeText Programming/Web_dev_practice/test123.js",
+		"/Users/karlosiric/Documents/SublimeText Programming/Web_dev_practice/test.js",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/PHP Completions Kit/README.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/Java Testing/Test.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Phpactor/Phpactor.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/test123.js",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+		"/Users/karlosiric/Documents/SublimeText Programming/index.html",
+		"/Users/karlosiric/Documents/SublimeText Programming/SublimeText_SQL/HW7.sql",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/SQLCMD.sublime-build",
+		"/Users/karlosiric/Documents/SublimeText Programming/Programming Sublime txt/SublimeText_SQL/HW7.sql",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/SNAKE_GAME/snake.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/minArray",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/.cpl_files/1.in.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/.cpl_files/java_runner.py",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/snake.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/snake.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/reverse.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Occurrence.c",
+		"/Users/karlosiric/Documents/SublimeText Programming."
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 424.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"public"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 160.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 144.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Pieces Auth":
+	{
+		"height": 144.0
+	},
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 102.0
+	},
+	"output.diagnostics":
+	{
+		"height": 207.0
+	},
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 125.0
+	},
+	"pinned_build_system": "",
+	"project": "University_Year_Two.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C_ExtremeC/Macro2.c"
+			],
+			[
+				"ad",
+				"Advice_for_Programming_Worth_Reading.txt"
+			],
+			[
+				"C_port",
+				"C_Portfolio/TutorialLoops.c"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"mai",
+				".cpl_files/Main.java"
+			],
+			[
+				"in",
+				"minArray"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 98.0,
+		"last_filter": "main",
+		"selected_items":
+		[
+			[
+				"main",
+				"main"
+			],
+			[
+				"EOF",
+				"EOF"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"copilot.conversation.code_block_index":
+		{
+		},
+		"copilot.conversation.conversation_entries":
+		[
+		],
+		"copilot.conversation.conversation_id": "",
+		"copilot.conversation.follow_up": "",
+		"copilot.conversation.is_visible": false,
+		"copilot.conversation.is_waiting_conversation": false,
+		"copilot.conversation.last_active_view_id": 258,
+		"copilot.conversation.original_layout": null,
+		"copilot.conversation.reference_block_state":
+		{
+		},
+		"copilot.conversation.suggested_title": "",
+		"copilot.copilotignore.patterns":
+		{
+		},
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

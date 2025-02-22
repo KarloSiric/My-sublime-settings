@@ -1,0 +1,89 @@
+{
+    "name": "FileBrowser Colors",
+    "variables": {
+        "folder_color": "#FFB900",
+        "python_color": "#3572A5",
+        "js_color": "#F7DF1E",
+        "html_color": "#E34C26",
+        "css_color": "#563D7C",
+        "json_color": "#40E0D0",
+        "cpp_color": "#F34B7D",
+        "c_color": "#555555",
+        "java_color": "#B07219",
+        "md_color": "#083FA1",
+        "text_color": "#CCCCCC",
+        "pdf_color": "#FF0000",
+        "archive_color": "#FFCC00",
+        "git_color": "#F05033",
+        "image_color": "#40E0D0",
+        "sql_color": "#FF9900",
+        "excel_color": "#217346",
+        "word_color": "#2B579A",
+        "powerpoint_color": "#D24726"
+    },
+    "globals": {
+        "foreground": "#FFFFFF",
+        "background": "#252525",
+        "selection": "#444444"
+    },
+    "rules": [
+        {
+            "scope": "dired.item.directory string.name.directory.dired",
+            "foreground": "var(folder_color)"
+        },
+        {
+            "scope": "punctuation.definition.directory.dired",
+            "foreground": "var(folder_color)"
+        },
+        
+        // File extensions
+        {
+            "scope": "dired.item.file.py",
+            "foreground": "var(python_color)"
+        },
+        {
+            "scope": "dired.item.file.js",
+            "foreground": "var(js_color)"
+        },
+        {
+            "scope": "dired.item.file.html",
+            "foreground": "var(html_color)"
+        },
+        {
+            "scope": "dired.item.file.css",
+            "foreground": "var(css_color)"
+        },
+        {
+            "scope": "dired.item.file.json",
+            "foreground": "var(json_color)"
+        },
+        {
+            "scope": "dired.item.file.cpp",
+            "foreground": "var(cpp_color)"
+        },
+        {
+            "scope": "dired.item.file.c",
+            "foreground": "var(c_color)"
+        },
+        {
+            "scope": "dired.item.file.h",
+            "foreground": "var(c_color)"
+        },
+        {
+            "scope": "dired.item.file.java",
+            "foreground": "var(java_color)"
+        },
+        {
+            "scope": "dired.item.file.md",
+            "foreground": "var(md_color)"
+        },
+        {
+            "scope": "dired.item.file.txt",
+            "foreground": "var(text_color)"
+        },
+        {
+            "scope": "dired.item.file.pdf",
+            "foreground": "var(pdf_color)"
+        }
+    ]
+}

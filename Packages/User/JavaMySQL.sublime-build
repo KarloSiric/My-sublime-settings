@@ -1,0 +1,12 @@
+{
+    "shell_cmd": "javac -cp .:mysql-connector-j-9.2.0.jar *.java && java -cp .:mysql-connector-j-9.2.0.jar Main",
+    "working_dir": "$file_path",
+    "selector": "source.java",
+    "file_regex": "^(.*):([0-9]+):?([0-9]+)?:? (.*)$",
+    "variants": [
+        {
+            "name": "Run",
+            "shell_cmd": "java -cp .:mysql-connector-j-9.2.0.jar Main"
+        }
+    ]
+}

@@ -1,0 +1,2676 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ANimal",
+				"AnimalModel"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"flex",
+				"flexbox"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"order",
+				"order_background4.jpg"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"2",
+				"order_image2.jpg"
+			],
+			[
+				"ar",
+				"armstrong_image.webp"
+			],
+			[
+				"violet",
+				"mediumvioletred"
+			],
+			[
+				"vioelt",
+				"blueviolet"
+			],
+			[
+				"blue",
+				"royalblue"
+			],
+			[
+				"pink",
+				"lightpink"
+			],
+			[
+				"ind",
+				"indigo"
+			],
+			[
+				"cahr",
+				"chartreuse"
+			],
+			[
+				"darkg",
+				"darkgray"
+			],
+			[
+				"grey",
+				"slategrey"
+			],
+			[
+				"image",
+				"image4.jpg"
+			],
+			[
+				"im",
+				"image2.jpg"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"5",
+				"h5"
+			],
+			[
+				"s",
+				"sy\tsynchronized"
+			],
+			[
+				"array",
+				"array2"
+			],
+			[
+				"grade",
+				"grades2"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"ran",
+				"randomValue"
+			],
+			[
+				"rand",
+				"randomIntegers"
+			],
+			[
+				"random",
+				"randomIntegers"
+			],
+			[
+				"clock_get",
+				"clock_gettime"
+			],
+			[
+				"time",
+				"time_t"
+			],
+			[
+				"srad",
+				"srand"
+			],
+			[
+				"inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"char",
+				"char"
+			],
+			[
+				"pr",
+				"problem"
+			],
+			[
+				"int",
+				"int16_t"
+			],
+			[
+				"sq",
+				"squareRoot"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"sc",
+				"SCNd64"
+			],
+			[
+				"tota",
+				"total_numbers"
+			],
+			[
+				"total",
+				"total_numbers"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"scanf",
+				"scanf"
+			],
+			[
+				"pritf",
+				"printf\tprintf …"
+			],
+			[
+				"stdlib",
+				"stdlib.h>"
+			],
+			[
+				"stdio",
+				"stdio.h>"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"sum",
+				"sumValue"
+			],
+			[
+				"count",
+				"countLen"
+			],
+			[
+				"string",
+				"string2"
+			],
+			[
+				"math",
+				"math.h"
+			],
+			[
+				"stdbool",
+				"stdbool.h>"
+			],
+			[
+				"input",
+				"inputString"
+			],
+			[
+				"stringOf",
+				"stringOfChar"
+			],
+			[
+				"error",
+				"error_backref"
+			],
+			[
+				"wind",
+				"windows.h>"
+			],
+			[
+				"windows",
+				"windows.h>"
+			],
+			[
+				"windo",
+				"windows.h>"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"d",
+				"d\", &a);"
+			],
+			[
+				"printf",
+				"printf"
+			],
+			[
+				"get",
+				"getA()"
+			],
+			[
+				"Sys",
+				"System.out.println"
+			],
+			[
+				"Main",
+				"Main"
+			],
+			[
+				"scan",
+				"scanNumber()"
+			],
+			[
+				"std",
+				"stdarg"
+			],
+			[
+				"sca",
+				"scanf(\"%d"
+			],
+			[
+				"m",
+				"myDouble"
+			],
+			[
+				"h",
+				"stringlist.h>"
+			],
+			[
+				"float",
+				"float name"
+			],
+			[
+				"name",
+				"name: %"
+			],
+			[
+				"Enter",
+				"Enter name:"
+			],
+			[
+				"ch",
+				"char"
+			],
+			[
+				"inclu",
+				"include <string.h>"
+			],
+			[
+				"ever",
+				"everyone!\\n\");"
+			],
+			[
+				"st",
+				"stpcpy"
+			],
+			[
+				"stdl",
+				"stdlib.h>"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"Hello",
+				"Hello, world!\");"
+			],
+			[
+				"writ",
+				"write"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"function",
+				"Function"
+			],
+			[
+				"console",
+				"crossOriginIsolated"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ech",
+				"PCNTL_ECHILD"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"log",
+				"timeLog"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"back",
+				"backdrop-filter"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"t",
+				"test123.js"
+			],
+			[
+				"color",
+				"color-scheme"
+			],
+			[
+				"innerHTML",
+				"innerHTML = \"Hello World"
+			],
+			[
+				"valid",
+				"valid email address or"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"Hi",
+				"highlight_string"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"p",
+				"plum"
+			],
+			[
+				"pur",
+				"paleturquoise"
+			],
+			[
+				"VIO",
+				"blueviolet"
+			],
+			[
+				"r",
+				"royalblue"
+			],
+			[
+				"bo",
+				"::before"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"Sca",
+				"Scanner;"
+			],
+			[
+				"out",
+				"out.println(\""
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Mydo",
+				"Mydouble: %f\\n\", my"
+			],
+			[
+				"snake",
+				"snakeCount"
+			],
+			[
+				"test",
+				"test for"
+			],
+			[
+				"fucker",
+				"fuckers\\"
+			],
+			[
+				"retur",
+				"return_temporary_buffer"
+			],
+			[
+				"stdi",
+				"stdint.h"
+			],
+			[
+				"f",
+				"fcntl.h>"
+			],
+			[
+				"include",
+				"include"
+			],
+			[
+				"complex",
+				"complex.h>"
+			],
+			[
+				"main",
+				"main()"
+			],
+			[
+				"n",
+				"n\\"
+			],
+			[
+				"arr",
+				"array[i]"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/model/CheckoutModel.js",
+			"settings":
+			{
+				"buffer_size": 1392,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAbwUAAAAAAAAAAAAAbwUAAAAAAABvBQAAAAAAADkGAAAvKioKICogQ2xhc3MgcmVwcmVzZW50aW5nIHRoZSBmb3JtIG1vZGVsLiBUaGUgbW9kZWwgaXMgbWFkZSBvZiB0aGUgJ25hbWUnIHByb3BlcnR5IAogKiBpbml0aWxpemVkIHdpdGggYW4gZW1wdHkgc3RyaW5nLCBhbmQgYWRkaXRpb25hbCBwcm9wZXJ0aWVzIGxvYWRlZCBmcm9tIAogKiBsb2NhbFN0b3JhZ2UuIAogKiAKICogQHR5cGUgdHlwZQogKi8KZXhwb3J0IGNsYXNzIENoZWNrb3V0TW9kZWwgewogICAgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5uYW1lID0gIiI7CiAgICAgICAgdGhpcy5pbml0KCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBJbml0aWFsaXplcyB0aGlzIG9iamVjdCBwcm9wZXJ0aWVzLiBOZXcgcHJvcGVydGllcyBhcmUgYWRkZWQgYmFzZWQgb24gdGhlCiAgICAgKiBkYXRhIGxvYWRlZCBmcm9tICBsb2NhbFN0b3JhZ2UuCiAgICAgKiAKICAgICAqIEByZXR1cm5zIHt1bmRlZmluZWR9CiAgICAgKi8KICAgIGluaXQoKSB7CiAgICAgICAgbGV0IGFuaW1hbCA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2FuaW1hbCcpKTsKICAgICAgICBmb3IgKGxldCBwcm9wZXJ0eSBpbiBhbmltYWwpIHsKICAgICAgICAgICAgdGhpc1twcm9wZXJ0eV0gPSBhbmltYWxbcHJvcGVydHldOwogICAgICAgIH0KICAgIH0KCiAgICAvKioKICAgICAqIENvbnZlcnRzIHRoaXMgb2JqZWN0IHRvIGEgZGF0YSBvYmplY3QgZm9yIHRoZSB2aWV3LiBXZSBjb3VsZCBoYXZlIGFsc28gCiAgICAgKiByZXR1cm5lZCBPYmplY3QuZW50cmllcyh0aGlzKSwgYnV0IHRoZW4sIHdlIHdvdWxkIGJlIGRlYWxpbmcgd2l0aCBhbiBhcnJheSAKICAgICAqIG9mIGFycmF5cy4KICAgICAqIAogICAgICogQHJldHVybnMge09iamVjdH0gYSBzaW1wbGUgZGF0YSBvYmplY3Qgd2l0aCBpbnB1dHMgZm9yIHRoZSBmb3JtIHZpZXcgCiAgICAgKiBAc2VlIHtAbGluayBodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9KYXZhU2NyaXB0L1JlZmVyZW5jZS9HbG9iYWxfT2JqZWN0cy9KU09OfQogICAgICovCiAgICBnZXRJbnB1dERhdGEoKSB7CiAgICAgICAgcmV0dXJuIEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkodGhpcykpOwogICAgfQoKICAgIC8qKgogICAgICogU3RvcmVzIGZvcm0gZGF0YSBhY2Nyb3NzIGJyb3dzZXIgc2Vzc2lvbnMuIFdpbmRvdy5sb2NhbFN0b3JhZ2UgaXMgdXNlZCAKICAgICAqIHRvIHN0b3JlIHRoZSBtb2RlbCBhcyBhIEpTT04gc3RyaW5nIHVuZGVyIHRoZSBrZXkgJ2FuaW1hbCcuCiAgICAgKiAKICAgICAqIEByZXR1cm5zIHt1bmRlZmluZWR9CiAgICAgKiBAc2VlIHtAbGluayBodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9BUEkvV2luZG93L2xvY2FsU3RvcmFnZX0KICAgICAqIEBzZWUge0BsaW5rIGh0dHBzOi8vZGV2ZWxvcGVyLm1vemlsbGEub3JnL2VuLVVTL2RvY3MvV2ViL0phdmFTY3JpcHQvUmVmZXJlbmNlL0dsb2JhbF9PYmplY3RzL0pTT059CiAgICAgKi8KICAgIHN0b3JlKCkgewogICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdhbmltYWwnLCBKU09OLnN0cmluZ2lmeSh0aGlzKSk7CiAgICB9Cn0",
+					"CgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAA5BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAAG8FAAAAAAAAcAUAAAAAAAAAAAAA",
+					"CgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAbwUAAAAAAABvBQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/view/CheckoutView.js",
+			"settings":
+			{
+				"buffer_size": 1210,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					21,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAugQAAAAAAAAAAAAAugQAAAAAAAC6BAAAAAAAAJEDAAAvKioKICogUmVwcmVzZW50cyB0aGUgVmlldy4gVmlldyBob2xkcyByZWZlbmNlcyB0byBhbGwgR1VJIGVsZW1lbnRzIHVzZXIgaW50ZXJhY3RzIHdpdGguCiAqIFRoZSBWaWV3IGV4cG9zZXMgbWV0aG9kcyB0byBpbnRlcmFjdCB3aXRoIHRoZSB2aWV3IGVsZW1lbnRzLiAKICovCmV4cG9ydCBjbGFzcyBDaGVja291dFZpZXcgewogICAgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5pbnB1dHMgPSBbXTsKICAgICAgICB0aGlzLmZvcm0gPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCIjZm9ybS1jaGVja291dCIpOwogICAgfQoKICAgIC8qKgogICAgICogQ3JlYXRlcyBmb3JtIGlucHV0cyBiYXNlZCBvbiB0aGUgaW5qZWN0ZWQgSlMgb2JqZWN0IHdpdGggZGF0YS4KICAgICAqIAogICAgICogQHBhcmFtIHtPYmplY3R9IGRhdGEgLSBKUyBvYmplY3QgY29udGFpbmluZyBpbnB1dC1yZWxhdGVkIGRhdGEgZm9yIHRoaXMgZm9ybQogICAgICogQHJldHVybnMge3VuZGVmaW5lZH0KICAgICAqLwogICAgY3JlYXRlSW5wdXRzKGRhdGEpIHsKICAgICAgICBmb3IgKGxldCBwcm9wZXJ0eSBpbiBkYXRhKSB7CiAgICAgICAgICAgIHRoaXMuZm9ybS5xdWVyeVNlbGVjdG9yKCdmaWVsZHNldCcpLmluc2VydEFkamFjZW50SFRNTCgiYmVmb3JlZW5kIiwgYAogICAgICAgICAgICAgICAgPGxhYmVsPiR7cHJvcGVydHl9OiA8L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9IiR7cHJvcGVydHl9IiB2YWx1ZT0iJHtkYXRhW3Byb3BlcnR5XX0iIHNpemU9IjMwIi8+CiAgICAgICAgICAgICAgICA8YnI+CiAgICAgICAgICAgIGApOwogICAgICAgIH0KCiAgICAgICAgdGhpcy5pbnB1dHMgPSB0aGlzLmZvcm0ucXVlcnlTZWxlY3RvckFsbCgnaW5wdXRbdHlwZT10ZXh0XScpOwogICAgfQp9",
+					"CgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkQMAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/controller/CheckoutController.js",
+			"settings":
+			{
+				"buffer_size": 1505,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAA4AUAAAAAAAAAAAAA4AUAAAAAAADgBQAAAAAAANEHAAAvKioKICogUmVzcG9uZHMgdG8gdXNlciBpbnB1dHMuIEhlcmUsIHdlIHVzZSB0aGUgRm9ybURhdGEsIGEgSlMgYnVpbHQtaW4gY2xhc3MgdGhhdCAKICogcHJvdmlkZXMgYSB3YXkgdG8gZWFzaWx5IGNvbnN0cnVjdCBhIHNldCBvZiBrZXkvdmFsdWUgcGFpcnMgcmVwcmVzZW50aW5nIGZvcm0gCiAqIGZpZWxkcyBhbmQgdGhlaXIgdmFsdWVzLgogKiAKICogTW9yZSBhdCB7QGxpbmsgaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvQVBJL0Zvcm1EYXRhIEZvcm1EYXRhfS4KICovCmV4cG9ydCBjbGFzcyBDaGVja291dENvbnRyb2xsZXIgewogICAgY29uc3RydWN0b3IobW9kZWwsIHZpZXcpIHsKICAgICAgICB0aGlzLm1vZGVsID0gbW9kZWw7CiAgICAgICAgdGhpcy52aWV3ID0gdmlldzsKCiAgICAgICAgdGhpcy52aWV3LmNyZWF0ZUlucHV0cyh0aGlzLm1vZGVsLmdldElucHV0RGF0YSgpKTsKCiAgICAgICAgLy8gcmVnaXN0ZXIgb25lIGV2ZW50IGhhbmRsZXIgZm9yIGFsbCBpbnB1dCAnY2hhbmdlJyBldmVudHMKICAgICAgICB0aGlzLnZpZXcuaW5wdXRzLmZvckVhY2goKGlucHV0KSA9PiB7CiAgICAgICAgICAgIGlucHV0LmFkZEV2ZW50TGlzdGVuZXIoImNoYW5nZSIsIHRoaXMuaGFuZGxlSW5wdXRDaGFuZ2UpOwogICAgICAgIH0pOwoKICAgICAgICAvLyByZWdpc3RlciBmb3JtIHN1Ym1pdCBoYW5kbGVyCiAgICAgICAgdGhpcy52aWV3LmZvcm0uYWRkRXZlbnRMaXN0ZW5lcigic3VibWl0IiwgdGhpcy5oYW5kbGVGb3JtU3VibWl0KTsKICAgIH0KCiAgICAvKioKICAgICAqIEhhbmRsZXMgaW5wdXQgY2hhbmdlcy4gUmV0cmlldmVzIHRoZSBpbnB1dCBlbGVtZW50IHRoYXQgdHJpZ2dlcmVkIHRoZSAKICAgICAqIGV2ZW50IGFuZCB1cGRhdGVzIHRoZSBtb2RlbCB3aXRoIHRoZSBuZXcgdmFsdWUgZnJvbSB0aGUgaW5wdXQgZWxlbWVudC4KICAgICAqIFRoZSBtb2RlbCBwcm9wZXJ0eSBjb3JyZXNwb25kaW5nIHRvIHRoZSBpbnB1dCdzIG5hbWUgaXMgdXBkYXRlZCB3aXRoIGl0cyAKICAgICAqIHZhbHVlLgogICAgICogCiAgICAgKiBAcGFyYW0ge0V2ZW50fSBldmVudCAtIGFuIG9iamVjdCBkZXNjcmliaW5nIHRoZSBldmVudCB0aGF0IGhhcyBvY2N1cnJlZAogICAgICogQHJldHVybnMge3VuZGVmaW5lZH0KICAgICAqLwogICAgaGFuZGxlSW5wdXRDaGFuZ2UgPSAoZXZlbnQpID0+IHsKICAgICAgICBsZXQgaW5wdXQgPSBldmVudC50YXJnZXQ7CiAgICAgICAgdGhpcy5tb2RlbFtpbnB1dC5uYW1lXSA9IGlucHV0LnZhbHVlOwogICAgfQoKICAgIC8qKgogICAgICogSGFuZGxlcyBmb3JtIHN1Ym1pc3Npb24uIEZpcnN0LCBpdCBwcmV2ZW50cyB0aGUgZGVmYXVsdCBmb3JtIHN1Ym1pc3Npb24gCiAgICAgKiBiZWhhdmlvciAod2hpY2ggd291bGQgcmVsb2FkIHRoZSBwYWdlKSBhbmQgdGhlbiwgY2FsbHMgdGhlIHN0b3JlIG1ldGhvZCAKICAgICAqIG9uIHRoZSBtb2RlbCB0byBzYXZlIHRoZSBmb3JtIGRhdGEuCiAgICAgKiAKICAgICAqIEBwYXJhbSB7RXZlbnR9IGV2ZW50IC0gYW4gb2JqZWN0IGRlc2NyaWJpbmcgdGhlIGV2ZW50IHRoYXQgaGFzIG9jY3VycmVkCiAgICAgKiBAcmV0dXJucyB7dW5kZWZpbmVkfQogICAgICovCiAgICBoYW5kbGVGb3JtU3VibWl0ID0gKGV2ZW50KSA9PiB7CiAgICAgICAgZXZlbnQucHJldmVudERlZmF1bHQoKTsKICAgICAgICB0aGlzLm1vZGVsLnN0b3JlKCk7CgogICAgICAgIC8qCiAgICAgICAgIC8vIE5PVEU6IHRoZSBmb3JtIGRhdGEgY291bGQgaGF2ZSBiZWVuIGFsc28gY29sbGVjdGVkIGhlcmUKICAgICAgICAgbGV0IGZvcm0gPSBldmVudC50YXJnZXQ7CiAgICAgICAgIGxldCBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YShmb3JtKTsKICAgICAgICAgZm9yIChsZXQgZW50cnkgb2YgZm9ybURhdGEpIHsKICAgICAgICAgdGhpcy5tb2RlbFtlbnRyeVswXV0gPSBlbnRyeVsxXTsKICAgICAgICAgfSAgICAgICAgCiAgICAgICAgICovCiAgICB9Cn0",
+					"CgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAADRBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAAOAFAAAAAAAA4QUAAAAAAAAAAAAA",
+					"CgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA4AUAAAAAAADgBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"revert",
+					null,
+					"CwAAAAAAAAAAAAAAAAAAAAAAAADhBQAALyoqCiAqIENvbnRyb2xsZXIgdGhhdCBoYW5kbGVzIHVzZXIgaW50ZXJhY3Rpb25zIHdpdGggdGhlIGNoZWNrb3V0IGZvcm0uCiAqIFJlc3BvbmRzIHRvIGlucHV0IGNoYW5nZXMgYW5kIGZvcm0gc3VibWlzc2lvbi4KICovCmV4cG9ydCBjbGFzcyBDaGVja291dENvbnRyb2xsZXIgewogICAgY29uc3RydWN0b3IobW9kZWwsIHZpZXcpIHsKICAgICAgICB0aGlzLm1vZGVsID0gbW9kZWw7CiAgICAgICAgdGhpcy52aWV3ID0gdmlldzsKICAgICAgICB0aGlzLnZpZXcuY3JlYXRlSW5wdXRzKHRoaXMubW9kZWwuZ2V0SW5wdXREYXRhKCkpOwogICAgICAgIAogICAgICAgIC8vIHJlZ2lzdGVyIG9uZSBldmVudCBoYW5kbGVyIGZvciBhbGwgaW5wdXQgJ2NoYW5nZScgZXZlbnRzCiAgICAgICAgdGhpcy52aWV3LmlucHV0cy5mb3JFYWNoKChpbnB1dCkgPT4gewogICAgICAgICAgICBpbnB1dC5hZGRFdmVudExpc3RlbmVyKCJjaGFuZ2UiLCB0aGlzLmhhbmRsZUlucHV0Q2hhbmdlKTsKICAgICAgICB9KTsKICAgICAgICAKICAgICAgICAvLyByZWdpc3RlciBmb3JtIHN1Ym1pdCBoYW5kbGVyCiAgICAgICAgdGhpcy52aWV3LmZvcm0uYWRkRXZlbnRMaXN0ZW5lcigic3VibWl0IiwgdGhpcy5oYW5kbGVGb3JtU3VibWl0KTsKICAgIH0KCiAgICAvKioKICAgICAqIEhhbmRsZXMgaW5wdXQgY2hhbmdlcy4gVXBkYXRlcyB0aGUgbW9kZWwgd2l0aCB0aGUgbmV3IHZhbHVlIGZyb20gdGhlIGlucHV0IGVsZW1lbnQuCiAgICAgKiBUaGUgbW9kZWwgcHJvcGVydHkgY29ycmVzcG9uZGluZyB0byB0aGUgaW5wdXQncyBuYW1lIGlzIHVwZGF0ZWQgd2l0aCBpdHMgdmFsdWUuCiAgICAgKiAKICAgICAqIEBwYXJhbSB7RXZlbnR9IGV2ZW50IC0gYW4gb2JqZWN0IGRlc2NyaWJpbmcgdGhlIGV2ZW50IHRoYXQgaGFzIG9jY3VycmVkCiAgICAgKiBAcmV0dXJucyB7dW5kZWZpbmVkfQogICAgICovCiAgICBoYW5kbGVJbnB1dENoYW5nZSA9IChldmVudCkgPT4gewogICAgICAgIGxldCBpbnB1dCA9IGV2ZW50LnRhcmdldDsKICAgICAgICB0aGlzLm1vZGVsW2lucHV0Lm5hbWVdID0gaW5wdXQudmFsdWU7CiAgICAgICAgdGhpcy5tb2RlbC5zdG9yZSgpOwogICAgfQoKICAgIC8qKgogICAgICogSGFuZGxlcyBmb3JtIHN1Ym1pc3Npb24uIFByZXZlbnRzIGRlZmF1bHQgZm9ybSBzdWJtaXNzaW9uIGJlaGF2aW9yLAogICAgICogc3RvcmVzIHRoZSBmb3JtIGRhdGEsIGFuZCBzaG93cyBzdWNjZXNzIG1lc3NhZ2UuCiAgICAgKiAKICAgICAqIEBwYXJhbSB7RXZlbnR9IGV2ZW50IC0gYW4gb2JqZWN0IGRlc2NyaWJpbmcgdGhlIGV2ZW50IHRoYXQgaGFzIG9jY3VycmVkCiAgICAgKiBAcmV0dXJucyB7dW5kZWZpbmVkfQogICAgICovCiAgICBoYW5kbGVGb3JtU3VibWl0ID0gKGV2ZW50KSA9PiB7CiAgICAgICAgZXZlbnQucHJldmVudERlZmF1bHQoKTsKICAgICAgICB0aGlzLm1vZGVsLnN0b3JlKCk7CiAgICAgICAgdGhpcy52aWV3LnNob3dPcmRlclN1Y2Nlc3MoKTsKICAgIH0KfQoAAAAAAAAAAOEFAAAAAAAAAAAAAAAAAAAAAAAA4QUAAAAAAAAAAAAAAAAAAAAAAADhBQAAAAAAAAAAAAAAAAAAAAAAAOEFAAAAAAAAAAAAAAAAAAAAAAAA4QUAAAAAAAAAAAAAAAAAAAAAAADhBQAAAAAAAAAAAAAAAAAAAAAAAOEFAAAAAAAAAAAAAAAAAAAAAAAA4QUAAAAAAAAAAAAAAAAAAAAAAADhBQAAAAAAAAAAAAAAAAAAAAAAAOEFAAAAAAAAAAAAAA",
+					"CgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA4AUAAAAAAADgBQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/App.js",
+			"settings":
+			{
+				"buffer_size": 2385,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					94,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAAFAJAAAAAAAAUQkAAAAAAAAAAAAA",
+					"CgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAMAkAAAAAAAAwCQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/checkout.html",
+			"settings":
+			{
+				"buffer_size": 865,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"edit ",
+				"Project: Edit Project"
+			],
+			[
+				"start",
+				"Live Server: Start"
+			],
+			[
+				"stop",
+				"Live Server: Stop"
+			],
+			[
+				"git s",
+				"git: status"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"custom",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"cu",
+				"UI: Customize Theme"
+			],
+			[
+				"custo",
+				"UI: Customize Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable ",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"status gt",
+				"git: status"
+			],
+			[
+				"new project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"maven ",
+				"Maven: Kill running process"
+			],
+			[
+				"project open",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"insall",
+				"Debugger: Install Adapters"
+			],
+			[
+				"lsp true",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"star",
+				"Live Server: Start"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"file header",
+				"FileHeader: Add Header"
+			],
+			[
+				"htmk",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"distraci",
+				"View: Toggle Distraction Free"
+			],
+			[
+				"distracti",
+				"View: Toggle Distraction Free"
+			],
+			[
+				"prettier",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"doxy keybinds",
+				"Preferences: DoxyDoxygen Key Bindings"
+			],
+			[
+				"doxy keybind",
+				"Preferences: DoxyDoxygen Key Bindings"
+			],
+			[
+				"start ",
+				"Live Server: Start"
+			],
+			[
+				"live",
+				"Live Server: Start"
+			],
+			[
+				"show line",
+				"GitGutter: Show Line Annotation"
+			],
+			[
+				"gitsavv",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"gitgutt",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"cust",
+				"UI: Customize Theme"
+			],
+			[
+				"gitgutter se",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"git setting",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"savvy",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"git sa",
+				"GitSavvy: disable logging"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"doc",
+				"DoxyDoxygen: Build Documentation"
+			],
+			[
+				"emmet",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"live s",
+				"Live Server: Start"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"add pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"view ",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"javatar se",
+				"Javatar: Browse Commands..."
+			],
+			[
+				"j",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar",
+				"Javatar: Builds..."
+			],
+			[
+				"lsp ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"javatar ",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar new",
+				"Javatar: Create new..."
+			],
+			[
+				"javata",
+				"Javatar: Create new..."
+			],
+			[
+				"pieces",
+				"Pieces: About"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"new folder",
+				"File: New Folder"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"new fol",
+				"File: New Folder"
+			],
+			[
+				"java project",
+				"Project: Save As"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"new proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"open new ",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"new f",
+				"File: New Folder"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"wakati",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"sync settings",
+				"Sync Settings: Edit User Settings"
+			],
+			[
+				"run sync se",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"syntax C",
+				"Set Syntax: C"
+			],
+			[
+				"syntax jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"set syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"font ",
+				"Set Syntax: Font"
+			],
+			[
+				"git status",
+				"Set Syntax: Gruntfile JS"
+			],
+			[
+				"statusbar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"disa",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"copilot sett",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"clangd",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lsp trou",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"LSP",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"clang lsp",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"lsp clang",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"debugger set",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"setting ",
+				"Preferences: LSP Settings"
+			],
+			[
+				"clang format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"Theme",
+				"UI: Select Theme"
+			],
+			[
+				"FORMAT",
+				"Clang Format: Set Path"
+			],
+			[
+				"mode",
+				"Snippet: modeline"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"clear",
+				"Debugger: Clear Breakpoints"
+			],
+			[
+				"debugger stop",
+				"Debugger: Stop"
+			],
+			[
+				"debugg",
+				"Debugger: Open"
+			],
+			[
+				"debugger",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"print",
+				"PrintDebugger: Print Debug"
+			],
+			[
+				"toggle",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"debu",
+				"Debugger: Add or Select Configuration"
+			],
+			[
+				"break",
+				"Debugger: Browse Package storage"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"view term",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"projec",
+				"Project Manager: Add New Project"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"clan",
+				"Clang Format: Format Selection"
+			],
+			[
+				"claf",
+				"Clang Format: Format Selection"
+			],
+			[
+				"terminus se",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"vie",
+				"View Package File"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"viewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resouse",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"colorscheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"lsp se",
+				"Preferences: LSP Settings"
+			],
+			[
+				"colorsche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"file rename",
+				"File: Rename"
+			],
+			[
+				"terminus sett",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"pieces re",
+				"Pieces: Reload Plugin"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+			"clear",
+			"copilot",
+			"build",
+			"make",
+			"running",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/data",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/controller",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/model",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/view"
+	],
+	"file_history":
+	[
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w03c1-demo-creating_selects_dynamically-final/js/view/AnimalView.js",
+		"/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/model/CheckoutModel.js",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/Client Programming ISTE-340.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/w03c1-demo-creating_selects_dynamically-final/js/app.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/w03c1-demo-creating_selects_dynamically-final/js/view/AnimalView.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/w03c1-demo-creating_selects_dynamically-starter/js/model/AnimalModel.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/w03c1-demo-creating_selects_dynamically-starter/js/view/AnimalView.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/w03c1-demo-creating_selects_dynamically-starter/js/controller/AnimalController.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalView.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/w03c1-demo-creating_selects_dynamically-starter/data/selectData.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/w03c2-materialize-final/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/w03c1-demo-creating_selects_dynamically-starter/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/w03c1-demo-creating_selects_dynamically-starter/js/app.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/app.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalController.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalModel.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/SiricK/styles/style.css",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/SiricK/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalModel",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalController",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClassAssignments/index.html",
+		"/Users/karlosiric/Downloads/W02C1-Demo-MVC-Starter.zip",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/styles/style.css",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/styles/styleTest.css",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/Documentation/DocumentHTML.md",
+		"/Users/karlosiric/.zshrc",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/.gitkeep",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124/20012025/src/test123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124/20012025/makefile",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/test123.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaProjectBuild.sublime-build",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/test1234/java.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Javatar.sublime-settings",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Javatar/Javatar.sublime-settings",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/testing123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Testing123.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaCompiler.sublime-build",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/makefile",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject/MyJavaProject.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject/testing.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/University_Year_Two_2nd_Semester.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/Tutoring1.java",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_ExtremeC/Macro2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/LogFile.log",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/CharArrays2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_ExtremeC/Macro.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Advice_for_Programming_Worth_Reading.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/maketest.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/arrays.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/CharArrays.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/DocumentationForC.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/switch.c",
+		"/Users/karlosiric/.config/kitty/kitty.conf",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/randomNumbersTest.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/README.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/d.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/maketest.txt",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/supress_save_message.py",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_printf.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/TutorialLoops.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Makefile",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/C_Sublime_Portfolio.sublime-project",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdlib.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/stdlib.h",
+		"/Users/karlosiric/Downloads/MadeofCode.tmTheme",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/math.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Clang.sublime-build",
+		"/Users/karlosiric/.config/alacritty/alacritty.toml.1736176553835.bak",
+		"/Users/karlosiric/.zshenv",
+		"/Users/karlosiric/.config/alacritty/alacritty.toml",
+		"/Users/karlosiric/.zshrc.backup",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Dr.Chuck/FahrFor.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_printf.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Dr.Chuck/1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/.gitignore",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial13ForLoop.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial12DoWhileLoop.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial11WhileLoopsMore.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial8.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Dr.Chuck_C/FahrFor.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial9WhileLoops.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial10MoreWhile.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Debugger/Debugger.sublime-project",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/beej1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/PalindromeString.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/ArraySum.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/ArrayAverage.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/C17.sublime-build",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Python Terminus.sublime-build",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/C++.sublime-package",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdio.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/Honors_Tester_Program.sublime-project",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdio.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/Readme.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/PalindromeString.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/string.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/ArraySum.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/Day01.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/funny_printf.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/test.json",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/Occurrence.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdlib.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/scanf.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/scanf.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/C_Intro3.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/Occurrence",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/.cpl_files/Main.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/.cpl_files/test.py",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/C++/C Single File.sublime-build",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/types.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/1_Default.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/maxArray.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/printf.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/string.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/ISTE240_WEB_Theory/Theory_MyWritings.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/exercise1.c"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 424.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"un",
+			"value",
+			"propert",
+			"select",
+			"dataSource",
+			"logo",
+			"animal",
+			"color",
+			"view",
+			"image",
+			"images",
+			"button",
+			"btn",
+			"button",
+			"space-between",
+			"space-evenly",
+			"space-between",
+			"space-around",
+			"footer",
+			"image-placeholder",
+			"center",
+			"transform",
+			"message",
+			"000",
+			"fff",
+			"000",
+			"fff",
+			"ccc",
+			"000",
+			"ccc",
+			"flex",
+			"ddd",
+			"ccc",
+			"000",
+			"0",
+			"auto",
+			"fff",
+			"000",
+			"fff",
+			"payment",
+			"background-image",
+			"darken",
+			"fff",
+			"333",
+			"000",
+			"overlay",
+			"darken",
+			"multiply",
+			"fff",
+			"38339f",
+			"000",
+			"darken",
+			"overlay",
+			"8px",
+			"auto",
+			"350px",
+			"darkgrey",
+			"fff",
+			"f4f4f9",
+			"auto",
+			"Payment",
+			"350px",
+			"auto",
+			"300px",
+			"grey",
+			"darkcyan",
+			"darkviolet",
+			"violet",
+			";\n",
+			"4E1212",
+			"ffd700",
+			"yellow",
+			"731515",
+			"4E1212",
+			"38339f",
+			"000",
+			"333",
+			"38339f",
+			"justify",
+			"left",
+			"right",
+			"left",
+			"mediumvioletred",
+			"palevioletred",
+			"darkviolet",
+			"blueviolet",
+			"royalblue",
+			"indianred",
+			"lightpink",
+			"hotpink",
+			"red",
+			"indianred",
+			"indian",
+			"indigo",
+			"darkviolet",
+			"blueviolet",
+			"slateblue",
+			"chartreuse",
+			"darkgray",
+			"gray",
+			"1B2430",
+			"gray",
+			"666",
+			"bbb",
+			"section",
+			"auto-fit",
+			"blue",
+			"2C2C2C",
+			";\n",
+			"auto-fit",
+			"div",
+			"radial-gradient",
+			"linear-gradient",
+			"2C2C2C",
+			"4E1212",
+			"2C2C2C",
+			"4E1212",
+			"background-gra",
+			"gradient",
+			"1B2430",
+			"F5E3C3",
+			"4E1212",
+			"grey",
+			"blue",
+			"dimgray",
+			"black",
+			"grey",
+			"blue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/model/CheckoutModel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1392
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": true,
+							"OUIB_last_update_timestamp": 0,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "-comment",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								2,
+								12,
+								13,
+								43,
+								3,
+								11,
+								187,
+								203,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/karlosiric/Desktop/University/Client%20Programming%20ISTE-340/InClass/w04c2-demo-final/js/model/CheckoutModel.js",
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/view/CheckoutView.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								667,
+								667
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": true,
+							"OUIB_last_update_timestamp": 0,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "-comment",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1018,
+										1019
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										532,
+										533
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								2,
+								12,
+								10,
+								41,
+								59,
+								12,
+								56,
+								244,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/karlosiric/Desktop/University/Client%20Programming%20ISTE-340/InClass/w04c2-demo-final/js/view/CheckoutView.js",
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/controller/CheckoutController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1505
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": true,
+							"OUIB_last_update_timestamp": 1739782237.52,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "-comment",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								2,
+								12,
+								10,
+								41,
+								59,
+								12,
+								43,
+								197,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"copilot.completion._is_modified": true,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/karlosiric/Desktop/University/Client%20Programming%20ISTE-340/InClass/w04c2-demo-final/js/controller/CheckoutController.js",
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/js/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1970,
+								1970
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": true,
+							"OUIB_last_update_timestamp": 0,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "-comment",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2357,
+										2358
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1882,
+										1883
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								2,
+								12,
+								10,
+								41,
+								59,
+								12,
+								64,
+								23,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/karlosiric/Desktop/University/Client%20Programming%20ISTE-340/InClass/w04c2-demo-final/js/App.js",
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340/InClass/w04c2-demo-final/checkout.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								865,
+								865
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": false,
+							"OUIB_last_update_timestamp": 0,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".:<\"=/",
+									"selector": "-comment",
+									"server": "LSP-html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								2,
+								12,
+								10,
+								41,
+								59,
+								12,
+								67,
+								32,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/karlosiric/Desktop/University/Client%20Programming%20ISTE-340/InClass/w04c2-demo-final/checkout.html",
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 160.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 276.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 276.0
+	},
+	"output.Debugger Terminal":
+	{
+		"height": 258.0
+	},
+	"output.Debugger Terminal(1)":
+	{
+		"height": 258.0
+	},
+	"output.GitSavvy":
+	{
+		"height": 144.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Pieces Auth":
+	{
+		"height": 0.0
+	},
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 141.0
+	},
+	"output.diagnostics":
+	{
+		"height": 207.0
+	},
+	"output.exec":
+	{
+		"height": 279.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "Client Programming ISTE-340.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"check",
+				"InClass/w04c2-demo-final/checkout.html"
+			],
+			[
+				"view",
+				"InClass/w04c2-demo-final/js/view/CheckoutView.js"
+			],
+			[
+				"model",
+				"InClass/w04c2-demo-final/js/model/CheckoutModel.js"
+			],
+			[
+				"app",
+				"InClass/w03c1-demo-creating_selects_dynamically-final/js/app.js"
+			],
+			[
+				"controlelr",
+				"InClass/w03c1-demo-creating_selects_dynamically-starter/js/controller/AnimalController.js"
+			],
+			[
+				"animalvi",
+				"InClass/w03c1-demo-creating_selects_dynamically-starter/js/view/AnimalView.js"
+			],
+			[
+				"animalcon",
+				"InClass/w03c1-demo-creating_selects_dynamically-starter/js/controller/AnimalController.js"
+			],
+			[
+				"inde",
+				"InClass/w03c1-demo-creating_selects_dynamically-starter/index.html"
+			],
+			[
+				"data",
+				"InClass/w03c1-demo-creating_selects_dynamically-starter/data/selectData.js"
+			],
+			[
+				"index",
+				"InClass/W02C1-Demo-MVC-Starter/index.html"
+			],
+			[
+				"",
+				"C_ExtremeC/Macro2.c"
+			],
+			[
+				"ad",
+				"Advice_for_Programming_Worth_Reading.txt"
+			],
+			[
+				"C_port",
+				"C_Portfolio/TutorialLoops.c"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"mai",
+				".cpl_files/Main.java"
+			],
+			[
+				"in",
+				"minArray"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 98.0,
+		"last_filter": "main",
+		"selected_items":
+		[
+			[
+				"main",
+				"main"
+			],
+			[
+				"EOF",
+				"EOF"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"copilot.conversation.code_block_index":
+		{
+		},
+		"copilot.conversation.conversation_entries":
+		[
+		],
+		"copilot.conversation.conversation_id": "",
+		"copilot.conversation.follow_up": "",
+		"copilot.conversation.is_visible": false,
+		"copilot.conversation.is_waiting_conversation": false,
+		"copilot.conversation.last_active_view_id": 47,
+		"copilot.conversation.original_layout": null,
+		"copilot.conversation.reference_block_state":
+		{
+		},
+		"copilot.conversation.suggested_title": "",
+		"copilot.copilotignore.patterns":
+		{
+		},
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

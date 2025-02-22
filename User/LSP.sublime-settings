@@ -1,0 +1,96 @@
+{
+  "show_diagnostics_annotations_severity_level": 4,
+  "show_code_actions": "",
+  "diagnostics_highlight_style": {
+    "error": "squiggly",
+    "warning": "squiggly",
+    "info": "stippled",
+    "hint": "stippled"
+  },
+  "diagnostics_gutter_marker": "",
+  "show_code_lens": "phantom",
+  "show_inlay_hints": false,
+  "inlay_hints_max_length": 40,
+  "hover_highlight_style": "underline",
+  "semantic_highlighting": true,
+  "show_diagnostics_in_view_status": false,
+  "log_stderr": false,
+  "log_payloads": false,
+  "log_max_size": 4096,
+  "show_diagnostics_panel_on_save": 0,
+  
+  "clients": {
+    "clangd": {
+      "enabled": true,
+      "command": [
+        "clangd",
+        "--query-driver=/usr/bin/**/clang-*,/opt/homebrew/bin/**/clang-*",
+        "--compile-commands-dir=${folder}",
+        "--fallback-style=llvm",
+        "--header-insertion=never",
+        "--header-insertion-decorators=0",
+        "--background-index",
+        "--completion-style=detailed",
+        "--all-scopes-completion",
+        "--pch-storage=memory",
+        "--log=verbose"
+      ],
+      "scopes": ["source.c", "source.c++", "source.objc", "source.objc++"],
+      "syntaxes": [
+        "Packages/C++/C.sublime-syntax",
+        "Packages/C++/C++.sublime-syntax"
+      ],
+      "languageId": "cpp"
+    },
+    "intelephense": {
+      "command": [
+        "intelephense",
+        "--stdio"
+      ],
+      "enabled": true,
+      "languages": [
+        {
+          "languageId": "php",
+          "scopes": ["source.php"],
+          "syntaxes": ["Packages/PHP/PHP.sublime-syntax"]
+        }
+      ],
+      "selector": "source.php"
+    },
+    "sorbet": {
+      "enabled": true
+    },
+    "polymer-ide": {
+      "enabled": false
+    },
+    "ruby": {
+      "enabled": true
+    },
+    "erlang-ls": {
+      "enabled": false
+    },
+    "ocaml": {
+      "enabled": true
+    }
+  },
+  
+  "lsp_code_actions_on_save": {
+    "source.fixAll": true,
+    "source.organizeImports": false
+  }
+}
+
+// {
+//   "log_stderr": true,
+//   "log_payloads": true,
+//   "clients": {
+//     "clangd": {
+//       "enabled": true,
+//       "command": ["/Library/Developer/CommandLineTools/usr/bin/clangd"],  // We'll update this path based on your 'which clangd' output
+//       "selector": "source.c, source.c++",
+//       "initializationOptions": {
+//         "fallbackFlags": ["-std=c11"]
+//       }
+//     }
+//   }
+// }

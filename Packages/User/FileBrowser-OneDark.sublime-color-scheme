@@ -1,0 +1,82 @@
+{
+    "name": "FileBrowser One Dark",
+    "author": "Based on One Dark by IceTimux",
+    "variables": {
+        "black": "#272B33",
+        "white": "#A6B2C0",
+        "red": "#DF6A73",
+        "orange": "#D2945D",
+        "yellow": "#E5C17C",
+        "green": "#90C378",
+        "cyan": "#57B6C2",
+        "blue": "#61AEEF",
+        "purple": "#C679DD",
+        "comment": "#59626F"
+    },
+    "globals": {
+        "background": "var(black)",
+        "foreground": "var(white)",
+        "caret": "#528BFF",
+        "invisibles": "#747369",
+        "line_highlight": "#2B313A",
+        "selection": "#3D4350"
+    },
+    "rules": [
+        {
+            "scope": "dired.item.directory string.name.directory.dired",
+            "foreground": "var(yellow)"
+        },
+        {
+            "scope": "punctuation.definition.directory.dired",
+            "foreground": "var(yellow)"
+        },
+        {
+            "scope": "dired.item.file.py",
+            "foreground": "var(blue)"
+        },
+        {
+            "scope": "dired.item.file.js",
+            "foreground": "var(yellow)"
+        },
+        {
+            "scope": "dired.item.file.html",
+            "foreground": "var(red)"
+        },
+        {
+            "scope": "dired.item.file.css",
+            "foreground": "var(purple)"
+        },
+        {
+            "scope": "dired.item.file.json",
+            "foreground": "var(cyan)"
+        },
+        {
+            "scope": "dired.item.file.c, dired.item.file.cpp, dired.item.file.h",
+            "foreground": "var(purple)"
+        },
+        {
+            "scope": "dired.item.file.md",
+            "foreground": "var(blue)"
+        },
+        {
+            "scope": "dired.item.file.sh, dired.item.file.bash",
+            "foreground": "var(green)"
+        },
+        {
+            "scope": "dired.item.file.doc, dired.item.file.docx",
+            "foreground": "var(blue)"
+        },
+        {
+            "scope": "dired.item.file.xls, dired.item.file.xlsx, dired.item.file.csv",
+            "foreground": "var(green)"
+        },
+        {
+            "scope": "dired.item.file.png, dired.item.file.jpg, dired.item.file.jpeg, dired.item.file.gif, dired.item.file.bmp, dired.item.file.webp, dired.item.file.svg",
+            "foreground": "var(cyan)"
+        },
+        {
+            "scope": "dired.item.file",
+            "foreground": "var(white)"
+        }
+    ]
+}

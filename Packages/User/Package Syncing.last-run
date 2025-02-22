@@ -1,0 +1,266 @@
+{
+    "last_local_data": {
+        "1self.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/1self.sublime-settings", 
+            "version": 1711372495.559912
+        }, 
+        "A File Icon.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings", 
+            "version": 1712608892.453591
+        }, 
+        "C17.sublime-build": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/C17.sublime-build", 
+            "version": 1711631210.9204633
+        }, 
+        "Competitive Programming Lite/build/CPL C++.sublime-build": {
+            "dir": "Competitive Programming Lite/build", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Competitive Programming Lite/build/CPL C++.sublime-build", 
+            "version": 1711380041.7171419
+        }, 
+        "Competitive Programming Lite/build/CPL C.sublime-build": {
+            "dir": "Competitive Programming Lite/build", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Competitive Programming Lite/build/CPL C.sublime-build", 
+            "version": 1711380041.7173314
+        }, 
+        "Competitive Programming Lite/build/CPL Java.sublime-build": {
+            "dir": "Competitive Programming Lite/build", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build", 
+            "version": 1711380041.7175233
+        }, 
+        "Competitive Programming Lite/build/CPL Python.sublime-build": {
+            "dir": "Competitive Programming Lite/build", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Competitive Programming Lite/build/CPL Python.sublime-build", 
+            "version": 1711380041.717804
+        }, 
+        "Competitive Programming Lite/sublime/Default (OSX).sublime-keymap": {
+            "dir": "Competitive Programming Lite/sublime", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Competitive Programming Lite/sublime/Default (OSX).sublime-keymap", 
+            "version": 1712170152.3526773
+        }, 
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap", 
+            "version": 1712598777.2649217
+        }, 
+        "Default.sublime-commands": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-commands", 
+            "version": 1711383499.5200322
+        }, 
+        "Default.sublime-keymap": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-keymap", 
+            "version": 1711569168.7217727
+        }, 
+        "Emmet.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings", 
+            "version": 1711569126.4568243
+        }, 
+        "FastOlympicCoding.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/FastOlympicCoding.sublime-settings", 
+            "version": 1711627248.9862168
+        }, 
+        "JavaCompiler.sublime-build": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaCompiler.sublime-build", 
+            "version": 1711484754.9670742
+        }, 
+        "LSP-copilot.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/LSP-copilot.sublime-settings", 
+            "version": 1712422159.3984182
+        }, 
+        "LSP-intelephense.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/LSP-intelephense.sublime-settings", 
+            "version": 1712602923.2959905
+        }, 
+        "LSP.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/LSP.sublime-settings", 
+            "version": 1712646068.06
+        }, 
+        "LiveServer.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/LiveServer.sublime-settings", 
+            "version": 1712599669.9078457
+        }, 
+        "Note.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Note.sublime-settings", 
+            "version": 1712213045.5653884
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings", 
+            "version": 1712646436.1
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings", 
+            "version": 1712646436.11
+        }, 
+        "SQLCMD.sublime-build": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/SQLCMD.sublime-build", 
+            "version": 1712587340.651921
+        }, 
+        "SyncSettings.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings", 
+            "version": 1712506756.8578625
+        }, 
+        "Terminus.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Terminus.sublime-settings", 
+            "version": 1712609268.0053997
+        }, 
+        "javaC.sublime-build": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/javaC.sublime-build", 
+            "version": 1711478769.9611878
+        }, 
+        "lsp_utils.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/lsp_utils.sublime-settings", 
+            "version": 1712605131.9664328
+        }
+    }, 
+    "last_remote_data": {
+        "1self.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/1self.sublime-settings", 
+            "version": 1711372495.559912
+        }, 
+        "A File Icon.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/A File Icon.sublime-settings", 
+            "version": 1712608892.453591
+        }, 
+        "C17.sublime-build": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/C17.sublime-build", 
+            "version": 1711631210.9204633
+        }, 
+        "Competitive Programming Lite/build/CPL C++.sublime-build": {
+            "dir": "Competitive Programming Lite/build", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Competitive Programming Lite/build/CPL C++.sublime-build", 
+            "version": 1711380041.7171419
+        }, 
+        "Competitive Programming Lite/build/CPL C.sublime-build": {
+            "dir": "Competitive Programming Lite/build", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Competitive Programming Lite/build/CPL C.sublime-build", 
+            "version": 1711380041.7173314
+        }, 
+        "Competitive Programming Lite/build/CPL Java.sublime-build": {
+            "dir": "Competitive Programming Lite/build", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Competitive Programming Lite/build/CPL Java.sublime-build", 
+            "version": 1711380041.7175233
+        }, 
+        "Competitive Programming Lite/build/CPL Python.sublime-build": {
+            "dir": "Competitive Programming Lite/build", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Competitive Programming Lite/build/CPL Python.sublime-build", 
+            "version": 1711380041.717804
+        }, 
+        "Competitive Programming Lite/sublime/Default (OSX).sublime-keymap": {
+            "dir": "Competitive Programming Lite/sublime", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Competitive Programming Lite/sublime/Default (OSX).sublime-keymap", 
+            "version": 1712170152.3526773
+        }, 
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Default (OSX).sublime-keymap", 
+            "version": 1712598777.2649217
+        }, 
+        "Default.sublime-commands": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Default.sublime-commands", 
+            "version": 1711383499.5200322
+        }, 
+        "Default.sublime-keymap": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Default.sublime-keymap", 
+            "version": 1711569168.7217727
+        }, 
+        "Emmet.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Emmet.sublime-settings", 
+            "version": 1711569126.4568243
+        }, 
+        "FastOlympicCoding.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/FastOlympicCoding.sublime-settings", 
+            "version": 1711627248.9862168
+        }, 
+        "JavaCompiler.sublime-build": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/JavaCompiler.sublime-build", 
+            "version": 1711484754.9670742
+        }, 
+        "LSP-copilot.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/LSP-copilot.sublime-settings", 
+            "version": 1712422159.3984182
+        }, 
+        "LSP-intelephense.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/LSP-intelephense.sublime-settings", 
+            "version": 1712602923.2959905
+        }, 
+        "LSP.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/LSP.sublime-settings", 
+            "version": 1712646068.06
+        }, 
+        "LiveServer.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/LiveServer.sublime-settings", 
+            "version": 1712599669.9078457
+        }, 
+        "Note.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Note.sublime-settings", 
+            "version": 1712213045.5653884
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Package Control.sublime-settings", 
+            "version": 1712646436.1
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Preferences.sublime-settings", 
+            "version": 1712646436.11
+        }, 
+        "SQLCMD.sublime-build": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/SQLCMD.sublime-build", 
+            "version": 1712587340.651921
+        }, 
+        "SyncSettings.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/SyncSettings.sublime-settings", 
+            "version": 1712506756.8578625
+        }, 
+        "Terminus.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Terminus.sublime-settings", 
+            "version": 1712609268.0053997
+        }, 
+        "javaC.sublime-build": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/javaC.sublime-build", 
+            "version": 1711478769.9611878
+        }, 
+        "lsp_utils.sublime-settings": {
+            "dir": "", 
+            "path": "~/Library/Application Support/Sublime Text 3/Packages/Package Syncing/lsp_utils.sublime-settings", 
+            "version": 1712605131.9664328
+        }
+    }
+}

@@ -1,0 +1,11 @@
+// Live Server Settings
+{
+  "node_executable_path": "/usr/local/bin/node",
+  "global_node_modules_path": "/usr/local/lib/node_modules",
+  "port": 8080,
+  "address": "localhost",
+  "cors": true,
+  "browser": "default",
+  "nobrowser": false,
+  "wait": 10
+}

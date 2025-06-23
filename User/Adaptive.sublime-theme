@@ -1,0 +1,130 @@
+{
+    "variables": {
+        "font_size_sm": 10,
+        "font_size": 12,
+        "font_size_lg": 12,
+        "font_size_title": 12,
+        "font_face": "Liberation Mono",
+        "font_options": ["gray_antialias", "subpixel_antialias", "no_round",],
+    },
+
+    "rules": [
+        // {
+        //     "class": "vcs_status_badge",
+        //     "settings": ["!show_vcs_status_badges"],
+        //     "content_margin": 0,
+        //     "layer0.texture": "",
+        //     "layer0.opacity": 0.0
+        // },
+        {
+            "class": "label_control",
+            "parents": [{"class": "status_bar"}],
+            "font.size": 10,
+        },
+        // Status Bar
+        // {
+        //     "class": "status_bar",
+        //     "layer0.tint": "#d3b58d",  // Beige color for the status bar background
+        //     "layer0.opacity": 1.0,
+        //     "layer1.texture": "Theme - Default/common/footer_divider.png",
+        //     "layer1.inner_margin": [0, 1, 0, 1],
+        //     "layer1.draw_center": false,
+        //     "layer1.opacity": 0.0,
+        //     "content_margin": [5, 0, -5, 0]
+        // },
+        // {
+        //     "class": "label_control",
+        //     "parents": [{"class": "status_bar"}],
+        //     "fg": "#000000",  // Black color for status bar text
+        //     "font.size": "var(font_size_sm)",
+        //     "shadow_color": "color(black a(0.18))",
+        //     "shadow_offset": [0, 1]
+        // },
+        // {
+        //     "class": "status_bar",
+        //     "parents": [{"class": "window", "attributes": ["file_light"]}],
+        //     "layer0.tint": "#d3b58d",  // Consistent beige for light mode
+        //     "layer0.opacity": 1.0
+        // },
+        // {
+        //     "class": "label_control",
+        //     "parents": [{"class": "window", "attributes": ["file_light"]}, {"class": "status_bar"}],
+        //     "fg": "#000000",  // Black text for light mode status bar
+        //     "shadow_color": "color(white a(0.18))"
+        // },
+        // // for changing the color of the small sidebar icon bar color
+        // {
+        //     "class": "sidebar_button_control",
+        //     "layer0.tint": "#000000",  // Bright red to make it visible
+        //     "layer0.opacity": 1.0,  // Ensure it's fully visible
+        //     "content_margin": [10, 11]
+        // },    
+        
+        // // // changing the git color status donw and branch name and etc:
+        // {
+        //     "class": "vcs_branch_icon",
+        //     "layer0.tint": "#000000", // Change to your desired color
+        //     "layer0.opacity": 1.0,
+        //     "content_margin": [6, 11]
+        // },
+        
+        // {
+        //     "class": "label_control",
+        //     "parents": [{"class": "status_bar"}],
+        //     "fg": "#000000", // Makes the branch name text black
+        //     "shadow_color": "transparent"
+        // },
+        
+        // // // also part of git change!
+        
+        // {
+        //     "class": "vcs_changes_annotation",
+        //     "font.face": "var(font_face)",
+        //     "font.size": 9,
+        //     "color": "#000000",  // Change this to black or your preferred color
+        //     "border_color": "black",
+        //     "content_margin": [3, 0]
+        // },
+        // {
+        //     "class": "vcs_changes_annotation",
+        //     "parents": [{"class": "window", "attributes": ["file_light"]}, {"class": "status_bar"}],
+        //     "color": "#000000",  // Black color for commit number in light mode
+        //     "border_color": "black"
+        // },
+        
+        // // updating the file icons for folders 
+        
+        {
+            "class": "icon_folder",
+            "layer0.tint": "#6082B6",  // Change to your desired color
+            "layer0.opacity": 1.0
+          },
+          {
+            "class": "icon_folder_loading",
+            "layer0.tint": "#FFC300",  // Color for loading folders
+            "layer0.opacity": 1.0
+          },
+          {
+            "class": "icon_folder_open",
+            "layer0.tint": "#28A745",  // Color for open folders
+            "layer0.opacity": 1.0
+          },
+          
+          // {
+          //   "class": "sidebar_label",
+          //   "parents": [{"class": "tree_row", "attributes": ["folder"]}],
+          //   "color": "#6082B6"  // Change this to your desired color
+          // },
+          // {
+          //   "class": "sidebar_label",
+          //   "parents": [{"class": "tree_row", "attributes": ["expanded"]}],
+          //   "color": "#6082B6"  // Color for expanded folders
+          // },
+          {
+            "class": "sidebar_label",
+            "parents": [{"class": "tree_row", "attributes": ["selected"]}],
+            "color": "#6082E6"  // Color for selected folders
+          },
+        
+    ]
+}

@@ -1,0 +1,221 @@
+[
+	{
+	"keys": ["alt+0"],
+	"command": "terminus_open", "args": {"cmd": "zsh", "cwd": "${file_path:${folder}}", "panel_name": "Terminus"}
+	},
+	// to toggle the default terminus panel
+	{
+		"keys": ["alt+1"],
+		"command": "toggle_terminus_panel"
+	},
+	{
+		"keys": ["alt+3"],
+		"command": "toggle_terminus_panel(view)"
+	},
+	{ 
+	"keys": ["alt+up"], 
+	"command": "swap_line_up" 
+	},
+	{
+	"keys": ["alt+down"],
+	"command": "swap_line_down"
+	},
+	{
+	"keys": ["alt+shift+down"],
+	"command": "copy"
+	},
+	{
+	"keys": ["alt+shift+up"],
+	"command": "copy"
+	},
+	{ "keys": ["alt+shift+up"], "command": "duplicate_line" },
+	{ "keys": ["alt+shift+down"], "command": "duplicate_line" },
+	{ "keys": ["super+0"], "command": "focus_side_bar" },
+	
+	
+	// Run Code Action
+    {
+        "keys": ["super+."],
+        "command": "lsp_code_actions",
+        "context": [{"key": "lsp.session_with_capability", "operand": "codeActionProvider"}]
+    },
+    
+    //ADVANCED NEW FILE MODIFYING
+    { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},
+    { "keys": ["super+alt+c"], "command": "advanced_new_file_copy"},
+    { "keys": ["super+alt+x"], "command": "advanced_new_file_delete"},
+    
+    //browser refresh
+
+  {
+    "keys": ["super+shift+r"],
+    "command": "browser_refresh",
+    "args": {
+      "auto_save": true,
+      "delay": 0.0,
+      "activate_browser": true,
+      "browser_name": "all"
+    }
+  },
+  //pyest commands
+  
+  {
+		"keys": ["super+shift+t"],
+		"command": "pytest_run"
+	},
+	{
+		"keys": ["super+shift+up"],
+		"command": "pytest_toggle_phantoms",
+	},
+	
+	// macros keybinds
+	{
+    "keys": ["ctrl+shift+0"],
+    "command": "run_macro_file",
+    "args": {"file": "res://Packages/User/QuoteAndComma.sublime-macro"},
+	},
+
+	// For dired filebrowser --------------------------------------------------------- 
+    // Toggle FileBrowser on left side, close if already open
+    {
+        "keys": ["super+k", "super+b"],
+        "command": "toggle_dired_sidebar"
+    },
+
+    {
+        "keys": ["super+0"],
+        "command": "focus_file_browser"
+    },
+
+    // Open selected item in new view
+    {
+        "keys": ["super+enter"],
+        "command": "dired_select",
+        "args": { "new_view": true },
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" },
+            { "key": "setting.dired_rename_mode", "operand": false }
+        ]
+    },
+
+    // Create and open new file/directory
+    {
+        "keys": ["super+enter"],
+        "command": "dired_create_and_open",
+        "context": [{ "key": "setting.dired_create", "operand": true }]
+    },
+
+    // Copy files
+    {
+        "keys": ["super+c"],
+        "command": "dired_copy_files",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" },
+            { "key": "setting.dired_rename_mode", "operand": false }
+        ]
+    },
+
+    // Cut files
+    {
+        "keys": ["super+x"],
+        "command": "dired_copy_files",
+        "args": {"cut": true},
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" },
+            { "key": "setting.dired_rename_mode", "operand": false }
+        ]
+    },
+
+    // Paste files
+    {
+        "keys": ["super+v"],
+        "command": "dired_paste_files",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" },
+            { "key": "setting.dired_rename_mode", "operand": false }
+        ]
+    },
+
+    // Paste files to specific location
+    {
+        "keys": ["super+shift+v"],
+        "command": "dired_paste_files_to",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" },
+            { "key": "setting.dired_rename_mode", "operand": false }
+        ]
+    },
+
+    // Clear copy/cut list
+    {
+        "keys": ["super+z"],
+        "command": "dired_clear_copy_cut_list",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" },
+            { "key": "setting.dired_rename_mode", "operand": false }
+        ]
+    },
+
+    // Movement to start/end of buffer
+    {
+        "keys": ["super+up"],
+        "command": "dired_move",
+        "args": {"to": "bof"},
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" }
+        ]
+    },
+    {
+        "keys": ["super+down"],
+        "command": "dired_move",
+        "args": {"to": "eof"},
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" }
+        ]
+    },
+
+    // Additional useful FileBrowser shortcuts
+    {
+        "keys": ["super+r"],
+        "command": "dired_rename",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" },
+            { "key": "setting.dired_rename_mode", "operand": false }
+        ]
+    },
+
+    {
+        "keys": ["super+f"],
+        "command": "dired_search",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" }
+        ]
+    },
+
+    {
+        "keys": ["super+/"],
+        "command": "dired_find",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" }
+        ]
+    },
+
+    {
+        "keys": ["super+h"],
+        "command": "dired_toggle_hidden",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" }
+        ]
+    },
+
+    // Delete files (to trash)
+    {
+        "keys": ["super+backspace"],
+        "command": "dired_delete",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.dired" },
+            { "key": "setting.dired_rename_mode", "operand": false }
+        ]
+    }
+]
+

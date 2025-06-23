@@ -1,0 +1,1840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"DLExcep",
+				"DLException"
+			],
+			[
+				"getMess",
+				"getMessage() : String"
+			],
+			[
+				"SQL",
+				"SQLException"
+			],
+			[
+				"printl",
+				"println()"
+			],
+			[
+				"Arra",
+				"ArrayList<>()()"
+			],
+			[
+				"SQLE",
+				"SQLException"
+			],
+			[
+				"CONNEC",
+				"CONNECTION_BAD"
+			],
+			[
+				"s",
+				"sy\tsynchronized"
+			],
+			[
+				"array",
+				"array2"
+			],
+			[
+				"grade",
+				"grades2"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"ar",
+				"arrayOfRandoms"
+			],
+			[
+				"ran",
+				"randomValue"
+			],
+			[
+				"rand",
+				"randomIntegers"
+			],
+			[
+				"random",
+				"randomIntegers"
+			],
+			[
+				"clock_get",
+				"clock_gettime"
+			],
+			[
+				"time",
+				"time_t"
+			],
+			[
+				"srad",
+				"srand"
+			],
+			[
+				"inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"char",
+				"char"
+			],
+			[
+				"pr",
+				"problem"
+			],
+			[
+				"int",
+				"int16_t"
+			],
+			[
+				"sq",
+				"squareRoot"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"sc",
+				"SCNd64"
+			],
+			[
+				"tota",
+				"total_numbers"
+			],
+			[
+				"total",
+				"total_numbers"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"scanf",
+				"scanf"
+			],
+			[
+				"pritf",
+				"printf\tprintf …"
+			],
+			[
+				"stdlib",
+				"stdlib.h>"
+			],
+			[
+				"stdio",
+				"stdio.h>"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"sum",
+				"sumValue"
+			],
+			[
+				"count",
+				"countLen"
+			],
+			[
+				"string",
+				"string2"
+			],
+			[
+				"math",
+				"math.h"
+			],
+			[
+				"stdbool",
+				"stdbool.h>"
+			],
+			[
+				"input",
+				"inputString"
+			],
+			[
+				"stringOf",
+				"stringOfChar"
+			],
+			[
+				"error",
+				"error_backref"
+			],
+			[
+				"wind",
+				"windows.h>"
+			],
+			[
+				"windows",
+				"windows.h>"
+			],
+			[
+				"windo",
+				"windows.h>"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"d",
+				"d\", &a);"
+			],
+			[
+				"printf",
+				"printf"
+			],
+			[
+				"get",
+				"getA()"
+			],
+			[
+				"Sys",
+				"System.out.println"
+			],
+			[
+				"Main",
+				"Main"
+			],
+			[
+				"scan",
+				"scanNumber()"
+			],
+			[
+				"std",
+				"stdarg"
+			],
+			[
+				"sca",
+				"scanf(\"%d"
+			],
+			[
+				"m",
+				"myDouble"
+			],
+			[
+				"h",
+				"stringlist.h>"
+			],
+			[
+				"float",
+				"float name"
+			],
+			[
+				"name",
+				"name: %"
+			],
+			[
+				"Enter",
+				"Enter name:"
+			],
+			[
+				"ch",
+				"char"
+			],
+			[
+				"inclu",
+				"include <string.h>"
+			],
+			[
+				"ever",
+				"everyone!\\n\");"
+			],
+			[
+				"st",
+				"stpcpy"
+			],
+			[
+				"stdl",
+				"stdlib.h>"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"Hello",
+				"Hello, world!\");"
+			],
+			[
+				"writ",
+				"write"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"function",
+				"Function"
+			],
+			[
+				"console",
+				"crossOriginIsolated"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ech",
+				"PCNTL_ECHILD"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"log",
+				"timeLog"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"back",
+				"backdrop-filter"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"t",
+				"test123.js"
+			],
+			[
+				"color",
+				"color-scheme"
+			],
+			[
+				"innerHTML",
+				"innerHTML = \"Hello World"
+			],
+			[
+				"valid",
+				"valid email address or"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"Hi",
+				"highlight_string"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"p",
+				"plum"
+			],
+			[
+				"pur",
+				"paleturquoise"
+			],
+			[
+				"VIO",
+				"blueviolet"
+			],
+			[
+				"r",
+				"royalblue"
+			],
+			[
+				"bo",
+				"::before"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"Sca",
+				"Scanner;"
+			],
+			[
+				"out",
+				"out.println(\""
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Mydo",
+				"Mydouble: %f\\n\", my"
+			],
+			[
+				"snake",
+				"snakeCount"
+			],
+			[
+				"test",
+				"test for"
+			],
+			[
+				"fucker",
+				"fuckers\\"
+			],
+			[
+				"retur",
+				"return_temporary_buffer"
+			],
+			[
+				"stdi",
+				"stdint.h"
+			],
+			[
+				"f",
+				"fcntl.h>"
+			],
+			[
+				"include",
+				"include"
+			],
+			[
+				"complex",
+				"complex.h>"
+			],
+			[
+				"main",
+				"main()"
+			],
+			[
+				"n",
+				"n\\"
+			],
+			[
+				"arr",
+				"array[i]"
+			],
+			[
+				"program",
+				"program\\n\");"
+			],
+			[
+				"MA",
+				"MAXFLOAT"
+			],
+			[
+				"te",
+				"temp"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"le",
+				"length2"
+			],
+			[
+				"new",
+				"newArray2"
+			],
+			[
+				"fin",
+				"find_max"
+			],
+			[
+				"sie",
+				"sizeof"
+			],
+			[
+				"sizeof",
+				"__SIZEOF_DOUBLE__"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"len",
+				"length"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/\n———————————————————————————————————————————————————————————————————\n⠤\n▾  Assignments/\n  ▾  Exercise2/\n    ▾  lib/\n      ≡  .DS_Store\n    ≡  .DS_Store\n    ≡  compile_commands.json\n    ≡  db\n    ≡  db.c\n    ≡  DBconfig.txt\n    ≡  Main.class\n    ≡  Main.java\n    ≡  mysql-connector-j-9.2.0.jar\n    ≡  MySQLDatabase.class\n    ≡  MySQLDatabase.java\n    ≡  test_mysql\n    ≡  test_mysql.c\n    ≡  traveltest2.sql\n    ≡  traveltest.sql\n  ▸  Exercise3/\n  ▸  Exercise4/\n  ≡  .DS_Store\n  ≡  Exercise3.zip\n  ≡  Exercise4.zip\n≡  .DS_Store\n≡  .gitkeep",
+			"settings":
+			{
+				"buffer_size": 629,
+				"line_ending": "Unix",
+				"name": "𝌆 Database Conectivity ISTE-330 (/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330)",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"dired_refresh",
+					{
+						"goto": "",
+						"reset_sels": true
+					},
+					"AQAAAAAAAAAAAAAAtQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"dired_expand",
+					null,
+					"AQAAAIoAAAAAAAAABQEAAAAAAAAUAAAA4pa4IO+BuyBBc3NpZ25tZW50cy8",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"dired_expand",
+					null,
+					"AQAAAJsAAAAAAAAA7AEAAAAAAAAUAAAAICDilrgg74G7IEV4ZXJjaXNlMi8",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"dired_expand",
+					null,
+					"AQAAAKwAAAAAAAAAzAAAAAAAAAAQAAAAICAgIOKWuCDvgbsgbGliLw",
+					"AQAAAAAAAAABAAAAsgAAAAAAAACyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"dired_refresh",
+					null,
+					"AQAAAAAAAAAAAAAAdQIAAAAAAABhAwAAL1VzZXJzL2thcmxvc2lyaWMvRGVza3RvcC9Vbml2ZXJzaXR5L0RhdGFiYXNlIENvbmVjdGl2aXR5IElTVEUtMzMwLwrigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJQK4qCkCuKWviDvgbwgQXNzaWdubWVudHMvCiAg4pa+IO+BvCBFeGVyY2lzZTIvCiAgICDilr4g74G8IGxpYi8KICAgICAg4omhIO+FmyAuRFNfU3RvcmUKICAgIOKJoSDvhZsgLkRTX1N0b3JlCiAgICDiiaEg7piLIGNvbXBpbGVfY29tbWFuZHMuanNvbgogICAg4omhIO+FmyBkYgogICAg4omhIO6YniBkYi5jCiAgICDiiaEg7q2pIERCY29uZmlnLnR4dAogICAg4omhIO+FmyBNYWluLmNsYXNzCiAgICDiiaEg7omWIE1haW4uamF2YQogICAg4omhIO+FmyBteXNxbC1jb25uZWN0b3Itai05LjIuMC5qYXIKICAgIOKJoSDvhZsgTXlTUUxEYXRhYmFzZS5jbGFzcwogICAg4omhIO6JliBNeVNRTERhdGFiYXNlLmphdmEKICAgIOKJoSDvhZsgdGVzdF9teXNxbAogICAg4omhIO6YniB0ZXN0X215c3FsLmMKICAgIOKJoSDumY0gdHJhdmVsdGVzdDIuc3FsCiAgICDiiaEg7pmNIHRyYXZlbHRlc3Quc3FsCiAg4pa4IO+BuyBFeGVyY2lzZTMvCiAg4pa4IO+BuyBFeGVyY2lzZTQvCiAg4omhIO+FmyAuRFNfU3RvcmUKICDiiaEg7pqqIEV4ZXJjaXNlMy56aXAKICDiiaEg7pqqIEV4ZXJjaXNlNC56aXAK4omhIO+FmyAuRFNfU3RvcmUK4omhIO+FmyAuZ2l0a2VlcA",
+					"AQAAAAAAAAABAAAAQwEAAAAAAABDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"dired_refresh",
+					null,
+					"AQAAAAAAAAAAAAAAdQIAAAAAAABhAwAAL1VzZXJzL2thcmxvc2lyaWMvRGVza3RvcC9Vbml2ZXJzaXR5L0RhdGFiYXNlIENvbmVjdGl2aXR5IElTVEUtMzMwLwrigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJQK4qCkCuKWviDvgbwgQXNzaWdubWVudHMvCiAg4pa+IO+BvCBFeGVyY2lzZTIvCiAgICDilr4g74G8IGxpYi8KICAgICAg4omhIO+FmyAuRFNfU3RvcmUKICAgIOKJoSDvhZsgLkRTX1N0b3JlCiAgICDiiaEg7piLIGNvbXBpbGVfY29tbWFuZHMuanNvbgogICAg4omhIO+FmyBkYgogICAg4omhIO6YniBkYi5jCiAgICDiiaEg7q2pIERCY29uZmlnLnR4dAogICAg4omhIO+FmyBNYWluLmNsYXNzCiAgICDiiaEg7omWIE1haW4uamF2YQogICAg4omhIO+FmyBteXNxbC1jb25uZWN0b3Itai05LjIuMC5qYXIKICAgIOKJoSDvhZsgTXlTUUxEYXRhYmFzZS5jbGFzcwogICAg4omhIO6JliBNeVNRTERhdGFiYXNlLmphdmEKICAgIOKJoSDvhZsgdGVzdF9teXNxbAogICAg4omhIO6YniB0ZXN0X215c3FsLmMKICAgIOKJoSDumY0gdHJhdmVsdGVzdDIuc3FsCiAgICDiiaEg7pmNIHRyYXZlbHRlc3Quc3FsCiAg4pa4IO+BuyBFeGVyY2lzZTMvCiAg4pa4IO+BuyBFeGVyY2lzZTQvCiAg4omhIO+FmyAuRFNfU3RvcmUKICDiiaEg7pqqIEV4ZXJjaXNlMy56aXAKICDiiaEg7pqqIEV4ZXJjaXNlNC56aXAK4omhIO+FmyAuRFNfU3RvcmUK4omhIO+FmyAuZ2l0a2VlcA",
+					"AQAAAAAAAAABAAAAQwEAAAAAAABDAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/User/C!7 DebuggerSystem.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C!7 DebuggerSystem.sublime-build",
+					""
+				],
+				[
+					"Packages/User/javaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaCompiler.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaMySQL.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaMySQL.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/MavenJava.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MavenJava.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/User/SQLCMD.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					"Run in Terminal"
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					"Test in Terminal"
+				]
+			],
+			[
+				"Packages/User/C!7 DebuggerSystem.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C!7 DebuggerSystem.sublime-build",
+					""
+				],
+				[
+					"Packages/User/javaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaCompiler.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/MavenJava.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MavenJava.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/User/SQLCMD.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					"Run in Terminal"
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					"Test in Terminal"
+				]
+			],
+			[
+				"Packages/User/JavaCompiler.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git s",
+				"git: status"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"left",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"left ",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"color sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"custom",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"customze",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"select color sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"cus",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"le",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"left si",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"package settings",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"edit pr",
+				"Project: Edit Project"
+			],
+			[
+				"git savv",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"git br",
+				"git: branch"
+			],
+			[
+				"custome",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"git b",
+				"git: branch"
+			],
+			[
+				"git",
+				"git: status"
+			],
+			[
+				"format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"jdtls",
+				"Preferences: LSP-jdtls Settings"
+			],
+			[
+				"duplica",
+				"File: Duplicate"
+			],
+			[
+				"GIT S",
+				"git: status"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"terminus vie",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"lsp se",
+				"Preferences: LSP Settings"
+			],
+			[
+				"enable pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable gl",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp t",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"lsp log",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"trouble",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"troubl",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"disa",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"enable ",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp toggle",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"enavl",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp lo",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp tr",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"di",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"status git",
+				"git: status"
+			],
+			[
+				"branch",
+				"git: branch"
+			],
+			[
+				"cu",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"theme custom",
+				"UI: Customize Theme"
+			],
+			[
+				"terminus se",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"bra",
+				"git: branch"
+			],
+			[
+				"git status",
+				"git: status"
+			],
+			[
+				"build",
+				"LSP-jdtls: Build Workspace"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"neew bui",
+				"Build: New Build System"
+			],
+			[
+				"terminus vi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"lsp pre",
+				"Preferences: LSP Settings"
+			],
+			[
+				"jd",
+				"Preferences: LSP-jdtls Settings"
+			],
+			[
+				"enal",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"branc",
+				"git: branch"
+			],
+			[
+				"toggle",
+				"LSP: Toggle Code Lenses"
+			],
+			[
+				"custo",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"jdtl",
+				"Preferences: LSP-jdtls Settings"
+			],
+			[
+				"ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"jdlt",
+				"Preferences: LSP-jdtls Settings"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp jd",
+				"Preferences: LSP-jdtls Settings"
+			],
+			[
+				"enable pr",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"log lsp",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"dis",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp jdt",
+				"Preferences: LSP-jdtls Settings"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"eanble lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp re",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"restart ",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp tro",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"new project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"view ",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"javatar se",
+				"Javatar: Browse Commands..."
+			],
+			[
+				"j",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar",
+				"Javatar: Builds..."
+			],
+			[
+				"lsp ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"javatar ",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar new",
+				"Javatar: Create new..."
+			],
+			[
+				"javata",
+				"Javatar: Create new..."
+			],
+			[
+				"pieces",
+				"Pieces: About"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"new folder",
+				"File: New Folder"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"new fol",
+				"File: New Folder"
+			],
+			[
+				"java project",
+				"Project: Save As"
+			],
+			[
+				"new proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"open new ",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"new f",
+				"File: New Folder"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"wakati",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"sync settings",
+				"Sync Settings: Edit User Settings"
+			],
+			[
+				"run sync se",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"syntax C",
+				"Set Syntax: C"
+			],
+			[
+				"syntax jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"font ",
+				"Set Syntax: Font"
+			],
+			[
+				"statusbar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"copilot sett",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"clangd",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lsp trou",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"LSP",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"clang lsp",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"lsp clang",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"debugger set",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"setting ",
+				"Preferences: LSP Settings"
+			],
+			[
+				"clang format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"Theme",
+				"UI: Select Theme"
+			],
+			[
+				"FORMAT",
+				"Clang Format: Set Path"
+			],
+			[
+				"mode",
+				"Snippet: modeline"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"clear",
+				"Debugger: Clear Breakpoints"
+			],
+			[
+				"debugger stop",
+				"Debugger: Stop"
+			],
+			[
+				"debugg",
+				"Debugger: Open"
+			],
+			[
+				"debugger",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+			"import py",
+			"pwd",
+			"clear",
+			"copilot",
+			"build",
+			"make",
+			"running",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise3",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise4"
+	],
+	"file_history":
+	[
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/Main.java",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/traveltest.sql",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/traveltest2.sql",
+		"/Users/karlosiric/.cursor-tutor/examples/explaining_code.c",
+		"/Users/karlosiric/.zshrc",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise4/DBconfig.txt",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise4/DLException.class",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise4/DLException.java",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise4/MySQLDatabase.java",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise4/Main.java",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise4/Equipment.java",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise3/Main.java",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise3/Equipment.java",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise3/MySQLDatabase.java",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise3/mysql-connector-j-9.2.0.jar",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise3/Equipment.class",
+		"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise3/traveltest.sql",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/Database Conectivity ISTE-330.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise3/Equipment.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise3/Main.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise3/MySQLDatabase.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise2/Main.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise2/db.c",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise3/traveltest.sql",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise2/traveltest.sql",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise2/traveltest2.sql",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise3/mysql-connector-j-9.2.0.jar",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise2/MySQLDatabase.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise3/DBconfig.txt",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/KarloSiric_Exercise_2.zip",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise2/configC.txt",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise2/DBconfig.txt",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdio.h",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/configC.txt",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/mysqldb.c",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/DBconfig.txt",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise2/travel23.sql",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/Exercise2/test_mysql.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaMySQL.sublime-build",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/SiricK/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Database Conectivity ISTE-330/Assignments/testing.sql",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/.gitkeep",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124/20012025/src/test123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124/20012025/makefile",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/test123.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaProjectBuild.sublime-build",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/test1234/java.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Javatar.sublime-settings",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Javatar/Javatar.sublime-settings",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/testing123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Testing123.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaCompiler.sublime-build",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/makefile",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject/MyJavaProject.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject/testing.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/University_Year_Two_2nd_Semester.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/Tutoring1.java",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_ExtremeC/Macro2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/LogFile.log",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/CharArrays2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_ExtremeC/Macro.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Advice_for_Programming_Worth_Reading.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/maketest.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/arrays.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/CharArrays.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/DocumentationForC.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/switch.c",
+		"/Users/karlosiric/.config/kitty/kitty.conf",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/randomNumbersTest.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/README.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/d.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/maketest.txt",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/supress_save_message.py",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_printf.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/TutorialLoops.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Makefile",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/C_Sublime_Portfolio.sublime-project",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdlib.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/stdlib.h",
+		"/Users/karlosiric/Downloads/MadeofCode.tmTheme",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/math.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Clang.sublime-build",
+		"/Users/karlosiric/.config/alacritty/alacritty.toml.1736176553835.bak",
+		"/Users/karlosiric/.zshenv",
+		"/Users/karlosiric/.config/alacritty/alacritty.toml",
+		"/Users/karlosiric/.zshrc.backup",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Dr.Chuck/FahrFor.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_printf.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Dr.Chuck/1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/.gitignore",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial13ForLoop.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial12DoWhileLoop.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial11WhileLoopsMore.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial8.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Dr.Chuck_C/FahrFor.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial9WhileLoops.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial10MoreWhile.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Debugger/Debugger.sublime-project",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/beej1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/PalindromeString.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/ArraySum.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/ArrayAverage.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/C17.sublime-build",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Python Terminus.sublime-build",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/C++.sublime-package",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdio.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/Honors_Tester_Program.sublime-project",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdio.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/Readme.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/PalindromeString.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/string.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/ArraySum.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/Day01.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/funny_printf.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/test.json",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/Occurrence.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdlib.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/scanf.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/scanf.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/C_Intro3.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/Occurrence",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/.cpl_files/Main.java"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 424.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ClassNotFoundException",
+			"SQLException",
+			"DLException",
+			"DLExceptions",
+			"SQLException",
+			"getmessage",
+			"writer",
+			"sqlEception",
+			"DBExceptions",
+			"String",
+			"query",
+			"SQLException",
+			"connection",
+			"Connection",
+			"database",
+			"item_description"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": false,
+							"OUIB_last_update_timestamp": 1740183914.77,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion.is_visible": false,
+							"default_dir": "/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Jonas_Birch",
+							"dired_count": 25,
+							"dired_index":
+							[
+								"",
+								"",
+								"⠤",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/lib/",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/lib/.DS_Store",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/.DS_Store",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/compile_commands.json",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/db",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/db.c",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/DBconfig.txt",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/Main.class",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/Main.java",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/mysql-connector-j-9.2.0.jar",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/MySQLDatabase.class",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/MySQLDatabase.java",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/test_mysql",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/test_mysql.c",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/traveltest2.sql",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/traveltest.sql",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise3/",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise4/",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/.DS_Store",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise3.zip",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise4.zip",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/.DS_Store",
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/.gitkeep"
+							],
+							"dired_path": "/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/",
+							"dired_rename_mode": false,
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_uri": "buffer:496",
+							"syntax": "Packages/FileBrowser/dired.sublime-syntax",
+							"vcs_changed_items":
+							{
+								"/Users/karlosiric/Desktop/University/Database Conectivity ISTE-330/Assignments/Exercise2/Main.java": "M"
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 160.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 294.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 294.0
+	},
+	"output.GitSavvy":
+	{
+		"height": 144.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 267.0
+	},
+	"output.Pieces Auth":
+	{
+		"height": 0.0
+	},
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 215.0
+	},
+	"output.diagnostics":
+	{
+		"height": 207.0
+	},
+	"output.exec":
+	{
+		"height": 243.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 125.0
+	},
+	"pinned_build_system": "",
+	"project": "Database Conectivity ISTE-330.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"Assignments/Exercise3/Main.java"
+			],
+			[
+				"my",
+				"Assignments/Exercise3/MySQLDatabase.java"
+			],
+			[
+				"dc",
+				"Assignments/Exercise2/db.c"
+			],
+			[
+				"db",
+				"Assignments/Exercise2/db.c"
+			],
+			[
+				"travel",
+				"Assignments/Exercise2/travel23.sql"
+			],
+			[
+				"",
+				"Assignments/Exercise2/MySQLDatabase.java"
+			],
+			[
+				".",
+				"Assignments/Exercise2/travel23.sql"
+			],
+			[
+				"ad",
+				"Advice_for_Programming_Worth_Reading.txt"
+			],
+			[
+				"C_port",
+				"C_Portfolio/TutorialLoops.c"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"mai",
+				".cpl_files/Main.java"
+			],
+			[
+				"in",
+				"minArray"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 98.0,
+		"last_filter": "main",
+		"selected_items":
+		[
+			[
+				"main",
+				"main"
+			],
+			[
+				"EOF",
+				"EOF"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"copilot.conversation.code_block_index":
+		{
+		},
+		"copilot.conversation.conversation_entries":
+		[
+		],
+		"copilot.conversation.conversation_id": "",
+		"copilot.conversation.follow_up": "",
+		"copilot.conversation.is_visible": false,
+		"copilot.conversation.is_waiting_conversation": false,
+		"copilot.conversation.last_active_view_id": 219,
+		"copilot.conversation.original_layout": null,
+		"copilot.conversation.reference_block_state":
+		{
+		},
+		"copilot.conversation.suggested_title": "",
+		"copilot.copilotignore.patterns":
+		{
+		},
+		"lsp_show_code_lens": false,
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

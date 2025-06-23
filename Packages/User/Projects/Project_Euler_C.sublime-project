@@ -1,0 +1,66 @@
+
+{
+    "folders" : [ {
+        "path" : "~/Documents/SublimeText Programming/Project_Euler_C",
+    }],
+                "settings" : {
+                    "ClangFormat" : {
+                        "format_on_save" : true,
+                        "BasedOnStyle" : "LLVM",
+                        "IndentWidth" : "4",
+                        "UseTab" : "Never",
+                    },
+
+                    "LSP" : {"LSP-copilot" : {"enabled" : true,},},
+                },
+
+                             "debugger_configurations"
+        : [
+
+            {
+                "type" : "lldb",
+                "request" : "launch",
+                "name" : "Debug Problem",
+                "program" : "${folder}/C_Euler_Project/Problem1",
+                "args" : [],
+                "cwd" : "${folder}",
+                "stopOnEntry" : false,
+            },
+            {
+                "type" : "lldb",
+                "request" : "launch",
+                "name" : "Debug Problem2",
+                "program" : "${folder}/C_Euler_Project/Problem2",
+                "args" : [],
+                "cwd" : "${folder}",
+                "stopOnEntry" : false,
+            },
+            {
+                "type" : "lldb",
+                "request" : "launch",
+                "name" : "Debug Problem3",
+                "program" : "${folder}/C_Euler_Project/Problem3",
+                "args" : [],
+                "cwd" : "${folder}",
+                "stopOnEntry" : false,
+            },
+            {
+                "type" : "lldb",
+                "request" : "launch",
+                "name" : "Debug testing",
+                "program" : "${folder}/C_Euler_Project/testing",
+                "args" : [],
+                "cwd" : "${folder}",
+                "stopOnEntry" : false,
+            },
+            {
+                "type" : "lldb",
+                "request" : "launch",
+                "name" : "Debug Problem14Again",
+                "program" : "${folder}/C_Euler_Project/Problem14Again",
+                "args" : [],
+                "cwd" : "${folder}",
+                "stopOnEntry" : false,
+            },
+    ],
+}

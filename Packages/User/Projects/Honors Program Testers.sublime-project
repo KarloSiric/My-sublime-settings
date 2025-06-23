@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"path": "~/Documents/Tester-GCIS123/TesterGeneration/Honors Program Testers",
+		}
+	],
+	"settings":
+	{
+		"LSP":
+		{
+			"LSP-pylsp":
+			{
+				"enabled": false,
+			},
+		},
+		"PyTest":
+		{
+			"mode": "manual",
+		},
+	},
+}

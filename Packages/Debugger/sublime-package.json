@@ -1,0 +1,1596 @@
+{
+  "contributions": {
+    "settings": [
+      {
+        "schema": {
+          "$id": "sublime://settings/debugger",
+          "definitions": {
+            "type": {
+              "properties": {
+                "type": {
+                  "type": "string",
+                  "description": "Type of configuration.",
+                  "enum": [
+                    "lldb",
+                    "gdb",
+                    "chrome",
+                    "node",
+                    "msedge",
+                    "debugpy",
+                    "python",
+                    "java",
+                    "go",
+                    "php",
+                    "rdbg",
+                    "ruby",
+                    "ruby-debug",
+                    "elixir",
+                    "mix_task",
+                    "lua-local",
+                    "coreclr",
+                    "netcoredbg",
+                    "firefox",
+                    "mock",
+                    "sublime",
+                    "emulicious-debugger"
+                  ]
+                }
+              },
+              "required": [
+                "type"
+              ]
+            },
+            "type_installed": {
+              "properties": {
+                "type": {
+                  "type": "string",
+                  "description": "Type of configuration.",
+                  "enum": [
+                    "lldb",
+                    "java"
+                  ],
+                  "errorMessage": "This adapter is not installed, install this adapter to get completions"
+                }
+              },
+              "required": [
+                "type"
+              ]
+            },
+            "lldb": {
+              "properties": {
+                "request": {
+                  "type": "string",
+                  "description": "Request type of configuration.",
+                  "enum": [
+                    "launch",
+                    "attach",
+                    "custom"
+                  ]
+                },
+                "name": {
+                  "type": "string",
+                  "description": "Name of configuration which appears in the launch configuration drop down menu."
+                }
+              },
+              "required": [
+                "type",
+                "name",
+                "request"
+              ]
+            },
+            "lldb.launch": {
+              "properties": {
+                "program": {
+                  "description": "Path to the program to debug.",
+                  "type": "string"
+                },
+                "cargo": {
+                  "description": "Cargo invocation parameters.",
+                  "type": "object",
+                  "properties": {
+                    "args": {
+                      "description": "Cargo command line arguments.",
+                      "type": "array",
+                      "default": []
+                    },
+                    "env": {
+                      "description": "Additional environment variables passed to cargo.",
+                      "type": "object",
+                      "patternProperties": {
+                        ".*": {
+                          "type": "string"
+                        }
+                      },
+                      "default": {}
+                    },
+                    "problemMatcher": {
+                      "description": "Problem matcher(s) to apply to cargo output.",
+                      "type": [
+                        "string",
+                        "array"
+                      ]
+                    },
+                    "filter": {
+                      "description": "Filter applied to compilation artifacts.",
+                      "type": "object",
+                      "properties": {
+                        "name": {
+                          "type": "string"
+                        },
+                        "kind": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  },
+                  "required": [
+                    "args"
+                  ],
+                  "defaultSnippets": [
+                    {
+                      "label": "Library unit tests",
+                      "body": {
+                        "args": [
+                          "test",
+                          "--no-run",
+                          "--lib"
+                        ],
+                        "filter": {
+                          "kind": "lib"
+                        }
+                      }
+                    },
+                    {
+                      "label": "Executable",
+                      "body": {
+                        "args": [
+                          "build",
+                          "--bin=${1:<name>}"
+                        ],
+                        "filter": {
+                          "kind": "bin"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "args": {
+                  "description": "Program arguments.",
+                  "type": [
+                    "array",
+                    "string"
+                  ]
+                },
+                "cwd": {
+                  "description": "Program working directory.",
+                  "type": "string"
+                },
+                "env": {
+                  "description": "Additional environment variables.",
+                  "type": "object",
+                  "patternProperties": {
+                    ".*": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "envFile": {
+                  "description": "File to read the environment variables from.",
+                  "type": "string"
+                },
+                "stdio": {
+                  "description": "Destination for stdio streams: null = send to debugger console or a terminal, \"<path>\" = attach to a file/tty/fifo.",
+                  "type": [
+                    "null",
+                    "string",
+                    "array",
+                    "object"
+                  ],
+                  "default": null
+                },
+                "terminal": {
+                  "description": "Terminal type to use.",
+                  "type": "string",
+                  "enum": [
+                    "integrated",
+                    "external",
+                    "console"
+                  ],
+                  "enumDescriptions": [
+                    "Use integrated terminal in VSCode.",
+                    "Use external terminal window.",
+                    "Use VScode Debug Console for stdout and stderr. Stdin will be unavailable."
+                  ],
+                  "default": "integrated"
+                },
+                "console": {
+                  "description": "Terminal type to use. (This setting is a compatibility alias of 'terminal'.)",
+                  "type": "string",
+                  "enum": [
+                    "integratedTerminal",
+                    "externalTerminal",
+                    "internalConsole"
+                  ],
+                  "enumDescriptions": [
+                    "Use integrated terminal in VSCode.",
+                    "Use external terminal window.",
+                    "Use VScode Debug Console for stdout and stderr. Stdin will be unavailable."
+                  ]
+                },
+                "stopOnEntry": {
+                  "description": "Automatically stop debuggee after launch.",
+                  "type": "boolean",
+                  "default": false
+                },
+                "initCommands": {
+                  "description": "Initialization commands executed upon debugger startup.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "targetCreateCommands": {
+                  "description": "Commands that create the debug target.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "preRunCommands": {
+                  "description": "Commands executed just before the program is launched.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "processCreateCommands": {
+                  "description": "Commands that create the debuggee process.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "postRunCommands": {
+                  "description": "Commands executed just after the program has been launched.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "exitCommands": {
+                  "description": "Commands executed at the end of debugging session.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "expressions": {
+                  "description": "The default evaluator type used for expressions.",
+                  "type": "string",
+                  "enum": [
+                    "simple",
+                    "python",
+                    "native"
+                  ]
+                },
+                "sourceMap": {
+                  "description": "Source path remapping between the build machine and the local machine.  Each item is a pair of remote and local path prefixes.",
+                  "type": "object",
+                  "patternProperties": {
+                    ".*": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  },
+                  "default": {}
+                },
+                "relativePathBase": {
+                  "description": "Base directory used for resolution of relative source paths.  Defaults to \"${workspaceFolder}\".",
+                  "type": "string"
+                },
+                "sourceLanguages": {
+                  "description": "A list of source languages to enable language-specific features for.",
+                  "type": "array",
+                  "default": []
+                },
+                "reverseDebugging": {
+                  "description": "Enable reverse debugging (Requires reverse execution support in the debug server, see User's Manual for details).",
+                  "type": "boolean",
+                  "default": false
+                },
+                "breakpointMode": {
+                  "description": "Specifies how source breakpoints should be set.",
+                  "type": "string",
+                  "enum": [
+                    "path",
+                    "file"
+                  ],
+                  "enumDescriptions": [
+                    "Resolve locations using full source file path.",
+                    "Resolve locations using file name only."
+                  ]
+                },
+                "pre_debug_task": {
+                  "type": "string",
+                  "description": "Name of task to run before debugging starts"
+                },
+                "post_debug_task": {
+                  "type": "string",
+                  "description": "name of task to run after debugging ends"
+                },
+                "osx": {
+                  "$ref": "sublime://settings/debugger#/definitions/lldb.launch",
+                  "description": "MacOS specific configuration attributes"
+                },
+                "windows": {
+                  "$ref": "sublime://settings/debugger#/definitions/lldb.launch",
+                  "description": "Windows specific configuration attributes"
+                },
+                "linux": {
+                  "$ref": "sublime://settings/debugger#/definitions/lldb.launch",
+                  "description": "Linux specific configuration attributes"
+                }
+              },
+              "oneOf": [
+                {
+                  "required": [
+                    "program"
+                  ]
+                },
+                {
+                  "required": [
+                    "cargo"
+                  ]
+                }
+              ],
+              "type": "object"
+            },
+            "lldb.attach": {
+              "properties": {
+                "program": {
+                  "description": "Path to the program to attach to.",
+                  "type": "string"
+                },
+                "pid": {
+                  "description": "Process id to attach to.",
+                  "type": [
+                    "integer",
+                    "string"
+                  ],
+                  "default": "${command:pickMyProcess}"
+                },
+                "stopOnEntry": {
+                  "description": "Automatically stop debuggee after attach.",
+                  "type": "boolean",
+                  "default": false
+                },
+                "waitFor": {
+                  "description": "Wait for the process to launch (MacOS only).",
+                  "type": "boolean",
+                  "default": false
+                },
+                "initCommands": {
+                  "description": "Initialization commands executed upon debugger startup.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "targetCreateCommands": {
+                  "description": "Commands that create the debug target.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "preRunCommands": {
+                  "description": "Commands executed just before the program is launched.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "processCreateCommands": {
+                  "description": "Commands that create the debuggee process.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "postRunCommands": {
+                  "description": "Commands executed just after the program has been launched.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "exitCommands": {
+                  "description": "Commands executed at the end of debugging session.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "expressions": {
+                  "description": "The default evaluator type used for expressions.",
+                  "type": "string",
+                  "enum": [
+                    "simple",
+                    "python",
+                    "native"
+                  ]
+                },
+                "sourceMap": {
+                  "description": "Source path remapping between the build machine and the local machine.  Each item is a pair of remote and local path prefixes.",
+                  "type": "object",
+                  "patternProperties": {
+                    ".*": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  },
+                  "default": {}
+                },
+                "relativePathBase": {
+                  "description": "Base directory used for resolution of relative source paths.  Defaults to \"${workspaceFolder}\".",
+                  "type": "string"
+                },
+                "sourceLanguages": {
+                  "description": "A list of source languages to enable language-specific features for.",
+                  "type": "array",
+                  "default": []
+                },
+                "reverseDebugging": {
+                  "description": "Enable reverse debugging (Requires reverse execution support in the debug server, see User's Manual for details).",
+                  "type": "boolean",
+                  "default": false
+                },
+                "breakpointMode": {
+                  "description": "Specifies how source breakpoints should be set.",
+                  "type": "string",
+                  "enum": [
+                    "path",
+                    "file"
+                  ],
+                  "enumDescriptions": [
+                    "Resolve locations using full source file path.",
+                    "Resolve locations using file name only."
+                  ]
+                },
+                "pre_debug_task": {
+                  "type": "string",
+                  "description": "Name of task to run before debugging starts"
+                },
+                "post_debug_task": {
+                  "type": "string",
+                  "description": "name of task to run after debugging ends"
+                },
+                "osx": {
+                  "$ref": "sublime://settings/debugger#/definitions/lldb.attach",
+                  "description": "MacOS specific configuration attributes"
+                },
+                "windows": {
+                  "$ref": "sublime://settings/debugger#/definitions/lldb.attach",
+                  "description": "Windows specific configuration attributes"
+                },
+                "linux": {
+                  "$ref": "sublime://settings/debugger#/definitions/lldb.attach",
+                  "description": "Linux specific configuration attributes"
+                }
+              },
+              "type": "object"
+            },
+            "lldb.custom": {
+              "properties": {
+                "initCommands": {
+                  "description": "Initialization commands executed upon debugger startup.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "cargo": {
+                  "description": "Cargo invocation parameters.",
+                  "type": "object",
+                  "properties": {
+                    "args": {
+                      "description": "Cargo command line arguments.",
+                      "type": "array",
+                      "default": []
+                    },
+                    "env": {
+                      "description": "Additional environment variables passed to cargo.",
+                      "type": "object",
+                      "patternProperties": {
+                        ".*": {
+                          "type": "string"
+                        }
+                      },
+                      "default": {}
+                    },
+                    "problemMatcher": {
+                      "description": "Problem matcher(s) to apply to cargo output.",
+                      "type": [
+                        "string",
+                        "array"
+                      ]
+                    },
+                    "filter": {
+                      "description": "Filter applied to compilation artifacts.",
+                      "type": "object",
+                      "properties": {
+                        "name": {
+                          "type": "string"
+                        },
+                        "kind": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  },
+                  "required": [
+                    "args"
+                  ],
+                  "defaultSnippets": [
+                    {
+                      "label": "Library unit tests",
+                      "body": {
+                        "args": [
+                          "test",
+                          "--no-run",
+                          "--lib"
+                        ],
+                        "filter": {
+                          "kind": "lib"
+                        }
+                      }
+                    },
+                    {
+                      "label": "Executable",
+                      "body": {
+                        "args": [
+                          "build",
+                          "--bin=${1:<name>}"
+                        ],
+                        "filter": {
+                          "kind": "bin"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "targetCreateCommands": {
+                  "description": "Commands that create the debug target.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "processCreateCommands": {
+                  "description": "Commands that create the debuggee process.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "exitCommands": {
+                  "description": "Commands executed at the end of debugging session.",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": []
+                },
+                "expressions": {
+                  "description": "The default evaluator type used for expressions.",
+                  "type": "string",
+                  "enum": [
+                    "simple",
+                    "python",
+                    "native"
+                  ]
+                },
+                "sourceMap": {
+                  "description": "Source path remapping between the build machine and the local machine.  Each item is a pair of remote and local path prefixes.",
+                  "type": "object",
+                  "patternProperties": {
+                    ".*": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  },
+                  "default": {}
+                },
+                "relativePathBase": {
+                  "description": "Base directory used for resolution of relative source paths.  Defaults to \"${workspaceFolder}\".",
+                  "type": "string"
+                },
+                "sourceLanguages": {
+                  "description": "A list of source languages to enable language-specific features for.",
+                  "type": "array",
+                  "default": []
+                },
+                "reverseDebugging": {
+                  "description": "Enable reverse debugging (Requires reverse execution support in the debug server, see User's Manual for details).",
+                  "type": "boolean",
+                  "default": false
+                },
+                "breakpointMode": {
+                  "description": "Specifies how source breakpoints should be set.",
+                  "type": "string",
+                  "enum": [
+                    "path",
+                    "file"
+                  ],
+                  "enumDescriptions": [
+                    "Resolve locations using full source file path.",
+                    "Resolve locations using file name only."
+                  ]
+                },
+                "pre_debug_task": {
+                  "type": "string",
+                  "description": "Name of task to run before debugging starts"
+                },
+                "post_debug_task": {
+                  "type": "string",
+                  "description": "name of task to run after debugging ends"
+                },
+                "osx": {
+                  "$ref": "sublime://settings/debugger#/definitions/lldb.custom",
+                  "description": "MacOS specific configuration attributes"
+                },
+                "windows": {
+                  "$ref": "sublime://settings/debugger#/definitions/lldb.custom",
+                  "description": "Windows specific configuration attributes"
+                },
+                "linux": {
+                  "$ref": "sublime://settings/debugger#/definitions/lldb.custom",
+                  "description": "Linux specific configuration attributes"
+                }
+              },
+              "type": "object"
+            },
+            "java": {
+              "properties": {
+                "request": {
+                  "type": "string",
+                  "description": "Request type of configuration.",
+                  "enum": [
+                    "launch",
+                    "attach"
+                  ]
+                },
+                "name": {
+                  "type": "string",
+                  "description": "Name of configuration which appears in the launch configuration drop down menu."
+                }
+              },
+              "required": [
+                "type",
+                "name",
+                "request"
+              ]
+            },
+            "java.launch": {
+              "required": [
+                "mainClass"
+              ],
+              "properties": {
+                "projectName": {
+                  "type": "string",
+                  "description": "The preferred project in which the debugger searches for classes. There could be duplicated class names in different projects. This setting also works when the debugger looks for the specified main class when launching a program. It is required for expression evaluation.",
+                  "default": ""
+                },
+                "mainClass": {
+                  "type": "string",
+                  "description": "The fully qualified class name (e.g. [java module name/]com.xyz.MainApp) or the java file path of the program entry.",
+                  "default": ""
+                },
+                "javaExec": {
+                  "type": "string",
+                  "description": "The path to java executable to use. If unset project JDK's java executable is used.",
+                  "default": ""
+                },
+                "args": {
+                  "type": [
+                    "array",
+                    "string"
+                  ],
+                  "description": "The command line arguments passed to the program.",
+                  "default": ""
+                },
+                "vmArgs": {
+                  "type": [
+                    "array",
+                    "string"
+                  ],
+                  "description": "The extra options and system properties for the JVM (e.g. -Xms<size> -Xmx<size> -D<name>=<value>).",
+                  "default": ""
+                },
+                "modulePaths": {
+                  "type": "array",
+                  "items": {
+                    "anyOf": [
+                      {
+                        "enum": [
+                          "$Auto",
+                          "$Runtime",
+                          "$Test",
+                          "!<path>"
+                        ],
+                        "enumDescriptions": [
+                          "Automatically resolve the module paths of current project.",
+                          "The module paths within 'runtime' scope of current project.",
+                          "The module paths within 'test' scope of current project.",
+                          "The path after '!' will be excluded from the modulePaths."
+                        ]
+                      },
+                      "string"
+                    ]
+                  },
+                  "description": "The modulepaths for launching the JVM. If not specified, the debugger will automatically resolve from current project.",
+                  "default": []
+                },
+                "classPaths": {
+                  "type": "array",
+                  "items": {
+                    "anyOf": [
+                      {
+                        "enum": [
+                          "$Auto",
+                          "$Runtime",
+                          "$Test",
+                          "!<path>"
+                        ],
+                        "enumDescriptions": [
+                          "Automatically resolve the classpaths of current project.",
+                          "The classpaths within 'runtime' scope of current project.",
+                          "The classpaths within 'test' scope of current project.",
+                          "The path after '!' will be excluded from the classpaths."
+                        ]
+                      },
+                      "string"
+                    ]
+                  },
+                  "description": "The classpaths for launching the JVM. If not specified, the debugger will automatically resolve from current project.",
+                  "default": []
+                },
+                "sourcePaths": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "description": "The extra source directories of the program. The debugger looks for source code from project settings by default. This option allows the debugger to look for source code in extra directories.",
+                  "default": []
+                },
+                "encoding": {
+                  "type": "string",
+                  "description": "The file.encoding setting for the JVM. Possible values can be found in https://docs.oracle.com/javase/8/docs/technotes/guides/intl/encoding.doc.html.",
+                  "default": "UTF-8"
+                },
+                "cwd": {
+                  "type": "string",
+                  "description": "The working directory of the program. Defaults to the current workspace root.",
+                  "default": "${workspaceFolder}"
+                },
+                "env": {
+                  "type": "object",
+                  "description": "The extra environment variables for the program.",
+                  "default": {}
+                },
+                "envFile": {
+                  "type": "string",
+                  "description": "Absolute path to a file containing environment variable definitions.",
+                  "default": "${workspaceFolder}/.env"
+                },
+                "stopOnEntry": {
+                  "type": "boolean",
+                  "description": "Automatically pause the program after launching.",
+                  "default": true
+                },
+                "console": {
+                  "type": "string",
+                  "enum": [
+                    "internalConsole",
+                    "integratedTerminal",
+                    "externalTerminal"
+                  ],
+                  "enumDescriptions": [
+                    "VS Code debug console (input stream not supported).",
+                    "VS Code integrated terminal.",
+                    "External terminal that can be configured in user settings."
+                  ],
+                  "description": "The specified console to launch the program.",
+                  "default": "integratedTerminal"
+                },
+                "shortenCommandLine": {
+                  "type": "string",
+                  "enum": [
+                    "none",
+                    "jarmanifest",
+                    "argfile",
+                    "auto"
+                  ],
+                  "enumDescriptions": [
+                    "Launch the program with the standard command line 'java [options] classname [args]'.",
+                    "Generate the classpath parameters to a temporary classpath.jar file, and launch the program with the command line 'java -cp classpath.jar classname [args]'.",
+                    "Generate the classpath parameters to a temporary argument file, and launch the program with the command line 'java @argfile [args]'. This value only applies to Java 9 and higher.",
+                    "Automatically detect the command line length and determine whether to shorten the command line via an appropriate approach."
+                  ],
+                  "description": "When the project has long classpath or big VM arguments, the command line to launch the program may exceed the maximum command line string limitation allowed by the OS. This configuration item provides multiple approaches to shorten the command line.",
+                  "default": "auto"
+                },
+                "stepFilters": {
+                  "type": "object",
+                  "description": "Skip specified classes or methods when stepping.",
+                  "default": {
+                    "skipClasses": [
+                      "$JDK",
+                      "junit.*"
+                    ],
+                    "skipSynthetics": false,
+                    "skipStaticInitializers": false,
+                    "skipConstructors": false
+                  },
+                  "properties": {
+                    "skipClasses": {
+                      "type": "array",
+                      "description": "Skip the specified classes when stepping. You could use the built-in variables such as '$JDK' and '$Libraries' to skip a group of classes, or add a specific class name expression, e.g. java.*, *.Foo",
+                      "items": {
+                        "anyOf": [
+                          {
+                            "enum": [
+                              "$JDK",
+                              "$Libraries",
+                              "java.lang.ClassLoader",
+                              ""
+                            ],
+                            "enumDescriptions": [
+                              "Skip the JDK classes from the default system bootstrap classpath, such as rt.jar, jrt-fs.jar.",
+                              "Skip the classes from application libraries, such as Maven, Gradle dependencies.",
+                              "Skip the class loaders.",
+                              "Skip the specified classes. Class names should be fully qualified. Wildcard is supported, e.g. java.*, *.Foo"
+                            ]
+                          },
+                          "string"
+                        ]
+                      },
+                      "default": [
+                        "$JDK",
+                        "junit.*"
+                      ]
+                    },
+                    "skipSynthetics": {
+                      "type": "boolean",
+                      "description": "Skip synthetic methods when stepping.",
+                      "default": true
+                    },
+                    "skipStaticInitializers": {
+                      "type": "boolean",
+                      "description": "Skip static initializer methods when stepping.",
+                      "default": true
+                    },
+                    "skipConstructors": {
+                      "type": "boolean",
+                      "description": "Skip constructor methods when stepping.",
+                      "default": true
+                    }
+                  }
+                },
+                "pre_debug_task": {
+                  "type": "string",
+                  "description": "Name of task to run before debugging starts"
+                },
+                "post_debug_task": {
+                  "type": "string",
+                  "description": "name of task to run after debugging ends"
+                },
+                "osx": {
+                  "$ref": "sublime://settings/debugger#/definitions/java.launch",
+                  "description": "MacOS specific configuration attributes"
+                },
+                "windows": {
+                  "$ref": "sublime://settings/debugger#/definitions/java.launch",
+                  "description": "Windows specific configuration attributes"
+                },
+                "linux": {
+                  "$ref": "sublime://settings/debugger#/definitions/java.launch",
+                  "description": "Linux specific configuration attributes"
+                }
+              },
+              "type": "object"
+            },
+            "java.attach": {
+              "properties": {
+                "hostName": {
+                  "type": "string",
+                  "default": "localhost",
+                  "description": "The host name or ip address of remote debuggee."
+                },
+                "port": {
+                  "type": [
+                    "number",
+                    "string"
+                  ],
+                  "description": "The debug port of remote debuggee."
+                },
+                "processId": {
+                  "anyOf": [
+                    {
+                      "enum": [
+                        "${command:PickJavaProcess}"
+                      ],
+                      "description": "Use process picker to select a process to attach, or Process ID as integer.",
+                      "default": "${command:PickJavaProcess}"
+                    },
+                    {
+                      "type": "integer",
+                      "description": "ID of the local process to attach to."
+                    }
+                  ]
+                },
+                "timeout": {
+                  "type": "number",
+                  "default": 30000,
+                  "description": "Timeout value before reconnecting, in milliseconds (default to 30000ms)."
+                },
+                "sourcePaths": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "default": [],
+                  "description": "The extra source directories of the program. The debugger looks for source code from project settings by default. This option allows the debugger to look for source code in extra directories."
+                },
+                "projectName": {
+                  "type": "string",
+                  "description": "The preferred project in which the debugger searches for classes. There could be duplicated class names in different projects.",
+                  "default": ""
+                },
+                "stepFilters": {
+                  "type": "object",
+                  "description": "Skip specified classes or methods when stepping.",
+                  "default": {
+                    "skipClasses": [
+                      "$JDK",
+                      "junit.*"
+                    ],
+                    "skipSynthetics": false,
+                    "skipStaticInitializers": false,
+                    "skipConstructors": false
+                  },
+                  "properties": {
+                    "skipClasses": {
+                      "type": "array",
+                      "description": "Skip the specified classes when stepping. You could use the built-in variables such as '$JDK' and '$Libraries' to skip a group of classes, or add a specific class name expression, e.g. java.*, *.Foo",
+                      "items": {
+                        "anyOf": [
+                          {
+                            "enum": [
+                              "$JDK",
+                              "$Libraries",
+                              "java.lang.ClassLoader",
+                              ""
+                            ],
+                            "enumDescriptions": [
+                              "Skip the JDK classes from the default system bootstrap classpath, such as rt.jar, jrt-fs.jar.",
+                              "Skip the classes from application libraries, such as Maven, Gradle dependencies.",
+                              "Skip the class loaders.",
+                              "Skip the specified classes. Class names should be fully qualified. Wildcard is supported, e.g. java.*, *.Foo"
+                            ]
+                          },
+                          "string"
+                        ]
+                      },
+                      "default": [
+                        "$JDK",
+                        "junit.*"
+                      ]
+                    },
+                    "skipSynthetics": {
+                      "type": "boolean",
+                      "description": "Skip synthetic methods when stepping.",
+                      "default": false
+                    },
+                    "skipStaticInitializers": {
+                      "type": "boolean",
+                      "description": "Skip static initializer methods when stepping.",
+                      "default": false
+                    },
+                    "skipConstructors": {
+                      "type": "boolean",
+                      "description": "Skip constructor methods when stepping.",
+                      "default": false
+                    }
+                  }
+                },
+                "pre_debug_task": {
+                  "type": "string",
+                  "description": "Name of task to run before debugging starts"
+                },
+                "post_debug_task": {
+                  "type": "string",
+                  "description": "name of task to run after debugging ends"
+                },
+                "osx": {
+                  "$ref": "sublime://settings/debugger#/definitions/java.attach",
+                  "description": "MacOS specific configuration attributes"
+                },
+                "windows": {
+                  "$ref": "sublime://settings/debugger#/definitions/java.attach",
+                  "description": "Windows specific configuration attributes"
+                },
+                "linux": {
+                  "$ref": "sublime://settings/debugger#/definitions/java.attach",
+                  "description": "Linux specific configuration attributes"
+                }
+              },
+              "type": "object"
+            },
+            "debugger_configuration": {
+              "defaultSnippets": [
+                {
+                  "label": "CodeLLDB: Launch",
+                  "description": "Launch a new instance of the specified program.",
+                  "body": {
+                    "type": "lldb",
+                    "request": "launch",
+                    "name": "${2:Launch}",
+                    "program": "^\"\\${workspaceFolder}/${1:<program>}\"",
+                    "args": [],
+                    "cwd": "^\"\\${workspaceFolder}\""
+                  }
+                },
+                {
+                  "label": "CodeLLDB: Attach to PID",
+                  "description": "Attach to a running process with the specified process id.",
+                  "body": {
+                    "type": "lldb",
+                    "request": "attach",
+                    "name": "${2:Attach}",
+                    "pid": "^\"\\${command:pickMyProcess}\" // use \\${command:pickProcess} to pick other users' processes"
+                  }
+                },
+                {
+                  "label": "CodeLLDB: Attach by Name",
+                  "description": "Attach to a running instance of the specified program.",
+                  "body": {
+                    "type": "lldb",
+                    "request": "attach",
+                    "name": "${2:Attach}",
+                    "program": "^\"\\${workspaceFolder}/${1:<program>}\""
+                  }
+                },
+                {
+                  "label": "CodeLLDB: Custom",
+                  "description": "Launch or attach using raw LLDB commands.",
+                  "body": {
+                    "type": "lldb",
+                    "request": "custom",
+                    "name": "${2:Custom launch}",
+                    "targetCreateCommands": [
+                      "^\"target create \\${workspaceFolder}/${1:<program>}\""
+                    ],
+                    "processCreateCommands": [
+                      "settings set target.run-args ${3:value1 value2 value3}",
+                      "process launch"
+                    ]
+                  }
+                },
+                {
+                  "label": "CodeLLDB: Debug a Cargo Target",
+                  "description": "Debug an executable target in a Cargo package.",
+                  "body": {
+                    "type": "lldb",
+                    "request": "launch",
+                    "name": "${2:Cargo launch}",
+                    "cargo": {
+                      "args": [
+                        "build",
+                        "${1:--lib}"
+                      ]
+                    },
+                    "args": []
+                  }
+                },
+                {
+                  "label": "CodeLLDB: Debug Cargo Tests",
+                  "description": "Debug unit tests in a Cargo package.",
+                  "body": {
+                    "type": "lldb",
+                    "request": "launch",
+                    "name": "${2:Cargo test}",
+                    "cargo": {
+                      "args": [
+                        "test",
+                        "--no-run",
+                        "${1:--lib}"
+                      ]
+                    },
+                    "args": []
+                  }
+                },
+                {
+                  "label": "Java: Launch Program",
+                  "description": "Add a new configuration for launching a java program.",
+                  "body": {
+                    "type": "java",
+                    "name": "Launch Java Program",
+                    "request": "launch",
+                    "mainClass": ""
+                  }
+                },
+                {
+                  "label": "Java: Launch Program in External Terminal",
+                  "description": "Add a new configuration for launching a java program in the external terminal.",
+                  "body": {
+                    "type": "java",
+                    "name": "Launch External Terminal",
+                    "request": "launch",
+                    "console": "externalTerminal",
+                    "mainClass": ""
+                  }
+                },
+                {
+                  "label": "Java: Launch Program in Current File",
+                  "description": "Add a new configuration for launching current java file.",
+                  "body": {
+                    "type": "java",
+                    "name": "Launch Current File",
+                    "request": "launch",
+                    "mainClass": "\\${file}"
+                  }
+                },
+                {
+                  "label": "Java: Launch Program with Arguments Prompt",
+                  "description": "Add a new configuration for launching a java program with arguments prompt.",
+                  "body": {
+                    "type": "java",
+                    "name": "Launch with Arguments Prompt",
+                    "request": "launch",
+                    "mainClass": "",
+                    "args": "\\${command:SpecifyProgramArgs}"
+                  }
+                },
+                {
+                  "label": "Java: Attach",
+                  "description": "Add a new configuration for attaching to a running java program.",
+                  "body": {
+                    "type": "java",
+                    "name": "Attach",
+                    "request": "attach",
+                    "hostName": "localhost",
+                    "port": "<debug port of the debuggee>"
+                  }
+                },
+                {
+                  "label": "Java: Attach to Process",
+                  "description": "Use process picker to select a Java process to attach to.",
+                  "body": {
+                    "type": "java",
+                    "request": "attach",
+                    "name": "Attach by Process ID",
+                    "processId": "\\${command:PickJavaProcess}"
+                  }
+                },
+                {
+                  "label": "Java: Attach to Remote Program",
+                  "description": "Add a new configuration for attaching to a remote java program.",
+                  "body": {
+                    "type": "java",
+                    "name": "Attach to Remote Program",
+                    "request": "attach",
+                    "hostName": "<The host name or ip address of remote debuggee>",
+                    "port": "<debug port of remote debuggee>"
+                  }
+                }
+              ],
+              "allOf": [
+                {
+                  "if": {
+                    "$ref": "sublime://settings/debugger#/definitions/type"
+                  },
+                  "then": {
+                    "$ref": "sublime://settings/debugger#/definitions/type_installed"
+                  },
+                  "else": {
+                    "$ref": "sublime://settings/debugger#/definitions/type"
+                  }
+                },
+                {
+                  "if": {
+                    "properties": {
+                      "type": {
+                        "const": "lldb"
+                      }
+                    },
+                    "required": [
+                      "type"
+                    ]
+                  },
+                  "then": {
+                    "$ref": "sublime://settings/debugger#/definitions/lldb"
+                  }
+                },
+                {
+                  "if": {
+                    "properties": {
+                      "type": {
+                        "const": "lldb"
+                      },
+                      "request": {
+                        "const": "launch"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "type",
+                      "request"
+                    ]
+                  },
+                  "then": {
+                    "unevaluatedProperties": false,
+                    "allOf": [
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/type"
+                      },
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/lldb"
+                      },
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/lldb.launch"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "if": {
+                    "properties": {
+                      "type": {
+                        "const": "lldb"
+                      },
+                      "request": {
+                        "const": "attach"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "type",
+                      "request"
+                    ]
+                  },
+                  "then": {
+                    "unevaluatedProperties": false,
+                    "allOf": [
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/type"
+                      },
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/lldb"
+                      },
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/lldb.attach"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "if": {
+                    "properties": {
+                      "type": {
+                        "const": "lldb"
+                      },
+                      "request": {
+                        "const": "custom"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "type",
+                      "request"
+                    ]
+                  },
+                  "then": {
+                    "unevaluatedProperties": false,
+                    "allOf": [
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/type"
+                      },
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/lldb"
+                      },
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/lldb.custom"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "if": {
+                    "properties": {
+                      "type": {
+                        "const": "java"
+                      }
+                    },
+                    "required": [
+                      "type"
+                    ]
+                  },
+                  "then": {
+                    "$ref": "sublime://settings/debugger#/definitions/java"
+                  }
+                },
+                {
+                  "if": {
+                    "properties": {
+                      "type": {
+                        "const": "java"
+                      },
+                      "request": {
+                        "const": "launch"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "type",
+                      "request"
+                    ]
+                  },
+                  "then": {
+                    "unevaluatedProperties": false,
+                    "allOf": [
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/type"
+                      },
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/java"
+                      },
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/java.launch"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "if": {
+                    "properties": {
+                      "type": {
+                        "const": "java"
+                      },
+                      "request": {
+                        "const": "attach"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "type",
+                      "request"
+                    ]
+                  },
+                  "then": {
+                    "unevaluatedProperties": false,
+                    "allOf": [
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/type"
+                      },
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/java"
+                      },
+                      {
+                        "$ref": "sublime://settings/debugger#/definitions/java.attach"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "debugger_compound": {
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "Name of compound which appears in the launch configuration drop down menu."
+                },
+                "configurations": {
+                  "type": "array",
+                  "description": "Names of configurations that compose this compound configuration",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "name",
+                "configurations"
+              ]
+            },
+            "debugger_task": {
+              "allOf": [
+                {
+                  "$ref": "sublime://schemas/sublime-build"
+                },
+                {
+                  "properties": {
+                    "name": {
+                      "type": "string",
+                      "description": "Name of task"
+                    }
+                  },
+                  "required": [
+                    "name"
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "file_patterns": [
+          "/*.sublime-project"
+        ],
+        "schema": {
+          "properties": {
+            "debugger_configurations": {
+              "description": "Debugger Configurations",
+              "type": "array",
+              "items": {
+                "$ref": "sublime://settings/debugger#/definitions/debugger_configuration"
+              }
+            },
+            "debugger_tasks": {
+              "description": "Debugger Tasks",
+              "type": "array",
+              "items": {
+                "$ref": "sublime://settings/debugger#/definitions/debugger_task"
+              }
+            },
+            "debugger_compounds": {
+              "description": "Debugger Compounds",
+              "type": "array",
+              "items": {
+                "$ref": "sublime://settings/debugger#/definitions/debugger_compound"
+              }
+            }
+          }
+        }
+      },
+      {
+        "file_patterns": [
+          "Debugger.sublime-settings"
+        ],
+        "schema": {
+          "additionalProperties": false,
+          "properties": {
+            "open_at_startup": {
+              "type": "boolean",
+              "description": "Open the debugger automatically when a project that is set up for debugging"
+            },
+            "always_keep_visible": {
+              "type": "boolean",
+              "description": "Always keep the debugger panel visible"
+            },
+            "font_size": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "description": "Change the font size of the debugger ui. Defaults to the font size in your preferences."
+            },
+            "internal_font_scale": {
+              "type": "number",
+              "description": "Expected values of around 0.95 to 1.05. Only change this if the text/images/content are not aligning correctly within the panels (could cause the last panel to be clipped)."
+            },
+            "internal_width_modifier": {
+              "type": "number",
+              "description": "Expected values of around 0 to -5. Only change this if the size of the panels is too large and the last panel is cropped off (adjust internal_font_scale first if text/images/content are not aligned correctly). Negative values make the panels smaller. Postive make them bigger."
+            },
+            "external_terminal": {
+              "type": "string",
+              "description": "Which external terminal should be used when an adapter requests an external terminal"
+            },
+            "minimum_console_height": {
+              "type": "number",
+              "description": "Controls the minimum height of the debugger output panels in lines"
+            },
+            "development": {
+              "type": "boolean",
+              "description": "Additional console logs and some new features are locked behind this flag"
+            },
+            "node": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "description": "Sets a specific path for node if not set adapters that require node to run will use whatever is in your path"
+            },
+            "integrated_output_panels": {
+              "type": [
+                "object",
+                "array"
+              ],
+              "description": "Output panels outside of the debugger can be integrated into the tabbed debugger interface (note: In some cases output panels may cause issues and not work correctly depending on who owns them)"
+            },
+            "installed_packages": {
+              "type": [
+                "object",
+                "array"
+              ],
+              "description": "Some debug adapters require certain packages to be installed via package control. If you have installed these package outside of package control then you can add them to this list and they will be treated as if they are installed."
+            },
+            "global_debugger_configurations": {
+              "type": "array",
+              "items": {
+                "$ref": "sublime://settings/debugger#/definitions/debugger_configuration"
+              },
+              "description": "Global debugger configurations that are accessible from every project"
+            },
+            "global_debugger_tasks": {
+              "type": "array",
+              "items": {
+                "$ref": "sublime://settings/debugger#/definitions/debugger_task"
+              },
+              "description": "Global debugger tasks that are accessible from every project"
+            },
+            "global_debugger_compounds": {
+              "type": "array",
+              "items": {
+                "$ref": "sublime://settings/debugger#/definitions/debugger_compound"
+              },
+              "description": "Global debugger compounds that are accessible from every project"
+            },
+            "github_personal_access_token": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "description": "Personal access token used for github api requests. If you are testing installing adapters you may need to set this to have higher api limits if you are getting 429 errors."
+            },
+            "lldb_display_format": {
+              "type": "string",
+              "description": ""
+            },
+            "lldb_dereference_pointers": {
+              "type": "boolean",
+              "description": ""
+            },
+            "lldb_library": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "description": "Which lldb library to use"
+            },
+            "go_dlv": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "description": "Sets a specific path for dlv if not set go will use whatever is in your path"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

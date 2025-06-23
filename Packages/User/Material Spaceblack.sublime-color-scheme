@@ -1,0 +1,89 @@
+{
+    "variables": {
+        "background": "#292b2e",
+        "foreground": "#b2b2b2",
+        "caret": "#e3dedd",
+        "selection": "#444155",
+        "line_highlight": "#212026",
+        "comment": "#6D7674",
+        // "comment": "#1d9560",
+        "string": "#1d9574",
+        "keyword": "#4f97d7",
+        "function": "#f16d9e",
+        "variable": "#7590db",
+        "constant": "#a45bad",
+        "error": "#e0211d",
+        "type": "#a45bad"
+    },
+    "globals": {
+        "background": "var(background)",
+        "foreground": "var(foreground)",
+        "caret": "var(caret)",
+        "selection": "var(selection)",
+        "line_highlight": "var(line_highlight)",
+        "gutter_foreground": "var(comment)"
+    },
+    "rules": [
+        {
+            "scope": "comment",
+            "foreground": "var(comment)",
+            "font_style": "italic"
+        },
+        {
+            "scope": "string",
+            "foreground": "var(string)"
+        },
+        {
+            "scope": "keyword",
+            "foreground": "var(keyword)",
+            "font_style": "bold"
+        },
+        {
+            "scope": "entity.name.function",
+            "foreground": "var(function)",
+            "font_style": "bold"
+        },
+        {
+            "scope": "storage.type",
+            "foreground": "var(type)",
+            // "font_style": "bold"
+        },
+        {
+            "scope": "variable",
+            "foreground": "var(variable)"
+        },
+        {
+            "scope": "constant",
+            "foreground": "var(constant)"
+        },
+        {
+            "scope": "invalid",
+            "foreground": "var(error)"
+        },
+        {
+            "scope": "markup.inserted",
+            "foreground": "var(string)"
+        },
+        {
+            "scope": "markup.deleted",
+            "foreground": "var(error)"
+        },
+        {
+            "scope": "markup.changed",
+            "foreground": "var(keyword)"
+        }
+    ]
+}
+
+// {
+//     "variables":
+//     {
+//     },
+//     "globals":
+//     {
+//     },
+//     "rules":
+//     [
+        
+//     ]
+// }

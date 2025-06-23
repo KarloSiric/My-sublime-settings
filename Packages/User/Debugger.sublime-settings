@@ -1,0 +1,10 @@
+
+// My settings for the debugger for performance optimization and for my
+// own liking modification.
+
+{
+    
+    "open_at_startup": false,
+    
+    
+}

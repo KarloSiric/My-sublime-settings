@@ -1,0 +1,29 @@
+{
+	"folders":
+	[
+		{
+			"path": "~/Documents/SublimeText Programming/C_Sublime_Portfolio",
+		}
+	],
+	"debugger_configurations":
+	[
+		{
+			"type": "lldb",
+			"request": "launch",
+			"name": "Debug 1-6",
+			"program": "${folder}/C_K&R/1-6",
+			"args": [],
+			"cwd": "${folder}",
+		},
+	],
+	"settings":
+	{
+		"LSP":
+		{
+			"LSP-copilot":
+			{
+				"enabled": true,
+			},
+		},
+	},
+}

@@ -1,0 +1,6 @@
+{
+"cmd": ["sqlcmd", "-S", "servername", "-d", "databasename",
+"-U", "username", "-P", "password",
+"-i", "$file"],
+"word_wrap": "false"
+}

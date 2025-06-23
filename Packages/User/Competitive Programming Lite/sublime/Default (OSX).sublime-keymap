@@ -1,0 +1,6 @@
+[
+    { "keys": ["option+shift+e"], "command": "cp_end" },
+    { "keys": ["option+shift+o"], "command": "cp_open" },
+    { "keys": ["option+shift+s"], "command": "cp_set" },
+    { "keys": ["option+shift+n"], "command": "cp_new" },
+]

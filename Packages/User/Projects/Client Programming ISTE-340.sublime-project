@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/karlosiric/Desktop/University/Client Programming ISTE-340",
+		},
+	],
+	"debugger_configurations":
+	[
+	],
+	"settings":
+	{
+		"LSP":
+		{
+			"LSP-copilot":
+			{
+				"enabled": true
+			}
+		}
+	},
+}

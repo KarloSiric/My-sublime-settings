@@ -1,0 +1,25 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+    "variables":
+    {
+        // need to change the tooltip autsuggestions background color
+        "autocomplete_background_dark": "#333333",
+        "autocomplete_background_light": "#ffffff",
+        "autocomplete_selected_background_dark": "#284160",
+        "autocomplete_selected_background_light": "#e0f0fa",
+        "autocomplete_border_dark": "#2f3133",
+        "autocomplete_border_light": "#cbcece",
+        "autocomplete_label_dark": "#ffffff",
+        "autocomplete_label_light": "#000000",
+        "autocomplete_label_match_dark": "#cccccc",
+        "autocomplete_label_match_light": "#000000",
+        "autocomplete_hint_dark": "#696969",
+        "autocomplete_hint_light": "#a3a3a3",
+        "autocomplete_hint_selected_dark": "#6495ed",
+        "autocomplete_hint_selected_light": "#6495ed",
+    },
+    "rules":
+    [
+        
+    ]
+}

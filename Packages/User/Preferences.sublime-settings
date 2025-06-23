@@ -1,0 +1,327 @@
+// {
+//   "theme": "Adaptive.sublime-theme",
+// 	// "font_face": "IBM Plex Mono",
+// 	"font_face": "Liberation Mono",
+// 	/*"font_face": "JetBrainsMono Nerd Font",*/
+// 	// "font_face": "Ubuntu Mono",
+// 	"font_size": 14,
+// 	"font_options": ["gray_antialias", "subpixel_antialias", "no_round",],
+// 	// "font_options": ["subpixel_antialias"],
+// 	"highlight_line": false,
+//     "highlight_modified_tabs": true,
+//     "animate_scroll": true,
+//     "bold_folder_labels": true,
+//     "indent_guide_options": ["draw_normal", "draw_active"],
+	
+	
+// 	"trim_automatic_white_space": false,
+// 	"translate_tabs_to_spaces": true,
+// 	"highlight_line_number": true,
+// 	"highlight_gutter": true,
+// 	"word_wrap": true,
+// 	"margin": 0,
+// 	"tree_animation_enabled": false,
+// 	"line_padding_top": 2,
+// 	"line_padding_bottom": 2,
+// 	"relative_line_numbers": true,
+// 	// angled tab style
+// 	"file_tab_style": "angled",
+// 	//adding legacy color schemes
+// 	"show_legacy_color_schemes": true,
+// 	// opening files in a new windows
+// 	"open_files_in_new_window": true,
+// 	// adding caret style
+// 	"hardware_acceleration": "opengl",
+// 	"caret_style": "solid",
+// 	"caret_extra_top": 0,
+// 	"caret_extra_bottom": 0,
+// 	"caret_extra_width": 7,
+// 	"block_caret": false,
+// 	// SOME OPTIMIZATION LINES OF CODE!
+// 	/*"tree_animation_enabled": false,*/
+// 	"animation_enabled": false,
+// 	"fold_buttons": false,
+// 	/*"highlight_line": false,*/
+// 	"scroll_speed": 0,
+// 	"enable_tab_scrolling": false,
+// 	"show_definitions": true,
+// 	"gpu_window_buffer": false,
+// 	"atomic_save": true,
+// 	"update_check": true,
+// 	"index_workers": 4,
+// 	"folder_exclude_patterns": [".svn", 
+// 								".git", 
+// 								".hg", 
+// 								"CVS", 
+// 								".Trash", 
+// 								".Trash-*",
+// 								".git",
+// 								"node_modules",
+// 								"__pycache__",
+// 								"venv",
+// 								"dist"],
+	
+// 	"auto_complete_delay": 0,
+// 	"hot_exit": true,
+// 	"auto_complete_selector": "-comment",
+// 	"auto_complete_size_limit": 2097152,
+// 	"auto_complete_use_index": false,
+// 	"preview_on_click": true,
+// 	"always_show_minimap_viewport": false,
+// 	"draw_minimap_border": false,
+// 	"show_tab_close_buttons": true,
+	
+// 	/*
+// 	 * This is for Git, since I am not gonna use git here for
+// 	 * sublime text, then I will disable it
+// 	 * 
+// 	*/
+// 	"show_git_status": true,
+// 	"allow_git_home_dir": false,
+// 	// Spell checkin for errors I dont need it but can be changed here
+// 	"spell_check": false,
+	
+// 	// Avoiding high CPU for  find results
+// 	"find_scroll_highlights_limit": 4096,
+// 	"find_highlight_matches_max_size": 1048576, // 1 MiB
+// 	"find_regex_highlight_matches_max_size": 524288, // 512 KiB
+	
+// 	//Limiting the console history for limited memory usage
+// 	"console_max_history_lines": 1000,
+	
+// 	// adding highlight for modifiying tabs
+// 	/*"highlight_modified_tabs": true,*/
+	
+	
+// 	"mini_diff": true,
+// 	/*"show_git_status": false,*/
+// 	"index_files": false,
+// 	"color_scheme": "Witness.sublime-color-scheme",
+// 	"material_theme_titlebar": true,
+// 	"material_theme_small_statusbar": true,
+// 	"material_theme_compact_panel": true,
+// 	"material_theme_small_tab": true,
+// 	"material_theme_tabs_autowidth": true,
+// 	"auto_complete": true,
+
+// 	"close_windows_when_empty": false,
+// 	"dark_theme": "Default Dark.sublime-theme",
+// 	"light_theme": "Default.sublime-theme",
+// 	"auto_complete_preserve_order": "some",
+	
+// 	// scrolling
+// 	"scroll_past_end": true,
+	
+// 	//minimap settings
+// 	/*"draw_minimap_border": false,*/
+	
+// 	//paths
+// 	"show_rel_path": true,
+	
+// 	//showing settings
+// 	"show_encoding": true,
+// 	"show_line_endings": true,
+// 	"show_line_column": "disable",
+// 	"show_full_path": true,
+// 	"show_project_first": true,
+	
+// 	// for performance maybe or maybe not
+// 	"syntax_detection_size_limit": 1048576,
+// 	"syntax_detection_max_lines": 5000,
+	
+	
+// 	"ignored_packages":
+// 	[
+// 		// "A File Icon",
+// 		"BracketHighlighter",
+// 		"Vintage",
+// 	],
+// 	/*"gnc_h16": true,*/
+// 	/*"gnc_m03": true,*/
+// 	/*"gnc_w4m11": true,*/
+// 	/*"gn_hide_tab_dropdown": true,*/
+// 	/*"gn_overlay_scroll_bars": true,*/
+// 	/*"gn_sidebar_box": true,*/
+// 	/*"gn_title_bar": true,*/
+// 	/*"gnc_m04": true,*/
+// 	/*"gnwidg1": true,*/
+// 	/*"gnwidgo": true,*/
+// }
+
+
+
+/*
+ * New optimized settings that I am using since Feb 6th 2025
+ */
+ 
+
+{
+    "theme": "Adaptive.sublime-theme",
+    // "font_face": "LiterationMono Nerd Font",
+    // "font_face": "JetBrainsMono Nerd Font",
+    "font_face": "Hack Nerd Font Regular",
+    "font_size": 13,
+    "dired_show_hidden_files": true,
+    "font_options": ["gray_antialias", "subpixel_antialias", "no_round",],
+    
+    "highlight_line": false,
+    "highlight_modified_tabs": true,
+    "bold_folder_labels": true,
+    "indent_guide_options": ["draw_normal", "draw_active"],
+    
+    // Performance optimizations
+    "hardware_acceleration": "opengl",
+    "animation_enabled": false,
+    "tree_animation_enabled": false,
+    "scroll_speed": 0,
+    "enable_tab_scrolling": false,
+    "index_workers": 4,
+    "auto_complete_delay": 0,
+    "syntax_detection_size_limit": 1048576,
+    "gpu_window_buffer": "auto",
+    "index_exclude_patterns": ["*.log", "*.min.js", "*.map", "*.min.css"],
+    "binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip"],
+    "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj", "*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
+    "atomic_save": true,
+    "ensure_newline_at_eof_on_save": true,
+    "trim_trailing_white_space_on_save": "none", 
+    "save_on_focus_lost": true,
+    
+    // Cool features
+    "fade_fold_buttons": true,
+    "draw_indent_guides": true,
+    "match_brackets": true,
+    "match_brackets_content": true,
+    "match_brackets_square": true,
+    "match_brackets_braces": true,
+    "match_brackets_angle": true,
+    "auto_match_enabled": true,
+    "show_encoding": true,
+    "tab_completion": true,
+    "auto_complete_with_fields": true,
+    "auto_complete_cycle": true,
+    "shift_tab_unindent": true,
+    "copy_with_empty_selection": true,
+    "drag_text": true,
+    /*"hardware_acceleration": "opengl",*/
+    "remember_workspace": true,
+    "remember_layout": true,
+    "preview_on_click": true,
+    "overlay_scroll_bars": "enabled",
+    "scroll_context_lines": 3,
+    
+    // Memory optimizations
+    "find_scroll_highlights_limit": 4096,
+    "find_highlight_matches_max_size": 1048576,
+    "find_regex_highlight_matches_max_size": 524288,
+    "console_max_history_lines": 1000,
+    
+    // Editor settings
+    "translate_tabs_to_spaces": true,
+    "highlight_line_number": true,
+    "highlight_gutter": true,
+    "word_wrap": true,
+    "margin": 0,
+    "line_padding_top": 2,
+    "line_padding_bottom": 2,
+    "relative_line_numbers": true,
+    "file_tab_style": "angled",
+    "show_legacy_color_schemes": true,
+    "open_files_in_new_window": false,
+    
+    // Caret settings
+    "caret_extra_width": 7,
+    "caret_extra_top": 0,
+    "caret_extra_bottom": 0,
+    "block_caret": false,
+    "caret_style": "solid",
+    
+    // Auto complete
+    "auto_complete": true,
+    "auto_complete_selector": "-comment",
+    "auto_complete_size_limit": 2097152,
+    "auto_complete_preserve_order": "some",
+    
+    // Path display
+    "show_rel_path": true,
+    /*"show_encoding": true,*/
+    "show_line_endings": true,
+    "show_line_column": "disable",
+    "show_full_path": false,
+    "show_project_first": false,
+    
+    // Git integration
+    "show_git_status": true,
+    "allow_git_home_dir": false,
+    "mini_diff": true,
+    
+    // Color scheme and theme
+    "color_scheme": "Mariana.sublime-color-scheme",
+    "dark_theme": "Default Dark.sublime-theme",
+    "light_theme": "Default.sublime-theme",
+    
+    // Material theme settings
+    "material_theme_titlebar": true,
+    "material_theme_small_statusbar": true,
+    "material_theme_compact_panel": true,
+    "material_theme_small_tab": true,
+    "material_theme_tabs_autowidth": true,
+
+    // line endings
+    "default_line_ending": "unix",
+
+    /*"show_full_path": false,*/
+    /*"show_project_first": false,*/
+
+    /* Adding new stuff and new changes for dired and fileBRowser */
+    "dired_show_parent": true,
+    "dired_header": true,
+    "dired_show_full_path": true,
+    "dired_width": 0.25,
+
+    // Add these new icon settings
+    "icons_setting": true,
+    "file_type_icons": true,
+    "show_sidebar_disclosure_buttons": true,
+    "show_sidebar_icons": true,
+    "show_folder_icons": true,
+    "sidebar_size_13": true,
+    "sidebar_row_padding_medium": true,
+
+
+    // for sidebar
+    "show_expanded_files": true,
+    "show_open_files": true,
+    "show_files_in_root": true,
+    "side_bar_visible": true,
+    "side_bar_show_hidden_items": true,
+    "side_bar_show_system_files": true,
+    "side_bar_show_parent_directory": true,
+    "side_bar_folder_padding": true,
+
+    // for filebrowser settings
+    "show_file_icons": true,
+    "enable_file_type_icons": true,
+    /*"dired_show_hidden_files": true,*/
+    
+    // Folder exclusions
+    "folder_exclude_patterns": [
+        ".svn", 
+        ".git", 
+        ".hg", 
+        "CVS", 
+        ".Trash", 
+        ".Trash-*",
+        "node_modules",
+        "__pycache__",
+        "venv",
+        "dist"
+    ],
+    
+    "ignored_packages": [
+        // "BracketHighlighter",
+        "Vintage",
+    ],
+    "index_files": true,
+    "close_windows_when_empty": true,
+}

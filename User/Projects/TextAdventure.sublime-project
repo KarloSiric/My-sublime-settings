@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "~/Documents/SublimeText Programming/TextAdventure",
+		}
+	],
+	"settings":
+	{
+		"LSP":
+		{
+			"LSP-copilot":
+			{
+				"enabled": true,
+			},
+		},
+	},
+	"debugger_configurations":
+	[
+	],
+}

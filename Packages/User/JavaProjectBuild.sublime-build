@@ -1,0 +1,16 @@
+{
+    "cmd": ["javac", "-d", "bin", "-classpath", "lib", "src/*.java"],
+    "working_dir": "$project_path",
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+    "selector": "source.java",
+    "variants": [
+        {
+            "name": "Run",
+            "cmd": ["java", "-classpath", "bin", "Main"]
+        },
+        {
+            "name": "Clean",
+            "cmd": ["rm", "-rf", "bin/*"]
+        }
+    ]
+}

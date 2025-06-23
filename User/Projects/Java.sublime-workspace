@@ -1,0 +1,1388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"class"
+			],
+			[
+				"arra",
+				"arrayCopy"
+			],
+			[
+				"ran",
+				"randIndex"
+			],
+			[
+				"char",
+				"charAt(int index) : char"
+			],
+			[
+				"cha",
+				"charAt(int index) : char"
+			],
+			[
+				"isLer",
+				"isLetterOrDigit(char ch) : boolean"
+			],
+			[
+				"isL",
+				"isLetterOrDigit(char ch) : boolean"
+			],
+			[
+				"is",
+				"isDigit(char ch) : boolean"
+			],
+			[
+				"String",
+				"StringBuilder"
+			],
+			[
+				"cahr",
+				"charAt(int index) : char"
+			],
+			[
+				"to",
+				"toLowerCase() : String"
+			],
+			[
+				"str",
+				"string.h>"
+			],
+			[
+				"std",
+				"stdio.h>"
+			],
+			[
+				"el",
+				"else if"
+			],
+			[
+				"els",
+				"else if"
+			],
+			[
+				"else",
+				"else if"
+			],
+			[
+				"e",
+				"else if"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"MAX",
+				"MAX_DIGITS"
+			],
+			[
+				"power",
+				"powerOfTwo"
+			],
+			[
+				"num",
+				"num_digits"
+			],
+			[
+				"MA",
+				"MAX_DIGITS"
+			],
+			[
+				"time",
+				"time_spent"
+			],
+			[
+				"CLO",
+				"CLOCKS_PER_SEC"
+			],
+			[
+				"clock",
+				"clock_t"
+			],
+			[
+				"stdl",
+				"stdlib.h"
+			],
+			[
+				"st",
+				"stdbool.h>"
+			],
+			[
+				"count",
+				"countCache"
+			],
+			[
+				"colla",
+				"collatzCount"
+			],
+			[
+				"cou",
+				"countCache"
+			],
+			[
+				"max",
+				"max_num"
+			],
+			[
+				"atol",
+				"atoll"
+			],
+			[
+				"ato",
+				"atoll"
+			],
+			[
+				"strtou",
+				"strtoull"
+			],
+			[
+				"stro",
+				"strtol"
+			],
+			[
+				"pr",
+				"PRIX64"
+			],
+			[
+				"scan",
+				"scanf"
+			],
+			[
+				"stdi",
+				"stdio.h>"
+			],
+			[
+				"sca",
+				"scalblnl"
+			],
+			[
+				"na",
+				"NAME_MAX"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"printf",
+				"printf"
+			],
+			[
+				"prit",
+				"fprintf\tfprintf …"
+			],
+			[
+				"stdlib",
+				"stdlib.h>"
+			],
+			[
+				"stdio",
+				"stdio.h>"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"fpr",
+				"fprintf"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"scanf",
+				"scanf"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"pritf",
+				"printf\tprintf …"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"sum",
+				"sumValue"
+			],
+			[
+				"s",
+				"sizeof"
+			],
+			[
+				"string",
+				"string2"
+			],
+			[
+				"math",
+				"math.h"
+			],
+			[
+				"stdbool",
+				"stdbool.h>"
+			],
+			[
+				"input",
+				"inputString"
+			],
+			[
+				"stringOf",
+				"stringOfChar"
+			],
+			[
+				"error",
+				"error_backref"
+			],
+			[
+				"wind",
+				"windows.h>"
+			],
+			[
+				"windows",
+				"windows.h>"
+			],
+			[
+				"windo",
+				"windows.h>"
+			],
+			[
+				"d",
+				"d\", &a);"
+			],
+			[
+				"get",
+				"getA()"
+			],
+			[
+				"Sys",
+				"System.out.println"
+			],
+			[
+				"Main",
+				"Main"
+			],
+			[
+				"sc",
+				"scanf"
+			],
+			[
+				"m",
+				"myDouble"
+			],
+			[
+				"h",
+				"stringlist.h>"
+			],
+			[
+				"float",
+				"float name"
+			],
+			[
+				"name",
+				"name: %"
+			],
+			[
+				"Enter",
+				"Enter name:"
+			],
+			[
+				"ch",
+				"char"
+			],
+			[
+				"inclu",
+				"include <string.h>"
+			],
+			[
+				"ever",
+				"everyone!\\n\");"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"Hello",
+				"Hello, world!\");"
+			],
+			[
+				"writ",
+				"write"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"function",
+				"Function"
+			],
+			[
+				"console",
+				"crossOriginIsolated"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ech",
+				"PCNTL_ECHILD"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"log",
+				"timeLog"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"back",
+				"backdrop-filter"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"t",
+				"test123.js"
+			],
+			[
+				"color",
+				"color-scheme"
+			],
+			[
+				"innerHTML",
+				"innerHTML = \"Hello World"
+			],
+			[
+				"valid",
+				"valid email address or"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"Hi",
+				"highlight_string"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"p",
+				"plum"
+			],
+			[
+				"pur",
+				"paleturquoise"
+			],
+			[
+				"VIO",
+				"blueviolet"
+			],
+			[
+				"r",
+				"royalblue"
+			],
+			[
+				"bo",
+				"::before"
+			],
+			[
+				"pri",
+				"printf"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"Sca",
+				"Scanner;"
+			],
+			[
+				"out",
+				"out.println(\""
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Mydo",
+				"Mydouble: %f\\n\", my"
+			],
+			[
+				"snake",
+				"snakeCount"
+			],
+			[
+				"test",
+				"test for"
+			],
+			[
+				"fucker",
+				"fuckers\\"
+			],
+			[
+				"retur",
+				"return_temporary_buffer"
+			],
+			[
+				"f",
+				"fcntl.h>"
+			],
+			[
+				"include",
+				"include"
+			],
+			[
+				"complex",
+				"complex.h>"
+			],
+			[
+				"main",
+				"main()"
+			],
+			[
+				"n",
+				"n\\"
+			],
+			[
+				"arr",
+				"array[i]"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"open with",
+				"File: Open this file with an external application"
+			],
+			[
+				"colorscheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ch",
+				"Copilot: Chat"
+			],
+			[
+				"chat",
+				"Copilot: Chat"
+			],
+			[
+				"format ls",
+				"LSP: Format File"
+			],
+			[
+				"co",
+				"Copilot: Chat"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"cop",
+				"Copilot: Chat"
+			],
+			[
+				"form",
+				"LSP: Format File"
+			],
+			[
+				"foram",
+				"LSP: Format File"
+			],
+			[
+				"copilot cha",
+				"Copilot: Chat"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"for",
+				"LSP: Format File"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"forma",
+				"LSP: Format File"
+			],
+			[
+				"debug",
+				"Debugger: Open"
+			],
+			[
+				"debugger",
+				"Debugger: Open"
+			],
+			[
+				"enal",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"clangforma",
+				"Clang Format: Format Selection"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colorsch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"copilot pre",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"add proje",
+				"Project Manager: Add New Project"
+			],
+			[
+				"lsp se",
+				"Preferences: LSP Settings"
+			],
+			[
+				"terminus vi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"add pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"copilo",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"color sh",
+				"UI: Select Color Scheme"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"custom",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"temrinus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"ui color ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui co",
+				"UI: Select Color Scheme"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"quot",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"prefere",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"preferences",
+				"Preferences: Settings"
+			],
+			[
+				"sublime setting",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp",
+				"LSP: Restart Server"
+			],
+			[
+				"insatll",
+				"Debugger: Install Adapters"
+			],
+			[
+				"format",
+				"Formatter: Quick Options"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"copilot",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"enabl",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"build",
+				"Build With: C17"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"u",
+				"UI: Select Theme"
+			],
+			[
+				"cutom",
+				"UI: Customize Theme"
+			],
+			[
+				"cu",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"cus",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"icons",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"time",
+				"Code Time: Toggle Flow Mode"
+			],
+			[
+				"lsp cop",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"codetime",
+				"Code Time: Menu"
+			],
+			[
+				"lsp settigs",
+				"Preferences: LSP Settings"
+			],
+			[
+				"new proje",
+				"Project Manager: Add New Project"
+			],
+			[
+				"open proj",
+				"Project Manager: Open Project"
+			],
+			[
+				"origami se",
+				"Preferences: Origami Settings"
+			],
+			[
+				"lsp setting",
+				"Preferences: LSP Settings"
+			],
+			[
+				"termin",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"debugger ",
+				"Debugger: Edit Configurations"
+			],
+			[
+				" debugger brea",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"sesame",
+				"Sesame: Add"
+			],
+			[
+				"remove proje",
+				"Project Manager: Remove Project"
+			],
+			[
+				"project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proje",
+				"Project Manager: Add New Project"
+			],
+			[
+				"t",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"projec",
+				"Project Manager: Add New Project"
+			],
+			[
+				"copi",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"dis",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"vie",
+				"View Package File"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"package view",
+				"View Package File"
+			],
+			[
+				"project mana",
+				"Project Manager: Rename Project"
+			],
+			[
+				"project manager",
+				"Project Manager: Add New Project"
+			],
+			[
+				"icon",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"gitgutter",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"gitsa",
+				"GitGutter: Show Line Annotation"
+			],
+			[
+				"github",
+				"Github: Plugin Settings"
+			],
+			[
+				"git sett",
+				"Github: Plugin Settings"
+			],
+			[
+				"gitgu",
+				"GitGutter: Show Line Annotation"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"diagnosti",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"ter",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"UI",
+				"UI: Select Color Scheme"
+			],
+			[
+				"gitgutt",
+				"GitGutter: Show Line Annotation"
+			],
+			[
+				"gitsva",
+				"GitSavvy: enable logging"
+			],
+			[
+				"gutter",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"git sa",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"ui term",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"remoe",
+				"Emmet: Remove Tag"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"cuso",
+				"UI: Customize Theme"
+			],
+			[
+				"header",
+				"FileHeader: New File"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"cust",
+				"UI: Customize Theme"
+			],
+			[
+				"packagedev",
+				"PackageDev: Edit Current Color Scheme"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"vi",
+				"View Package File"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"file",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"m",
+				"Monokai Pro: select theme"
+			],
+			[
+				"mo",
+				"Monokai Pro: select theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+			"clear",
+			"copilot",
+			"build",
+			"make",
+			"running",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/karlosiric/Documents/Java"
+	],
+	"file_history":
+	[
+		"/Users/karlosiric/Documents/Java/README.md",
+		"/Users/karlosiric/.zshrc",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/FinalExamBranko/Question7.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/FinalExamBranko/Question6.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/FinalExamBranko/Question5.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/FinalExamBranko/Question4.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/FinalExamBranko/Question3.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/FinalExamBranko/Question2.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/FinalExamBranko/Question1.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/FinalExamBranko/PositionalList.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/FinalExamBranko.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/Permutate.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX3_Q19.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX7_Q18.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX3_Q15.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/Node.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX4_Q14.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-260/ISTE260Demo/002.png",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-260/ISTE260Demo/003.png",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-260/ISTE260Demo/004.png",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-260/ISTE260 10 ideas.zip",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-260/Project Proposal - Karlo Širić.docx",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-260/Space Travel and Technology Survey.docx",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-260/ISTE260PeerEval.pdf",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-260/ISTE260Demo/006.png",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-260/ISTE260Demo/005.png",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX6_Q20.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX6_Q15.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX6_Q14.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX6_Q5.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX6_Q4.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/Ex3_Q14.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/test.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/University_Year_Two.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX3_Q16.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX3_Q17.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX3_Q18.java",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX3_Q19.txt",
+		"/Users/karlosiric/Desktop/University_Year_Two/ISTE-222/EX3_Q19_explanation.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/Java_programming/FloatingBitTypes.java",
+		"/Users/karlosiric/Documents/SublimeText Programming/Java_programming/FibonnaciTestClass.java",
+		"/Users/karlosiric/Documents/SublimeText Programming/Java_Programming/BitShifting.java",
+		"/Users/karlosiric/Documents/SublimeText Programming/Java_programming/BitPackUnpack.java",
+		"/Users/karlosiric/Documents/SublimeText Programming/Java_programming/FibonnaciTestClass",
+		"/Users/karlosiric/Documents/SublimeText Programming/Java_programming/FibonacciTestClass",
+		"/Users/karlosiric/Documents/SublimeText Programming/Python_programming/BitShifting.java",
+		"/Users/karlosiric/.config/alacritty/alacritty.toml",
+		"/Users/karlosiric/Documents/SublimeText Programming/Java_Programming/LogicalOperations.java",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem17.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem18.c",
+		"/Users/karlosiric/.bashrc",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem16.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/string.h",
+		"/Users/karlosiric/.yabairc",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem14Again.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem14.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem13.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem15.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/package-lock.json",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem11.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdio.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/stdlib.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Fibonnacci_Test_Machine_Code.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/QuoteAndComma.sublime-macro",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem10.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem9.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem8.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem7.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem6.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem5.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/Problem6.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem4.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem3.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/Problem5.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/fibonacci.py",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/Problem1",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/C_Euler_Project/.pytest_cache/v/cache/nodeids",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/test123.php",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Installed Packages/CodeTime.sublime-package/README.txt",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdio.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdlib.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/Project_Euler_C/Problem3.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Euler_Project/Problem2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Euler_Project/Problem1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/d.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/C++/C.sublime-syntax",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/printf.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/ArrayAverage.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/C17.sublime-build",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Python Terminus.sublime-build",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/C++.sublime-package",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/Honors_Tester_Program.sublime-project",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/ArraySum.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Exercises/Readme.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/PalindromeString.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/ArraySum.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/Day01.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/funny_printf.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/test.json",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/Occurrence.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/scanf.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/scanf.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/Molly_Rocket_C/C_Intro3.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/Occurrence",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/.cpl_files/Main.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/.cpl_files/test.py",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaCompiler.sublime-build",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/C++/C Single File.sublime-build",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/types.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/1_Default.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/maxArray.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/BASICS/printf.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/string.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/ISTE240_WEB_Theory/Theory_MyWritings.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C Programming/C_Exercises/exercise1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Examples_Practice/practice1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/Web_dev_practice/index.html",
+		"/Users/karlosiric/Documents/SublimeText Programming/Web_dev_practice/style.css",
+		"/Users/karlosiric/Documents/SublimeText Programming/Web_dev_practice/javas.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 424.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 160.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 142.0
+	},
+	"output.Pieces Auth":
+	{
+		"height": 144.0
+	},
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 215.0
+	},
+	"output.diagnostics":
+	{
+		"height": 239.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Java.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C_Euler_Project/Problem3.c"
+			],
+			[
+				"mai",
+				".cpl_files/Main.java"
+			],
+			[
+				"in",
+				"minArray"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 98.0,
+		"last_filter": "main",
+		"selected_items":
+		[
+			[
+				"main",
+				"main"
+			],
+			[
+				"EOF",
+				"EOF"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"copilot.conversation.code_block_index":
+		{
+		},
+		"copilot.conversation.conversation_entries":
+		[
+		],
+		"copilot.conversation.conversation_id": "",
+		"copilot.conversation.follow_up": "",
+		"copilot.conversation.is_visible": false,
+		"copilot.conversation.is_waiting_conversation": false,
+		"copilot.conversation.last_active_view_id": 19,
+		"copilot.conversation.original_layout": null,
+		"copilot.conversation.reference_block_state":
+		{
+		},
+		"copilot.conversation.suggested_title": "",
+		"copilot.copilotignore.patterns":
+		{
+		},
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

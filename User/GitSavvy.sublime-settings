@@ -1,0 +1,22 @@
+// Settings in here override those in "GitSavvy/GitSavvy.sublime-settings",
+
+{
+    "git_status_in_status_bar": false,
+
+
+    "colors": {
+        "log_graph": {
+            "commit_dot_foreground": "#9911",
+            "commit_dot_background": "#991",
+            "path_foreground": "#991",
+            "path_background": "#99991109",
+            "commit_dot_above_foreground": "#f91d",
+            "commit_dot_above_background": "#99991109",
+            "path_above_foreground": "#19d",
+            "path_above_background": "#99991109",
+            "matching_commit_foreground": "#1991",
+            "matching_commit_background": "#199"
+        }
+    },
+}
+

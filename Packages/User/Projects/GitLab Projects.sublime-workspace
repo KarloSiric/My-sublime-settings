@@ -1,0 +1,2374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"value",
+				"values"
+			],
+			[
+				"Col",
+				"Collectors"
+			],
+			[
+				"isFxAppl",
+				"isFxApplicationThread() : boolean"
+			],
+			[
+				"printStackT",
+				"printStackTrace() : void"
+			],
+			[
+				"display",
+				"DisplayUI"
+			],
+			[
+				"nextInt",
+				"nextInt() : int"
+			],
+			[
+				"ANimal",
+				"AnimalModel"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"flex",
+				"flexbox"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"order",
+				"order_background4.jpg"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"2",
+				"order_image2.jpg"
+			],
+			[
+				"ar",
+				"armstrong_image.webp"
+			],
+			[
+				"violet",
+				"mediumvioletred"
+			],
+			[
+				"vioelt",
+				"blueviolet"
+			],
+			[
+				"blue",
+				"royalblue"
+			],
+			[
+				"pink",
+				"lightpink"
+			],
+			[
+				"ind",
+				"indigo"
+			],
+			[
+				"cahr",
+				"chartreuse"
+			],
+			[
+				"darkg",
+				"darkgray"
+			],
+			[
+				"grey",
+				"slategrey"
+			],
+			[
+				"image",
+				"image4.jpg"
+			],
+			[
+				"im",
+				"image2.jpg"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"5",
+				"h5"
+			],
+			[
+				"s",
+				"sy\tsynchronized"
+			],
+			[
+				"array",
+				"array2"
+			],
+			[
+				"grade",
+				"grades2"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"ran",
+				"randomValue"
+			],
+			[
+				"rand",
+				"randomIntegers"
+			],
+			[
+				"random",
+				"randomIntegers"
+			],
+			[
+				"clock_get",
+				"clock_gettime"
+			],
+			[
+				"time",
+				"time_t"
+			],
+			[
+				"srad",
+				"srand"
+			],
+			[
+				"inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"char",
+				"char"
+			],
+			[
+				"pr",
+				"problem"
+			],
+			[
+				"int",
+				"int16_t"
+			],
+			[
+				"sq",
+				"squareRoot"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"sc",
+				"SCNd64"
+			],
+			[
+				"tota",
+				"total_numbers"
+			],
+			[
+				"total",
+				"total_numbers"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"scanf",
+				"scanf"
+			],
+			[
+				"pritf",
+				"printf\tprintf …"
+			],
+			[
+				"stdlib",
+				"stdlib.h>"
+			],
+			[
+				"stdio",
+				"stdio.h>"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"sum",
+				"sumValue"
+			],
+			[
+				"count",
+				"countLen"
+			],
+			[
+				"string",
+				"string2"
+			],
+			[
+				"math",
+				"math.h"
+			],
+			[
+				"stdbool",
+				"stdbool.h>"
+			],
+			[
+				"input",
+				"inputString"
+			],
+			[
+				"stringOf",
+				"stringOfChar"
+			],
+			[
+				"error",
+				"error_backref"
+			],
+			[
+				"wind",
+				"windows.h>"
+			],
+			[
+				"windows",
+				"windows.h>"
+			],
+			[
+				"windo",
+				"windows.h>"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"d",
+				"d\", &a);"
+			],
+			[
+				"printf",
+				"printf"
+			],
+			[
+				"get",
+				"getA()"
+			],
+			[
+				"Sys",
+				"System.out.println"
+			],
+			[
+				"Main",
+				"Main"
+			],
+			[
+				"scan",
+				"scanNumber()"
+			],
+			[
+				"std",
+				"stdarg"
+			],
+			[
+				"sca",
+				"scanf(\"%d"
+			],
+			[
+				"m",
+				"myDouble"
+			],
+			[
+				"h",
+				"stringlist.h>"
+			],
+			[
+				"float",
+				"float name"
+			],
+			[
+				"name",
+				"name: %"
+			],
+			[
+				"Enter",
+				"Enter name:"
+			],
+			[
+				"ch",
+				"char"
+			],
+			[
+				"inclu",
+				"include <string.h>"
+			],
+			[
+				"ever",
+				"everyone!\\n\");"
+			],
+			[
+				"st",
+				"stpcpy"
+			],
+			[
+				"stdl",
+				"stdlib.h>"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"Hello",
+				"Hello, world!\");"
+			],
+			[
+				"writ",
+				"write"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"function",
+				"Function"
+			],
+			[
+				"console",
+				"crossOriginIsolated"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ech",
+				"PCNTL_ECHILD"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"log",
+				"timeLog"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"back",
+				"backdrop-filter"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"t",
+				"test123.js"
+			],
+			[
+				"color",
+				"color-scheme"
+			],
+			[
+				"innerHTML",
+				"innerHTML = \"Hello World"
+			],
+			[
+				"valid",
+				"valid email address or"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"Hi",
+				"highlight_string"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"p",
+				"plum"
+			],
+			[
+				"pur",
+				"paleturquoise"
+			],
+			[
+				"VIO",
+				"blueviolet"
+			],
+			[
+				"r",
+				"royalblue"
+			],
+			[
+				"bo",
+				"::before"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"Sca",
+				"Scanner;"
+			],
+			[
+				"out",
+				"out.println(\""
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Mydo",
+				"Mydouble: %f\\n\", my"
+			],
+			[
+				"snake",
+				"snakeCount"
+			],
+			[
+				"test",
+				"test for"
+			],
+			[
+				"fucker",
+				"fuckers\\"
+			],
+			[
+				"retur",
+				"return_temporary_buffer"
+			],
+			[
+				"stdi",
+				"stdint.h"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/karlosiric/gitlab-projects/weatherstation801g2/src/sensors/MeasurementUnit.java",
+			"settings":
+			{
+				"buffer_size": 1927,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BQAAAK0GAAAAAAAArgYAAAAAAAAAAAAArgYAAAAAAACyBgAAAAAAAAAAAACyBgAAAAAAALMGAAAAAAAAAAAAALMGAAAAAAAAtwYAAAAAAAAAAAAArgYAAAAAAACuBgAAAAAAAAQAAAAgICAg",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACtBgAAAAAAAK0GAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"paste",
+					null,
+					"AQAAALMGAAAAAAAAmQcAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACzBgAAAAAAALMGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					54,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAAK4GAAAAAAAArgYAAAAAAADsAAAACiAgICBwdWJsaWMgU3RyaW5nIGdldFN5bWJvbCgpIHsKICAgICAgICAvLyBSZXR1cm4gdGhlIGFwcHJvcHJpYXRlIHN5bWJvbCBmb3IgdGhlIG1lYXN1cmVtZW50IHVuaXQKICAgICAgICAvLyBGb3IgZXhhbXBsZTogIsKwQyIgZm9yIHRlbXBlcmF0dXJlLCAiJSIgZm9yIGh1bWlkaXR5LCBldGMuCiAgICAgICAgcmV0dXJuIHN5bWJvbDsgLy8gWW91J2xsIG5lZWQgdG8gaGF2ZSB0aGlzIGFzIGEgZmllbGQKICAgIH0",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACZBwAAAAAAAK4GAAAAAAAAAAAAAAAAP0A"
+				],
+				[
+					57,
+					1,
+					"reindent",
+					null,
+					"AQAAAK8GAAAAAAAAswYAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACvBgAAAAAAAK8GAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					59,
+					2,
+					"left_delete",
+					null,
+					"AgAAAK8GAAAAAAAArwYAAAAAAAAEAAAAICAgIK4GAAAAAAAArgYAAAAAAAABAAAACg",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACzBgAAAAAAALMGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"reindent",
+					null,
+					"AQAAAK4GAAAAAAAAsgYAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACuBgAAAAAAAK4GAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/Users/karlosiric/gitlab-projects/weatherstation801g2/src/core/WeatherStationRunner.java",
+			"settings":
+			{
+				"buffer_size": 2042,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAM0EAAAAAAAA0QQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQQAAAAAAADNBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					45,
+					1,
+					"left_delete",
+					null,
+					"AQAAAM0EAAAAAAAAzQQAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAA0QQAAAAAAADRBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"reindent",
+					null,
+					"AQAAAMwEAAAAAAAA0AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAQAAAAAAADMBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAANAEAAAAAAAA1AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0AQAAAAAAADQBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "/*"
+					},
+					"AgAAANQEAAAAAAAA1QQAAAAAAAAAAAAA1QQAAAAAAADWBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AQAAAAAAADUBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					2,
+					"left_delete",
+					null,
+					"AgAAANUEAAAAAAAA1QQAAAAAAAABAAAAKtQEAAAAAAAA1AQAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAA1gQAAAAAAADWBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/karlosiric/gitlab-projects/weatherstation801g2/src/ui/TextUI.java",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGoCAAAAAAAAagIAAAAAAAAJAAAAZ2V0U3ltYm9s",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAgAAAAAAAHMCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "name"
+					},
+					"BAAAAGoCAAAAAAAAawIAAAAAAAAAAAAAawIAAAAAAABsAgAAAAAAAAAAAABsAgAAAAAAAG0CAAAAAAAAAAAAAG0CAAAAAAAAbgIAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAgAAAAAAAGoCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					93,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAJAwAAcGFja2FnZSB1aTsKCmltcG9ydCBjb3JlLldlYXRoZXJTdGF0aW9uVUk7CmltcG9ydCBzZW5zb3JzLk1lYXN1cmVtZW50VW5pdDsKCmltcG9ydCBqYXZhLnV0aWwuRW51bU1hcDsKCi8qKgogKiB1aS5UZXh0VUkgaXMgYSBjb25zb2xlLWJhc2VkIGltcGxlbWVudGF0aW9uIG9mIHRoZSBEaXNwbGF5VUkgaW50ZXJmYWNlLgogKiBJdCBvdXRwdXRzIHRlbXBlcmF0dXJlIHJlYWRpbmdzIGluIENlbHNpdXMgYW5kIEtlbHZpbiB0byB0aGUgc3RhbmRhcmQgb3V0cHV0LgogKi8KcHVibGljIGNsYXNzIFRleHRVSSBpbXBsZW1lbnRzIFdlYXRoZXJTdGF0aW9uVUkgewoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlKEVudW1NYXA8TWVhc3VyZW1lbnRVbml0LCBEb3VibGU+IHJlYWRpbmdzKSB7CiAgICAgICAgU3RyaW5nQnVpbGRlciBvdXRwdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigiV2VhdGhlciBTdGF0aW9uIFJlYWRpbmdzOiAiKTsKCiAgICAgICAgZm9yIChNZWFzdXJlbWVudFVuaXQgdW5pdCA6IHJlYWRpbmdzLmtleVNldCgpKSB7CiAgICAgICAgICAgIG91dHB1dC5hcHBlbmQoU3RyaW5nLmZvcm1hdCgiJTYuMmYgJXMgfCAiLCByZWFkaW5ncy5nZXQodW5pdCksIHVuaXQubmFtZSgpKSk7CiAgICAgICAgfQoKICAgICAgICAvLyBSZW1vdmUgbGFzdCBzZXBhcmF0b3IgIiB8ICIgYW5kIHByaW50IHRoZSBvdXRwdXQKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3V0cHV0LnN1YnN0cmluZygwLCBvdXRwdXQubGVuZ3RoKCkgLSAzKSk7CiAgICB9Cn0KAAAAAAAAAAAOAwAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB+AgAAAAAAAH4CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					104,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGoCAAAAAAAAagIAAAAAAAAJAAAAZ2V0U3ltYm9s",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAgAAAAAAAHMCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					106,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAAGoCAAAAAAAAawIAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAgAAAAAAAGoCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					109,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGoCAAAAAAAAagIAAAAAAAABAAAAbg",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAgAAAAAAAGsCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": "name"
+					},
+					"BAAAAGoCAAAAAAAAawIAAAAAAAAAAAAAawIAAAAAAABsAgAAAAAAAAAAAABsAgAAAAAAAG0CAAAAAAAAAAAAAG0CAAAAAAAAbgIAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAgAAAAAAAGoCAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/User/JavaCompiler.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C!7 DebuggerSystem.sublime-build",
+					""
+				],
+				[
+					"Packages/User/javaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaCompiler.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaMySQL.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaMySQL.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/JavaProjectBuild.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/MavenJava.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MavenJava.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/User/SQLCMD.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					"Run in Terminal"
+				],
+				[
+					"Packages/User/Competitive Programming Lite/build/CPL Java.sublime-build",
+					"Test in Terminal"
+				]
+			],
+			[
+				"Packages/User/JavaCompiler.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git s",
+				"git: status"
+			],
+			[
+				"filezi",
+				"SFTP: Browse With FileZilla"
+			],
+			[
+				"left",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"vi",
+				"View Package File"
+			],
+			[
+				"lsp res",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp form",
+				"LSP: Format File"
+			],
+			[
+				"file",
+				"FileHeader: Add Header"
+			],
+			[
+				"le",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"lef",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"left s",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"theme s",
+				"UI: Select Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"custom",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"filebrowser",
+				"Preferences: FileBrowser Settings"
+			],
+			[
+				"fileicons",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"dired",
+				"dired"
+			],
+			[
+				"file icon se",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"fileb",
+				"Preferences: FileBrowser Settings"
+			],
+			[
+				"file bro",
+				"Preferences: FileBrowser Settings"
+			],
+			[
+				"dire",
+				"dired: Goto Anywhere"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color schem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"git pull",
+				"git: pull"
+			],
+			[
+				"preferences ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"open fol",
+				"File Manager: Open In Finder"
+			],
+			[
+				"move",
+				"File Manager: Move"
+			],
+			[
+				"manager",
+				"File Manager: Move"
+			],
+			[
+				"bro",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"browser",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"sidebar",
+				"Browse Mode: Left Sidebar"
+			],
+			[
+				"browser set",
+				"Preferences: FileBrowser Settings"
+			],
+			[
+				"fuzzy",
+				"Fuzzy Nav"
+			],
+			[
+				"jdtls",
+				"Preferences: LSP-jdtls Settings"
+			],
+			[
+				"lsp settings",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp set",
+				"Live Server Plus: Settings"
+			],
+			[
+				"git push",
+				"git: push"
+			],
+			[
+				"git reset",
+				"git: reset"
+			],
+			[
+				"git b",
+				"git: branch"
+			],
+			[
+				"git",
+				"git: status"
+			],
+			[
+				"git pu",
+				"git: push to branch name"
+			],
+			[
+				"terminus vi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"lsp log",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp restart",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"git br",
+				"git: branch"
+			],
+			[
+				"bran",
+				"git: branch"
+			],
+			[
+				"branch",
+				"git: branch"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"git status",
+				"git: status"
+			],
+			[
+				"brna",
+				"git: branch"
+			],
+			[
+				"gt branch",
+				"git: reset to branch"
+			],
+			[
+				"git st",
+				"git: status"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"graph",
+				"git: graph"
+			],
+			[
+				"git graph",
+				"git: graph"
+			],
+			[
+				"savvy",
+				"GitSavvy: help"
+			],
+			[
+				"git branch",
+				"git: branch"
+			],
+			[
+				"git bra",
+				"git: branch"
+			],
+			[
+				"pieces sett",
+				"Pieces: Open Pieces Settings"
+			],
+			[
+				"new pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"start",
+				"Live Server: Start"
+			],
+			[
+				"new project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"maven ",
+				"Maven: Kill running process"
+			],
+			[
+				"project open",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"stop",
+				"Live Server: Stop"
+			],
+			[
+				"insall",
+				"Debugger: Install Adapters"
+			],
+			[
+				"lsp true",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"star",
+				"Live Server: Start"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"file header",
+				"FileHeader: Add Header"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"htmk",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"distraci",
+				"View: Toggle Distraction Free"
+			],
+			[
+				"distracti",
+				"View: Toggle Distraction Free"
+			],
+			[
+				"prettier",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"doxy keybinds",
+				"Preferences: DoxyDoxygen Key Bindings"
+			],
+			[
+				"doxy keybind",
+				"Preferences: DoxyDoxygen Key Bindings"
+			],
+			[
+				"start ",
+				"Live Server: Start"
+			],
+			[
+				"live",
+				"Live Server: Start"
+			],
+			[
+				"show line",
+				"GitGutter: Show Line Annotation"
+			],
+			[
+				"gitsavv",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"gitgutt",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"cust",
+				"UI: Customize Theme"
+			],
+			[
+				"gitgutter se",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"git setting",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"git sa",
+				"GitSavvy: disable logging"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"doc",
+				"DoxyDoxygen: Build Documentation"
+			],
+			[
+				"emmet",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"live s",
+				"Live Server: Start"
+			],
+			[
+				"enable ",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"add pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"view ",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"javatar se",
+				"Javatar: Browse Commands..."
+			],
+			[
+				"j",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar",
+				"Javatar: Builds..."
+			],
+			[
+				"lsp ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"javatar ",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar new",
+				"Javatar: Create new..."
+			],
+			[
+				"javata",
+				"Javatar: Create new..."
+			],
+			[
+				"pieces",
+				"Pieces: About"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"new folder",
+				"File: New Folder"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"new fol",
+				"File: New Folder"
+			],
+			[
+				"java project",
+				"Project: Save As"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"new proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"open new ",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"new f",
+				"File: New Folder"
+			],
+			[
+				"wakati",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"sync settings",
+				"Sync Settings: Edit User Settings"
+			],
+			[
+				"run sync se",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"syntax C",
+				"Set Syntax: C"
+			],
+			[
+				"syntax jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format",
+				"Clang Format: Format Selection"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+			"clear",
+			"copilot",
+			"build",
+			"make",
+			"running",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/karlosiric/gitlab-projects",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/core",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/sensors",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/ui"
+	],
+	"file_history":
+	[
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/ui/SwingUI.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/pom.xml",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/core/WeatherStation.java",
+		"/Users/karlosiric/.zshrc",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/ui/JavaFXUI.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/core/WeatherStationRunner.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/core/WeatherStationRunnable.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/core/WeatherStationUI.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/sensors/MeasurementUnit.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/sensors/PressureSensor.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/sensors/SensorType.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/sensors/TemperatureSensor.java",
+		"/Users/karlosiric/GitLabProjects_OnMyOwn/Activity4.txt",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/ui/TextUI.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/ui/SwingUI.class",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaCompiler.sublime-build",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/.classpath",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/test/MeasurementUnitTest.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/test/SensorTest.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/.DS_Store",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/images/UML.pdf",
+		"/Users/karlosiric/Downloads/message.txt",
+		"/Users/karlosiric/gitlab-projects/Activity3b.zip",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/test/WeatherStationTest.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/.settings/org.eclipse.jdt.apt.core.prefs",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/JavaFXUI.class",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/dired.sublime-settings",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/core/WeatherStation.class",
+		"/Users/karlosiric/CLionProjects/untitled/cmake-build-debug/Testing/Temporary/LastTest.log",
+		"/Users/karlosiric/Documents/grpProj/html5game/sound/worklets/audio-worklet.js",
+		"/Users/karlosiric/.sonarlint/storage/local_only_issue_backup.tar.gz",
+		"/Users/karlosiric/.aider.chat.history.md",
+		"/Users/karlosiric/Downloads/iloveimg-resized/180sx.png",
+		"/Users/karlosiric/hellowordl.save",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/nbproject/build-impl.xml",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/DisplayUI.class",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/main/java/core/WeatherStationRunnable.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/main/java/WeatherStationRunnable.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/main/java/TemperatureUnit.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/WeatherStationRunner.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/UISelector.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/TextUI.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/textUpdate.txt",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/WeatherStation.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/SwingUI.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/manifest.mf",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/TemperatureUnit.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/DisplayUI.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/JavaFXUI.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/src/TemperatureSensor.java",
+		"/Users/karlosiric/gitlab-projects/weatherstation801g2/README.md",
+		"/Users/karlosiric/.gitconfig",
+		"/Users/karlosiric/.gitconfig-gitlab",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/SiricK/styles/style.css",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalController.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/SiricK/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalView.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalModel.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/app.js",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalModel",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClass/W02C1-Demo-MVC-Starter/js/AnimalController",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/InClassAssignments/index.html",
+		"/Users/karlosiric/Downloads/W02C1-Demo-MVC-Starter.zip",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/styles/style.css",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/index.html",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/styles/styleTest.css",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Client Programming ISTE-340/Project1Testing/Documentation/DocumentHTML.md",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/.gitkeep",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124/20012025/src/test123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124/20012025/makefile",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/test123.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/JavaProjectBuild.sublime-build",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/test1234/java.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Javatar.sublime-settings",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Javatar/Javatar.sublime-settings",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/testing123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Testing123.java",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/makefile",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject/MyJavaProject.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject/testing.java",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/University_Year_Two_2nd_Semester.sublime-project",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/MyJavaProject",
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring Java-GCIS-124/Tutoring1.java",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_ExtremeC/Macro2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/LogFile.log",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/CharArrays2.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_ExtremeC/Macro.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Advice_for_Programming_Worth_Reading.txt",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/maketest.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/arrays.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/CharArrays.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/DocumentationForC.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/switch.c",
+		"/Users/karlosiric/.config/kitty/kitty.conf",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/randomNumbersTest.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/README.md",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/d.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/maketest.txt",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/supress_save_message.py",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_printf.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Portfolio/TutorialLoops.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Makefile",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Projects/C_Sublime_Portfolio.sublime-project",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdlib.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/stdlib.h",
+		"/Users/karlosiric/Downloads/MadeofCode.tmTheme",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/math.h",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/User/Clang.sublime-build",
+		"/Users/karlosiric/.config/alacritty/alacritty.toml.1736176553835.bak",
+		"/Users/karlosiric/.zshenv",
+		"/Users/karlosiric/.config/alacritty/alacritty.toml",
+		"/Users/karlosiric/.zshrc.backup",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Dr.Chuck/FahrFor.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_printf.h",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Dr.Chuck/1.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/.gitignore",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial13ForLoop.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial12DoWhileLoop.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial11WhileLoopsMore.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial8.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/Dr.Chuck_C/FahrFor.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial9WhileLoops.c",
+		"/Users/karlosiric/Documents/SublimeText Programming/C_Sublime_Portfolio/C_Basics/C_Portfolio_Tutorial/Tutorial10MoreWhile.c",
+		"/Users/karlosiric/Library/Application Support/Sublime Text 3/Packages/Debugger/Debugger.sublime-project"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 424.0,
+		"where_history":
+		[
+			"/Users/karlosiric/gitlab-projects/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getSymbol",
+			");\n",
+			"getSymbol",
+			"convert",
+			"TemperatureUnit",
+			"TemperatureUnt",
+			"Hello",
+			"DisplayUI",
+			"description_of_the_return_value",
+			"function_description",
+			"item_description",
+			"Temperature",
+			"CELSIUS",
+			"celsius",
+			"kelvin",
+			"launch",
+			"celsiusLabel",
+			"CELSIUS",
+			"celsius",
+			"CELSIUS",
+			"kelvin",
+			"CELSIUS",
+			"kelvin",
+			"int",
+			"reading",
+			"function_description",
+			" }",
+			"description_of_the_return_value",
+			"function_description"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/karlosiric/gitlab-projects/weatherstation801g2/src/sensors/MeasurementUnit.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": false,
+							"OUIB_last_update_timestamp": 0,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".@#* ",
+									"registration_id": "b3cbf330-903c-49db-92f5-5ca4d8a64442",
+									"selector": "-comment",
+									"server": "jdtls"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								2,
+								17,
+								22,
+								30,
+								16,
+								14,
+								130,
+								3,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/karlosiric/gitlab-projects/weatherstation801g2/src/sensors/MeasurementUnit.java",
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/karlosiric/gitlab-projects/weatherstation801g2/src/core/WeatherStationRunner.java",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1236,
+								1236
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": false,
+							"OUIB_last_update_timestamp": 1740039318.03,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".@#* ",
+									"selector": "-comment",
+									"server": "jdtls"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2040,
+										2041
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										224,
+										225
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								2,
+								17,
+								19,
+								49,
+								14,
+								0,
+								47,
+								242,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_waiting_completion": false,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/karlosiric/gitlab-projects/weatherstation801g2/src/core/WeatherStationRunner.java",
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 518.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/karlosiric/gitlab-projects/weatherstation801g2/src/ui/TextUI.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": true,
+							"OUIB_last_update_timestamp": 0,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".@#* ",
+									"registration_id": "b3cbf330-903c-49db-92f5-5ca4d8a64442",
+									"selector": "-comment",
+									"server": "jdtls"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								2,
+								17,
+								22,
+								30,
+								16,
+								14,
+								134,
+								41,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/karlosiric/gitlab-projects/weatherstation801g2/src/ui/TextUI.java",
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 160.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 268.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 268.0
+	},
+	"output.Debugger Terminal":
+	{
+		"height": 258.0
+	},
+	"output.Debugger Terminal(1)":
+	{
+		"height": 258.0
+	},
+	"output.GitSavvy":
+	{
+		"height": 132.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 144.0
+	},
+	"output.Pieces Auth":
+	{
+		"height": 0.0
+	},
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 228.0
+	},
+	"output.diagnostics":
+	{
+		"height": 207.0
+	},
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "GitLab Projects.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"core/",
+				"weatherstation801g2/src/core/WeatherStationRunnable.java"
+			],
+			[
+				"swing",
+				"weatherstation801g2/src/SwingUI.java"
+			],
+			[
+				"main",
+				"weatherstation801g2/src/WeatherStationMain.java"
+			],
+			[
+				"textui",
+				"weatherstation801g2/src/TextUI.java"
+			],
+			[
+				"dis",
+				"weatherstation801g2/src/DisplayUI.java"
+			],
+			[
+				"text",
+				"weatherstation801g2/textUpdate.txt"
+			],
+			[
+				"tex",
+				"weatherstation801g2/textUpdate.txt"
+			],
+			[
+				"wea",
+				"weatherstation801g2/src/WeatherStation.java"
+			],
+			[
+				"ui",
+				"weatherstation801g2/src/UISelector.java"
+			],
+			[
+				"swn",
+				"weatherstation801g2/src/SwingUI.java"
+			],
+			[
+				"disp",
+				"weatherstation801g2/src/DisplayUI.java"
+			],
+			[
+				"uis",
+				"weatherstation801g2/src/UISelector.java"
+			],
+			[
+				"sele",
+				"weatherstation801g2/src/UISelector.java"
+			],
+			[
+				"index",
+				"InClass/W02C1-Demo-MVC-Starter/index.html"
+			],
+			[
+				"inde",
+				"SiricK/index.html"
+			],
+			[
+				"",
+				"C_ExtremeC/Macro2.c"
+			],
+			[
+				"ad",
+				"Advice_for_Programming_Worth_Reading.txt"
+			],
+			[
+				"C_port",
+				"C_Portfolio/TutorialLoops.c"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"mai",
+				".cpl_files/Main.java"
+			],
+			[
+				"in",
+				"minArray"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 98.0,
+		"last_filter": "main",
+		"selected_items":
+		[
+			[
+				"main",
+				"main"
+			],
+			[
+				"EOF",
+				"EOF"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"copilot.conversation.code_block_index":
+		{
+		},
+		"copilot.conversation.conversation_entries":
+		[
+		],
+		"copilot.conversation.conversation_id": "",
+		"copilot.conversation.follow_up": "",
+		"copilot.conversation.is_visible": false,
+		"copilot.conversation.is_waiting_conversation": false,
+		"copilot.conversation.last_active_view_id": 48,
+		"copilot.conversation.original_layout": null,
+		"copilot.conversation.reference_block_state":
+		{
+		},
+		"copilot.conversation.suggested_title": "",
+		"copilot.copilotignore.patterns":
+		{
+		},
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

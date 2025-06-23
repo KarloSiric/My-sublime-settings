@@ -1,0 +1,85 @@
+// {
+//    "selector": "source.c",
+//    "auto_complete_selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)", 
+//    "system_binary": "clangd",
+//    "initializationOptions": {
+//        "clangd.all-scopes-completion": true,
+//        "clangd.background-index": true,
+//        "clangd.background-index-priority": "low",
+//        "clangd.clang-tidy": false,
+//        "clangd.function-arg-placeholders": false,
+//        "clangd.header-insertion": "iwyu",
+//        "clangd.enable-config": true,
+//        "clangd.completion-style": "detailed",
+//        "clangd.header-insertion-decorators": false,
+//        "clangd.log": "info",
+//        "clangd.pch-storage": "memory",
+//        "clangd.compile-commands-dir": "/Users/karlosiric/",
+//        "clangd.query-driver": "/opt/homebrew/bin/**/clang-*",
+//        "clangd.limit-results": 100,
+//        "fallbackFlags": [
+//            "-I/opt/homebrew/Cellar/mysql-client/9.2.0/include/mysql",
+//            "-L/opt/homebrew/Cellar/mysql-client/9.2.0/lib",
+//            "-lmysqlclient"
+//        ]
+//    },
+//    "command": [
+//        "clangd",
+//        "--compile-commands-dir=/Users/karlosiric/",
+//        "--query-driver=/usr/bin/**/clang-*,/opt/homebrew/bin/**/g++-*",
+//        "--fallback-style=llvm",
+//        "--header-insertion=never",
+//        "--header-insertion-decorators=0",
+//        "--background-index",
+//        "--log=verbose",
+//        "--completion-style=detailed",
+//        "--all-scopes-completion",
+//        "--clang-tidy",
+//        "--pch-storage=memory",
+//        "--limit-results=100"
+//    ],
+//    "enabled": true
+// }
+
+{
+   "selector": "source.c", // put here for c++ source.c++
+   "system_binary": "clangd",
+   "initializationOptions": {
+       "clangd.all-scopes-completion": true,
+       "clangd.background-index": true,
+       "clangd.background-index-priority": "normal",
+       "clangd.clang-tidy": true,
+       "clangd.function-arg-placeholders": true,
+       "clangd.enable-config": true,
+       "clangd.completion-style": "detailed",
+       "clangd.header-insertion-decorators": true,
+       "clangd.log": "error",
+       "clangd.pch-storage": "memory",
+       "clangd.compile-commands-dir": "/Users/karlosiric/",
+       "clangd.query-driver": "/opt/homebrew/bin/**/clang-*,/opt/homebrew/bin/**/g++-*",
+       "clangd.limit-results": 1000,
+       "fallbackFlags": [
+           "-Wall",
+           "-Wextra",
+           "-std=c17",
+           "-I/opt/homebrew/Cellar/mysql-client/9.2.0/include/mysql",
+           "-L/opt/homebrew/Cellar/mysql-client/9.2.0/lib",
+           "-lmysqlclient"
+       ]
+   },
+   "command": [
+       "clangd",
+       "--compile-commands-dir=/Users/karlosiric/",
+       "--query-driver=/usr/bin/**/clang-*,/opt/homebrew/bin/**/g++-*",
+       "--fallback-style=llvm",
+       "--header-insertion-decorators=1",
+       "--background-index",
+       "--log=error",
+       "--completion-style=detailed",
+       "--all-scopes-completion",
+       "--clang-tidy",
+       "--pch-storage=memory",
+       "--limit-results=1000",
+       "input-style=c",
+   ]
+}

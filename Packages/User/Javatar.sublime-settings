@@ -1,0 +1,68 @@
+{
+	"message_id": 20,
+	"project_data":
+	{
+		"4":
+		{
+			"debugger_configurations":
+			[
+				{
+					"args":
+					[
+					],
+					"cwd": "${folder}",
+					"name": "Tutorial9WhileLoops Problem",
+					"program": "${folder}/C_Basics/C_Portfolio_Tutorial/Tutorial9WhileLoops",
+					"request": "launch",
+					"stopOnEntry": false,
+					"type": "lldb",
+				},
+				{
+					"args":
+					[
+					],
+					"cwd": "${folder}",
+					"name": "Tutorial11WhileLoopsMore Problem",
+					"program": "${folder}/C_Basics/C_Portfolio_Tutorial/Tutorial11WhileLoopsMore",
+					"request": "launch",
+					"stopOnEntry": false,
+					"type": "lldb",
+				},
+				{
+					"args":
+					[
+					],
+					"cwd": "${folder}",
+					"name": "randomNumbersTest",
+					"program": "${folder}/randomNumbersTest",
+					"request": "launch",
+					"stopOnEntry": false,
+					"type": "lldb",
+				}
+			],
+			"folders":
+			[
+				{
+					"path": "~/Documents/SublimeText Programming/C_Sublime_Portfolio",
+				}
+			],
+		},
+		/*"8": null,*/
+		/*"9": null,*/
+		/*"10": null,*/
+	},
+	"jdk_version":
+	{
+		"JDK17.0.9":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home/bin",
+			"version": "17.0.9",
+		},
+		"use": "",
+	},
+	"dependencies":
+	[
+		"/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester/Tutoring_GCIS124",
+	],
+	"dependencies_path": "/Users/karlosiric/Desktop/University_Year_Two_2nd_Semester",
+}

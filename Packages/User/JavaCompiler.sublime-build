@@ -1,0 +1,14 @@
+{
+	
+	"target": "terminus_open",
+  	"shell_cmd": "sleep 20 && ls",
+	"title": "Terminus Build Results",
+	"auto_close": false,
+	"timeit": true,
+	"post_window_hooks": [ ["carry_file_to_pane", {"direction": "right"}] ],
+
+	"working_dir":"$file_path",
+
+	"shell_cmd": "javac $file_name && java $file_base_name"
+	
+}

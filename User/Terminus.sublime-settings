@@ -1,0 +1,36 @@
+{
+	"theme": "adaptive",
+	"256color": true,
+    "unix_term": "xterm-256color",
+	"min_columns": 40,
+    "max_columns": 1000,
+    "scrollback_history_size": 100,
+        "view_settings": {
+        // these are extra view settings which are passed to the terminus_view,
+        // you could change settings like "font_face", "font_size" and paddings.
+    	"font_size": 12,
+        // "font_face": "JetBrainsMono Nerd Font",
+        "font_face": "Liberation Mono",
+        "line_padding_bottom": 0,
+        "line_padding_top": 0,
+        // "draw_unicode_white_space": "none",
+        
+        
+    },
+    
+    
+    "shell_configs": [
+                {
+            "name": "Zsh",
+            "cmd": ["zsh", "-i"],
+            "env": {},
+            "enable": true,
+            "default": true,
+            "platforms": ["linux", "osx"],
+        },
+    ],
+    
+    
+                
+
+}
